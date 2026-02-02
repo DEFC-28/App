@@ -1,0 +1,26 @@
+=== SNI SCAN RESULT ===
+Scan ID: 5c3ee22ce4424abf
+Username: ROBHANE
+Date: 2026-02-01 22:20:20
+Timestamp: 1769977220079
+ISP: Mobile: Vodacom
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Test Duration: 0s
+Network ISP: Mobile: Vodacom
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: lionmatch.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
