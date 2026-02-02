@@ -1,0 +1,50 @@
+=== SNI SCAN RESULT ===
+Scan ID: 4b3aff11fa6446ea
+Username: ROBHANE
+Date: 2026-02-01 22:35:58
+Timestamp: 1769978158716
+ISP: Mobile: Vodacom
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Test Duration: 0s
+Network ISP: Mobile: Vodacom
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: topuniversities.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: renu.ac.ug
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: educationexpress.uts.edu.au
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: uniathena.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
