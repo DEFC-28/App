@@ -1,0 +1,58 @@
+=== SNI SCAN RESULT ===
+Scan ID: 32ff561b0cd9407c
+Username: Cristiano
+Date: 2026-02-01 22:37:00
+Timestamp: 1769978220013
+ISP: Mobile: VodaCom-SA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 5
+Failed: 0
+Success Rate: 100.0%
+Test Duration: 0s
+Network ISP: Mobile: VodaCom-SA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: oxbridgeacademy.edu.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: externalbursary.vodacom.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: mbhashemun.gov.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: thestudenthub.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 5 ---
+SNI: 104.21.85.84
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
