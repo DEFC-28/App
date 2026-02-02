@@ -1,0 +1,58 @@
+=== SNI SCAN RESULT ===
+Scan ID: a9ff309fefff4c31
+Username: ROBHANE
+Date: 2026-02-01 22:26:08
+Timestamp: 1769977568074
+ISP: Mobile: Vodacom
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 25.0%
+Test Duration: 0s
+Network ISP: Mobile: Vodacom
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: tvetcolleges.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: education-progress.org
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: math.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: ufs.hua.hrsmart.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 5 ---
+SNI: cursor.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
