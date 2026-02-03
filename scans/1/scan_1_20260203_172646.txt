@@ -1,0 +1,18 @@
+=== SNI SCAN RESULT ===
+Scan ID: 0a7eea090d2d4549
+Username: 1
+Date: 2026-02-03 17:18:01
+Timestamp: 1770131881345
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Test Duration: 0s
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+=== END OF SCAN ===
