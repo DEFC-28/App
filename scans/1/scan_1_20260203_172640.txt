@@ -1,0 +1,26 @@
+=== SNI SCAN RESULT ===
+Scan ID: 9393a04b9d534892
+Username: 1
+Date: 2026-02-01 21:07:35
+Timestamp: 1769972855523
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Test Duration: 0s
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: yu
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
