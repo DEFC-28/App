@@ -1,0 +1,65 @@
+=== SNI SCAN RESULT ===
+Scan ID: 3929ec03c7c24651
+Username: 1
+Date: 2026-02-05 20:42:57
+Timestamp: 1770316977861
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 8
+Failed: 0
+Success Rate: 66.67%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: gscollege.edu.za
+Status: YES
+
+--- Result 2 ---
+SNI: vuselelacollege.co.za
+Status: YES
+
+--- Result 3 ---
+SNI: waterbergcollege.co.za
+Status: YES
+
+--- Result 4 ---
+SNI: cjc.edu.za
+Status: YES
+
+--- Result 5 ---
+SNI: umfolozicollege.co.za
+Status: YES
+
+--- Result 6 ---
+SNI: tvetcolleges.co.za
+Status: YES
+
+--- Result 7 ---
+SNI: mthashanacollege.co.za
+Status: YES
+
+--- Result 8 ---
+SNI: ehlanzenicollege.co.za
+Status: YES
+
+--- Result 9 ---
+SNI: tenfold.africa
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: druid.cut.ac.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: myregent.ac.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: ethuto.cut.ac.za
+Status: BLOCKED
+
+=== END OF SCAN ===
