@@ -1,0 +1,30 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-02-05 20:42:57
+Number of SNIs tested: 12
+ISP used: Mobile: MTNSA
+Successful count: 8
+Success rate: 66.7%
+Scan ID: 3a9ad781-2a4
+Username: 1
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+gscollege.edu.za
+vuselelacollege.co.za
+waterbergcollege.co.za
+cjc.edu.za
+umfolozicollege.co.za
+tvetcolleges.co.za
+mthashanacollege.co.za
+ehlanzenicollege.co.za
+tenfold.africa
+druid.cut.ac.za
+myregent.ac.za
+ethuto.cut.ac.za
+
+=== METADATA ===
+File saved at: Thu Feb 05 20:42:57 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/1/scan60_1_20260205_204257_33a1e991.txt
+File size: 669 bytes
+Status: PENDING_UPLOAD
+=================================
