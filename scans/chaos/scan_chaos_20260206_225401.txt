@@ -1,0 +1,26 @@
+=== SNI SCAN RESULT ===
+Scan ID: c910e921495f4d59
+Username: chaos
+Date: 2026-02-01 22:09:12
+Timestamp: 1769976552249
+ISP: Mobile: MTN-SA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Test Duration: 0s
+Network ISP: Mobile: MTN-SA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: g
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
