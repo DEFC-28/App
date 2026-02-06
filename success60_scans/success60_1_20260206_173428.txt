@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-02-06 14:43:40
+Number of SNIs tested: 1
+ISP used: Mobile: MTNSA
+Successful count: 1
+Success rate: 100.0%
+Scan ID: c06de56a-1b8
+Username: 1
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+cjc.edu.za
+
+=== METADATA ===
+File saved at: Fri Feb 06 14:43:40 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/1/scan60_1_20260206_144340_1f472225.txt
+File size: 457 bytes
+Status: PENDING_UPLOAD
+=================================
