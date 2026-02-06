@@ -1,0 +1,13 @@
+[
+  {
+    "username": "Ethan",
+    "email": null,
+    "phone": "+270461119467",
+    "squad": "Trs",
+    "registeredAt": 1770411592968,
+    "expiresAt": 1770411891486,
+    "ipAddress": "51.68.184.211",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
+  }
+]
