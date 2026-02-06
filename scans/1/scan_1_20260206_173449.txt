@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 8aff1f2d7b934c9b
+Username: 1
+Date: 2026-02-06 17:17:29
+Timestamp: 1770391049515
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: cjc.edu.za
+Status: BLOCKED
+
+=== END OF SCAN ===
