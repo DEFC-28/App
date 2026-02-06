@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "username": "Ethan",
+    "key": "LTKWIQYJUQYEZ6ZU",
+    "expiresAt": 1770411891486,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770411592972,
+    "registrationSource": "web_portal",
+    "squad": "Trs"
+  }
+]
