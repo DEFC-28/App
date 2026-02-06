@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "username": "Chaos1",
+    "key": "YARVFW8782UPYQDA",
+    "expiresAt": 1770416899733,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770416612736,
+    "registrationSource": "web_portal",
+    "squad": null
+  }
+]
