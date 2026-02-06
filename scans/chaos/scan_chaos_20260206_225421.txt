@@ -1,0 +1,114 @@
+=== SNI SCAN RESULT ===
+Scan ID: dc91b416c3e046b1
+Username: chaos
+Date: 2026-02-05 21:41:10
+Timestamp: 1770320470166
+ISP: Mobile: MTN-SA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Test Duration: 0s
+Network ISP: Mobile: MTN-SA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: druid.cut.ac.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: gscollege.edu.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: mthashanacollege.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: ehlanzenicollege.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 5 ---
+SNI: waterbergcollege.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 6 ---
+SNI: vuselelacollege.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 7 ---
+SNI: myregent.ac.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 8 ---
+SNI: tvetcolleges.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 9 ---
+SNI: umfolozicollege.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 10 ---
+SNI: tenfold.africa
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 11 ---
+SNI: cjc.edu.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 12 ---
+SNI: ethuto.cut.ac.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
