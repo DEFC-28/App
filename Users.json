@@ -18,5 +18,15 @@
     "createdAt": 1770439436232,
     "registrationSource": "web_portal",
     "squad": "None"
+  },
+  {
+    "username": "Kaylah",
+    "key": "QRPK8NTCRD174FO8",
+    "expiresAt": 1770439947465,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770439648783,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
