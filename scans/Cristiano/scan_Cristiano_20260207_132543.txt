@@ -1,0 +1,50 @@
+=== SNI SCAN RESULT ===
+Scan ID: 3d5b0af60c574221
+Username: Cristiano
+Date: 2026-02-07 13:04:41
+Timestamp: 1770462281868
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 4
+Failed: 0
+Success Rate: 0.0%
+Test Duration: 0s
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: stratus.unisa.ac.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: www2.unisa.ac.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: eportfolio.unisa.ac.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: assignalt.unisa.ac.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
