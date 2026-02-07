@@ -38,5 +38,15 @@
     "createdAt": 1770443670427,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "Nakhan",
+    "key": "6I6SXQYJKPAJ9323",
+    "expiresAt": 1770494048058,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770493751929,
+    "registrationSource": "web_portal",
+    "squad": "Trs"
   }
 ]
