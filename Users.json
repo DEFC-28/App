@@ -48,5 +48,15 @@
     "createdAt": 1770493751929,
     "registrationSource": "web_portal",
     "squad": "Trs"
+  },
+  {
+    "username": "Username",
+    "key": "2B43TC2AZNWE0USJ",
+    "expiresAt": 1770498830306,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770498532825,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
