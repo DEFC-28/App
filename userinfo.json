@@ -53,5 +53,16 @@
     "ipAddress": "160.119.251.15",
     "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Nakhan",
+    "email": "scottiekiid@gmail.com",
+    "phone": "+27785028986",
+    "squad": "Trs",
+    "registeredAt": 1770493751926,
+    "expiresAt": 1770494048058,
+    "ipAddress": "185.88.36.237",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
