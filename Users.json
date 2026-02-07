@@ -28,5 +28,15 @@
     "createdAt": 1770439648783,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "TribalChief",
+    "key": "DINWJZ69UX9GJDCC",
+    "expiresAt": 1770443968911,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770443670427,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
