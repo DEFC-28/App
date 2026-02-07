@@ -1,0 +1,50 @@
+=== SNI SCAN RESULT ===
+Scan ID: 053de16477864f49
+Username: Cristiano
+Date: 2026-02-07 12:46:42
+Timestamp: 1770461202252
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 4
+Failed: 0
+Success Rate: 100.0%
+Test Duration: 0s
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: rosebankcollege.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: vuselelacollege.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: cut.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: thestudenthub.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
