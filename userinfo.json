@@ -64,5 +64,16 @@
     "ipAddress": "185.88.36.237",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Username",
+    "email": null,
+    "phone": "+27718062202",
+    "squad": null,
+    "registeredAt": 1770498532824,
+    "expiresAt": 1770498830306,
+    "ipAddress": "103.195.100.203",
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; Hisense E60 Build/RP1A.201005.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
