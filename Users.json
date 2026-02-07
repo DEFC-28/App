@@ -58,5 +58,15 @@
     "createdAt": 1770498532825,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "2kela",
+    "key": "REBFDYAXRJGRO237",
+    "expiresAt": 1770499626163,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770499328184,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
