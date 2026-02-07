@@ -1,0 +1,3933 @@
+=== SNI SCAN RESULT ===
+Scan ID: 69f4e9f20e0545be
+Username: Kaylah
+Date: 2026-02-07 06:53:50
+Timestamp: 1770440030631
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 11
+Failed: 0
+Success Rate: 1.13%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: mthashanacollege.co.za
+Status: YES
+
+--- Result 2 ---
+SNI: waterbergcollege.co.za
+Status: YES
+
+--- Result 3 ---
+SNI: tvetcolleges.co.za
+Status: YES
+
+--- Result 4 ---
+SNI: cjc.edu.za
+Status: YES
+
+--- Result 5 ---
+SNI: vuselelacollege.co.za
+Status: YES
+
+--- Result 6 ---
+SNI: ehlanzenicollege.co.za
+Status: YES
+
+--- Result 7 ---
+SNI: umfolozicollege.co.za
+Status: YES
+
+--- Result 8 ---
+SNI: upnet.up.ac.za
+Status: YES
+
+--- Result 9 ---
+SNI: ulwazi.wits.ac.za
+Status: YES
+
+--- Result 10 ---
+SNI: gscollege.edu.za
+Status: YES
+
+--- Result 11 ---
+SNI: elangeni.edu.za
+Status: YES
+
+--- Result 12 ---
+SNI: pecollege.edu.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: orbitcollege.co.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: africanstorybook.org
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: app.tut.ac.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: education.gov.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: submissions.uwc.ac.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: myuwc.ac.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: univendspace.univen.ac.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: tlztest.dut.ac.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: ezproxy.uwc.ac.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: ntc.edu.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: studentdocumentupload.uwc.ac.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: edu.limpopo.gov.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: thekwinicollege.co.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: mytutor.tut.ac.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: westcol.co.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: westcoastcollege.co.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: lms.saben.ac.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: ecexams.co.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: mpumalanga.gov.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: online.ukznextendedlearning.co.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: sacoronavirus.co.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: 2simple.com
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: tsc.edu.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: connect.cut.ac.za
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: tkplib01.tut.ac.za
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: gauteng.gov.za
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: ecdoe.co.za
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: ewc.edu.za
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: khanacademy.org
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: apply.umceli.com
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: cup.co.za
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: emcol.co.za
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: ethuto.cut.ac.za
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: kzneducation.gov.za
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: dbecloud.org.za
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: xh.khanacademy.org
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: kznfunda.kzndoe.gov.za
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: uwcarticles.uwc.ac.za
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: viaafrika.com
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: bolandcollege.com
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: webmail.doe.gov.za
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: zu.khanacademy.org
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: education.fs.gov.za
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: gscoltech.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: capsradio.co.za
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: taletso.edu.za
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: swgc.co.za
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: univen.ac.za
+Status: BLOCKED
+
+--- Result 61 ---
+SNI: tnc.edu.za
+Status: BLOCKED
+
+--- Result 62 ---
+SNI: xander.co.za
+Status: BLOCKED
+
+--- Result 63 ---
+SNI: elearning.dut.ac.za
+Status: BLOCKED
+
+--- Result 64 ---
+SNI: nccetc.edu.za
+Status: BLOCKED
+
+--- Result 65 ---
+SNI: worksheetcloud.com
+Status: BLOCKED
+
+--- Result 66 ---
+SNI: ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 67 ---
+SNI: exampapers.dut.ac.za.dutlib.dut.ac.za
+Status: BLOCKED
+
+--- Result 68 ---
+SNI: wcedeportal.co.za
+Status: BLOCKED
+
+--- Result 69 ---
+SNI: smarthet.dhet.gov.za
+Status: BLOCKED
+
+--- Result 70 ---
+SNI: gdeadmissions.gov.za
+Status: BLOCKED
+
+--- Result 71 ---
+SNI: mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 72 ---
+SNI: wcedctli.co.za
+Status: BLOCKED
+
+--- Result 73 ---
+SNI: goldfieldstvet.edu.za
+Status: BLOCKED
+
+--- Result 74 ---
+SNI: ncutvet.edu.za
+Status: BLOCKED
+
+--- Result 75 ---
+SNI: moodle.bolandcollege.com
+Status: BLOCKED
+
+--- Result 76 ---
+SNI: vadea.viaafrika.com
+Status: BLOCKED
+
+--- Result 77 ---
+SNI: gsquiz.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 78 ---
+SNI: ufetc.edu.za
+Status: BLOCKED
+
+--- Result 79 ---
+SNI: ingwecollege.edu.za
+Status: BLOCKED
+
+--- Result 80 ---
+SNI: wsu.ac.za
+Status: BLOCKED
+
+--- Result 81 ---
+SNI: class.motheotvet.co.za
+Status: BLOCKED
+
+--- Result 82 ---
+SNI: vhembecollege.edu.za
+Status: BLOCKED
+
+--- Result 83 ---
+SNI: sccollege.co.za
+Status: BLOCKED
+
+--- Result 84 ---
+SNI: uwc.ac.za
+Status: BLOCKED
+
+--- Result 85 ---
+SNI: dhet.gov.za
+Status: BLOCKED
+
+--- Result 86 ---
+SNI: repository.uwc.ac.za
+Status: BLOCKED
+
+--- Result 87 ---
+SNI: vut-research.ac.za
+Status: BLOCKED
+
+--- Result 88 ---
+SNI: wcedeteacher.wixsite.com
+Status: BLOCKED
+
+--- Result 89 ---
+SNI: univenien.univen.ac.za
+Status: BLOCKED
+
+--- Result 90 ---
+SNI: efet.co.za
+Status: BLOCKED
+
+--- Result 91 ---
+SNI: student.cut.ac.za
+Status: BLOCKED
+
+--- Result 92 ---
+SNI: cut-fs.zoom.us
+Status: BLOCKED
+
+--- Result 93 ---
+SNI: moodle.mcollege.co.za
+Status: BLOCKED
+
+--- Result 94 ---
+SNI: tlzdev.dut.ac.za
+Status: BLOCKED
+
+--- Result 95 ---
+SNI: motheotvet.co.za
+Status: BLOCKED
+
+--- Result 96 ---
+SNI: wwwapp1.tut.ac.za
+Status: BLOCKED
+
+--- Result 97 ---
+SNI: ncrtvet.com
+Status: BLOCKED
+
+--- Result 98 ---
+SNI: etd.uwc.ac.za
+Status: BLOCKED
+
+--- Result 99 ---
+SNI: snapplify.com
+Status: BLOCKED
+
+--- Result 100 ---
+SNI: falsebaycollege.co.za
+Status: BLOCKED
+
+--- Result 101 ---
+SNI: falsebay.bblearn.co.za
+Status: BLOCKED
+
+--- Result 102 ---
+SNI: zwaanswyk.net
+Status: BLOCKED
+
+--- Result 103 ---
+SNI: vut.blackboard.com
+Status: BLOCKED
+
+--- Result 104 ---
+SNI: thekwini.edu.za
+Status: BLOCKED
+
+--- Result 105 ---
+SNI: wil.dut.ac.za
+Status: BLOCKED
+
+--- Result 106 ---
+SNI: ikhala.edu.za
+Status: BLOCKED
+
+--- Result 107 ---
+SNI: vut.ac.za
+Status: BLOCKED
+
+--- Result 108 ---
+SNI: student.uwc.ac.za
+Status: BLOCKED
+
+--- Result 109 ---
+SNI: lib.uwc.ac.za
+Status: BLOCKED
+
+--- Result 110 ---
+SNI: intranet.dhet.gov.za
+Status: BLOCKED
+
+--- Result 111 ---
+SNI: surveys.dut.ac.za
+Status: BLOCKED
+
+--- Result 112 ---
+SNI: cut.ac.za
+Status: BLOCKED
+
+--- Result 113 ---
+SNI: greytownhigh.co.za
+Status: BLOCKED
+
+--- Result 114 ---
+SNI: gsc4me.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 115 ---
+SNI: dutstudent.dut.ac.za
+Status: BLOCKED
+
+--- Result 116 ---
+SNI: vulabula.molteno.co.za
+Status: BLOCKED
+
+--- Result 117 ---
+SNI: library.dut.ac.za
+Status: BLOCKED
+
+--- Result 118 ---
+SNI: effinghamsecondary.co.za
+Status: BLOCKED
+
+--- Result 119 ---
+SNI: dbecontent.bhelela.com
+Status: BLOCKED
+
+--- Result 120 ---
+SNI: coastalkzn.co.za
+Status: BLOCKED
+
+--- Result 121 ---
+SNI: flaviusmareka.net
+Status: BLOCKED
+
+--- Result 122 ---
+SNI: careerhelp.org.za
+Status: BLOCKED
+
+--- Result 123 ---
+SNI: educationcloud.co.za
+Status: BLOCKED
+
+--- Result 124 ---
+SNI: eccurriculum.co.za
+Status: BLOCKED
+
+--- Result 125 ---
+SNI: libanswers.dut.ac.za
+Status: BLOCKED
+
+--- Result 126 ---
+SNI: ukznextendedlearning.com
+Status: BLOCKED
+
+--- Result 127 ---
+SNI: vpn.wsu.ac.za
+Status: BLOCKED
+
+--- Result 128 ---
+SNI: malutitvet.co.za
+Status: BLOCKED
+
+--- Result 129 ---
+SNI: jeppegirls.co.za
+Status: BLOCKED
+
+--- Result 130 ---
+SNI: eec.edu.za
+Status: BLOCKED
+
+--- Result 131 ---
+SNI: turnitin.uwc.ac.za
+Status: BLOCKED
+
+--- Result 132 ---
+SNI: gssms.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 133 ---
+SNI: blhs.co.za
+Status: BLOCKED
+
+--- Result 134 ---
+SNI: gcetc.edu.za
+Status: BLOCKED
+
+--- Result 135 ---
+SNI: ezproxy.cut.ac.za
+Status: BLOCKED
+
+--- Result 136 ---
+SNI: glenashleyprep.co.za
+Status: BLOCKED
+
+--- Result 137 ---
+SNI: bpsonline.co.za
+Status: BLOCKED
+
+--- Result 138 ---
+SNI: journals.dut.ac.za
+Status: BLOCKED
+
+--- Result 139 ---
+SNI: nioh.ac.za
+Status: BLOCKED
+
+--- Result 140 ---
+SNI: martieduplessis.co.za
+Status: BLOCKED
+
+--- Result 141 ---
+SNI: myuniven.univen.ac.za
+Status: BLOCKED
+
+--- Result 142 ---
+SNI: library.vut.ac.za
+Status: BLOCKED
+
+--- Result 143 ---
+SNI: tvet-lecturer-support.co.za
+Status: BLOCKED
+
+--- Result 144 ---
+SNI: keg.edgebase.co.za
+Status: BLOCKED
+
+--- Result 145 ---
+SNI: libcat.dut.ac.za
+Status: BLOCKED
+
+--- Result 146 ---
+SNI: studmail.wsu.ac.za
+Status: BLOCKED
+
+--- Result 147 ---
+SNI: openbooks.dut.ac.za
+Status: BLOCKED
+
+--- Result 148 ---
+SNI: laerskoolashton.co.za
+Status: BLOCKED
+
+--- Result 149 ---
+SNI: mypassword.uwc.ac.za
+Status: BLOCKED
+
+--- Result 150 ---
+SNI: moodlevut.vut.ac.za
+Status: BLOCKED
+
+--- Result 151 ---
+SNI: libguides.dut.ac.za
+Status: BLOCKED
+
+--- Result 152 ---
+SNI: servicedesk.mut.ac.za
+Status: BLOCKED
+
+--- Result 153 ---
+SNI: nols.gov.za
+Status: BLOCKED
+
+--- Result 154 ---
+SNI: schools.sun.ac.za
+Status: BLOCKED
+
+--- Result 155 ---
+SNI: mathsbuddy.co.za
+Status: BLOCKED
+
+--- Result 156 ---
+SNI: eschool.itvarsity.org
+Status: BLOCKED
+
+--- Result 157 ---
+SNI: univen9.univen.ac.za
+Status: BLOCKED
+
+--- Result 158 ---
+SNI: lib.tut.ac.za
+Status: BLOCKED
+
+--- Result 159 ---
+SNI: esayidifet.co.za
+Status: BLOCKED
+
+--- Result 160 ---
+SNI: wcedonline.westerncape.gov.za
+Status: BLOCKED
+
+--- Result 161 ---
+SNI: bccollege.co.za
+Status: BLOCKED
+
+--- Result 162 ---
+SNI: desd.nwpg.gov.za
+Status: BLOCKED
+
+--- Result 163 ---
+SNI: letcol.co.za
+Status: BLOCKED
+
+--- Result 164 ---
+SNI: ncap.careerhelp.org.za
+Status: BLOCKED
+
+--- Result 165 ---
+SNI: ncdoe.ncpg.gov.za
+Status: BLOCKED
+
+--- Result 166 ---
+SNI: nomaswazionline.org.za
+Status: BLOCKED
+
+--- Result 167 ---
+SNI: lovedalecollege.co.za
+Status: BLOCKED
+
+--- Result 168 ---
+SNI: sps.org.za
+Status: BLOCKED
+
+--- Result 169 ---
+SNI: moodle.zeekoevleiss.co.za
+Status: BLOCKED
+
+--- Result 170 ---
+SNI: alfalaah.itsi.mobi
+Status: BLOCKED
+
+--- Result 171 ---
+SNI: starofthesea.co.za
+Status: BLOCKED
+
+--- Result 172 ---
+SNI: reitzhs.co.za
+Status: BLOCKED
+
+--- Result 173 ---
+SNI: ukznextendedlearning.co.za
+Status: BLOCKED
+
+--- Result 174 ---
+SNI: kinghintsacollege.edu.za
+Status: BLOCKED
+
+--- Result 175 ---
+SNI: rosehillprimary.co.za
+Status: BLOCKED
+
+--- Result 176 ---
+SNI: hsmontana.co.za
+Status: BLOCKED
+
+--- Result 177 ---
+SNI: ikamvaquiz.uwc.ac.za
+Status: BLOCKED
+
+--- Result 178 ---
+SNI: lgns.co.za
+Status: BLOCKED
+
+--- Result 179 ---
+SNI: maths.gsed.co.za
+Status: BLOCKED
+
+--- Result 180 ---
+SNI: k2app.tut.ac.za
+Status: BLOCKED
+
+--- Result 181 ---
+SNI: capricorncollege.edu.za
+Status: BLOCKED
+
+--- Result 182 ---
+SNI: wbhs.co.za
+Status: BLOCKED
+
+--- Result 183 ---
+SNI: learning.bishops.org.za
+Status: BLOCKED
+
+--- Result 184 ---
+SNI: wiseup.wsu.ac.za
+Status: BLOCKED
+
+--- Result 185 ---
+SNI: mnambithicollege.co.za
+Status: BLOCKED
+
+--- Result 186 ---
+SNI: ienabler.spu.ac.za
+Status: BLOCKED
+
+--- Result 187 ---
+SNI: smartdbe.doe.gov.za
+Status: BLOCKED
+
+--- Result 188 ---
+SNI: 2enable.org
+Status: BLOCKED
+
+--- Result 189 ---
+SNI: spu.ac.za
+Status: BLOCKED
+
+--- Result 190 ---
+SNI: ruconnected.ru.ac.za
+Status: BLOCKED
+
+--- Result 191 ---
+SNI: my.nsfas.org.za
+Status: BLOCKED
+
+--- Result 192 ---
+SNI: repository.nwu.ac.za
+Status: BLOCKED
+
+--- Result 193 ---
+SNI: phoenixmuslimschool.co.za
+Status: BLOCKED
+
+--- Result 194 ---
+SNI: wwwapps.tut.ac.za
+Status: BLOCKED
+
+--- Result 195 ---
+SNI: ec.tut.ac.za
+Status: BLOCKED
+
+--- Result 196 ---
+SNI: connect.nwu.ac.za
+Status: BLOCKED
+
+--- Result 197 ---
+SNI: nw.cetc.edu.za
+Status: BLOCKED
+
+--- Result 198 ---
+SNI: motheo.4ir.online
+Status: BLOCKED
+
+--- Result 199 ---
+SNI: mutelearn.mut.ac.za
+Status: BLOCKED
+
+--- Result 200 ---
+SNI: lscenturion.co.za
+Status: BLOCKED
+
+--- Result 201 ---
+SNI: imap.nwu.ac.za
+Status: BLOCKED
+
+--- Result 202 ---
+SNI: tutprodi4ie.tut.ac.za
+Status: BLOCKED
+
+--- Result 203 ---
+SNI: prospectus.uwc.ac.za
+Status: BLOCKED
+
+--- Result 204 ---
+SNI: majuba.edu.za
+Status: BLOCKED
+
+--- Result 205 ---
+SNI: cedara.studentmanager.co.za
+Status: BLOCKED
+
+--- Result 206 ---
+SNI: sbfadmissions.uwc.ac.za
+Status: BLOCKED
+
+--- Result 207 ---
+SNI: ehs.org.za
+Status: BLOCKED
+
+--- Result 208 ---
+SNI: courses.limina.co.za
+Status: BLOCKED
+
+--- Result 209 ---
+SNI: elsenburg.com
+Status: BLOCKED
+
+--- Result 210 ---
+SNI: settlers.org.za
+Status: BLOCKED
+
+--- Result 211 ---
+SNI: gscollege.co.za
+Status: BLOCKED
+
+--- Result 212 ---
+SNI: openscholar.dut.ac.za
+Status: BLOCKED
+
+--- Result 213 ---
+SNI: studlms.ncrtvet.co.za
+Status: BLOCKED
+
+--- Result 214 ---
+SNI: higherhealth.ac.za
+Status: BLOCKED
+
+--- Result 215 ---
+SNI: ingwecollegelms.co.za
+Status: BLOCKED
+
+--- Result 216 ---
+SNI: hillaryprimary.co.za
+Status: BLOCKED
+
+--- Result 217 ---
+SNI: ikamva.uwc.ac.za
+Status: BLOCKED
+
+--- Result 218 ---
+SNI: v-vgw-nlx6.v.nwu.ac.za
+Status: BLOCKED
+
+--- Result 219 ---
+SNI: mob.nwu.ac.za
+Status: BLOCKED
+
+--- Result 220 ---
+SNI: northlink.co.za
+Status: BLOCKED
+
+--- Result 221 ---
+SNI: ngwnameserver2.nwu.ac.za
+Status: BLOCKED
+
+--- Result 222 ---
+SNI: tutresource.tut.ac.za
+Status: BLOCKED
+
+--- Result 223 ---
+SNI: apollo.alexhigh.org.za
+Status: BLOCKED
+
+--- Result 224 ---
+SNI: cdn-lnx1.nwu.ac.za
+Status: BLOCKED
+
+--- Result 225 ---
+SNI: tlzprod.dut.ac.za
+Status: BLOCKED
+
+--- Result 226 ---
+SNI: sedcol.co.za
+Status: BLOCKED
+
+--- Result 227 ---
+SNI: law.nwu.ac.za
+Status: BLOCKED
+
+--- Result 228 ---
+SNI: jbossprd.nwu.ac.za
+Status: BLOCKED
+
+--- Result 229 ---
+SNI: commerce.nwu.ac.za
+Status: BLOCKED
+
+--- Result 230 ---
+SNI: hsheidelberg.co.za
+Status: BLOCKED
+
+--- Result 231 ---
+SNI: nextcloud.nwu.ac.za
+Status: BLOCKED
+
+--- Result 232 ---
+SNI: nicomalan.co.za
+Status: BLOCKED
+
+--- Result 233 ---
+SNI: intranet.tut.ac.za
+Status: BLOCKED
+
+--- Result 234 ---
+SNI: cct.edu.za
+Status: BLOCKED
+
+--- Result 235 ---
+SNI: sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 236 ---
+SNI: mut.ac.za
+Status: BLOCKED
+
+--- Result 237 ---
+SNI: studies.nwu.ac.za
+Status: BLOCKED
+
+--- Result 238 ---
+SNI: mercury.dut.ac.za
+Status: BLOCKED
+
+--- Result 239 ---
+SNI: fileserve.nsfas.org.za
+Status: BLOCKED
+
+--- Result 240 ---
+SNI: techteachers.co.za
+Status: BLOCKED
+
+--- Result 241 ---
+SNI: hydepark.gp.school.za
+Status: BLOCKED
+
+--- Result 242 ---
+SNI: humanities.nwu.ac.za
+Status: BLOCKED
+
+--- Result 243 ---
+SNI: ross.ru.ac.za
+Status: BLOCKED
+
+--- Result 244 ---
+SNI: staff.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 245 ---
+SNI: htswelkom.co.za
+Status: BLOCKED
+
+--- Result 246 ---
+SNI: greytownjunior.co.za
+Status: BLOCKED
+
+--- Result 247 ---
+SNI: leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 248 ---
+SNI: wjps.co.za
+Status: BLOCKED
+
+--- Result 249 ---
+SNI: saml.uwc.ac.za
+Status: BLOCKED
+
+--- Result 250 ---
+SNI: tut.ac.za
+Status: BLOCKED
+
+--- Result 251 ---
+SNI: victoriaprimary.co.za
+Status: BLOCKED
+
+--- Result 252 ---
+SNI: learning.bishopsprep.org.za
+Status: BLOCKED
+
+--- Result 253 ---
+SNI: vpn.nwu.ac.za
+Status: BLOCKED
+
+--- Result 254 ---
+SNI: mutmoodle.mut.ac.za
+Status: BLOCKED
+
+--- Result 255 ---
+SNI: fortcox.studentmanager.co.za
+Status: BLOCKED
+
+--- Result 256 ---
+SNI: boyshigh.com
+Status: BLOCKED
+
+--- Result 257 ---
+SNI: v-pgw-nlx11.p.nwu.ac.za
+Status: BLOCKED
+
+--- Result 258 ---
+SNI: sacob.com
+Status: BLOCKED
+
+--- Result 259 ---
+SNI: mob2.nwu.ac.za
+Status: BLOCKED
+
+--- Result 260 ---
+SNI: learningzone.oxford.co.za
+Status: BLOCKED
+
+--- Result 261 ---
+SNI: workflowprd.nwu.ac.za
+Status: BLOCKED
+
+--- Result 262 ---
+SNI: libguides.nwu.ac.za
+Status: BLOCKED
+
+--- Result 263 ---
+SNI: nwulib.nwu.ac.za
+Status: BLOCKED
+
+--- Result 264 ---
+SNI: password.uct.ac.za
+Status: BLOCKED
+
+--- Result 265 ---
+SNI: bigblue2.uwc.ac.za
+Status: BLOCKED
+
+--- Result 266 ---
+SNI: nwu.ac.za
+Status: BLOCKED
+
+--- Result 267 ---
+SNI: tendopro.co.za
+Status: BLOCKED
+
+--- Result 268 ---
+SNI: msldap.uct.ac.za
+Status: BLOCKED
+
+--- Result 269 ---
+SNI: openc-hap-lnx1.nwu.ac.za
+Status: BLOCKED
+
+--- Result 270 ---
+SNI: live-gpnc.apps.net.za
+Status: BLOCKED
+
+--- Result 271 ---
+SNI: zwaanswykhighschool.co.za
+Status: BLOCKED
+
+--- Result 272 ---
+SNI: payonline.uct.ac.za
+Status: BLOCKED
+
+--- Result 273 ---
+SNI: v-pgw-nlx10.p.nwu.ac.za
+Status: BLOCKED
+
+--- Result 274 ---
+SNI: diyservices.nwu.ac.za
+Status: BLOCKED
+
+--- Result 275 ---
+SNI: pass.mut.ac.za
+Status: BLOCKED
+
+--- Result 276 ---
+SNI: journals.uct.ac.za
+Status: BLOCKED
+
+--- Result 277 ---
+SNI: nsfas.org.za
+Status: BLOCKED
+
+--- Result 278 ---
+SNI: health-sciences.nwu.ac.za
+Status: BLOCKED
+
+--- Result 279 ---
+SNI: work.student.elsenburg.com
+Status: BLOCKED
+
+--- Result 280 ---
+SNI: mail.mut.ac.za
+Status: BLOCKED
+
+--- Result 281 ---
+SNI: ngwnameserver.nwu.ac.za
+Status: BLOCKED
+
+--- Result 282 ---
+SNI: mysedcol.co.za
+Status: BLOCKED
+
+--- Result 283 ---
+SNI: izinganeradio.com
+Status: BLOCKED
+
+--- Result 284 ---
+SNI: os.tut.ac.za
+Status: BLOCKED
+
+--- Result 285 ---
+SNI: mob3.nwu.ac.za
+Status: BLOCKED
+
+--- Result 286 ---
+SNI: spu.remotexs.co
+Status: BLOCKED
+
+--- Result 287 ---
+SNI: graemecollege.co.za
+Status: BLOCKED
+
+--- Result 288 ---
+SNI: news.hselspark.co.za
+Status: BLOCKED
+
+--- Result 289 ---
+SNI: services.nwu.ac.za
+Status: BLOCKED
+
+--- Result 290 ---
+SNI: riebeekcollege.co.za
+Status: BLOCKED
+
+--- Result 291 ---
+SNI: shib.nwu.ac.za
+Status: BLOCKED
+
+--- Result 292 ---
+SNI: tut4life.tut.ac.za
+Status: BLOCKED
+
+--- Result 293 ---
+SNI: efundi.nwu.ac.za
+Status: BLOCKED
+
+--- Result 294 ---
+SNI: student-web.elsenburg.com
+Status: BLOCKED
+
+--- Result 295 ---
+SNI: brettonwoodhighschool.co.za
+Status: BLOCKED
+
+--- Result 296 ---
+SNI: news.nwu.ac.za
+Status: BLOCKED
+
+--- Result 297 ---
+SNI: lilithacollege.co.za
+Status: BLOCKED
+
+--- Result 298 ---
+SNI: health.nwpg.gov.za
+Status: BLOCKED
+
+--- Result 299 ---
+SNI: moodle.sacob.com
+Status: BLOCKED
+
+--- Result 300 ---
+SNI: application.nsfas.org.za
+Status: BLOCKED
+
+--- Result 301 ---
+SNI: futuremanagers.com
+Status: BLOCKED
+
+--- Result 302 ---
+SNI: sierra.nwu.ac.za
+Status: BLOCKED
+
+--- Result 303 ---
+SNI: intranet.nwu.ac.za
+Status: BLOCKED
+
+--- Result 304 ---
+SNI: casprd.nwu.ac.za
+Status: BLOCKED
+
+--- Result 305 ---
+SNI: meeting.uct.ac.za
+Status: BLOCKED
+
+--- Result 306 ---
+SNI: dut.ac.za
+Status: BLOCKED
+
+--- Result 307 ---
+SNI: v-mob-nlx1.p.nwu.ac.za
+Status: BLOCKED
+
+--- Result 308 ---
+SNI: learn.spu.ac.za
+Status: BLOCKED
+
+--- Result 309 ---
+SNI: potchagricollege.co.za
+Status: BLOCKED
+
+--- Result 310 ---
+SNI: hansmoore.co.za
+Status: BLOCKED
+
+--- Result 311 ---
+SNI: webmail.ru.ac.za
+Status: BLOCKED
+
+--- Result 312 ---
+SNI: registration.uj.ac.za
+Status: BLOCKED
+
+--- Result 313 ---
+SNI: library.nwu.ac.za
+Status: BLOCKED
+
+--- Result 314 ---
+SNI: apps.nwu.ac.za
+Status: BLOCKED
+
+--- Result 315 ---
+SNI: learn.nwu.ac.za
+Status: BLOCKED
+
+--- Result 316 ---
+SNI: regchat.uj.ac.za
+Status: BLOCKED
+
+--- Result 317 ---
+SNI: laerskoolbakenkop.co.za
+Status: BLOCKED
+
+--- Result 318 ---
+SNI: web.nwu.ac.za
+Status: BLOCKED
+
+--- Result 319 ---
+SNI: collections.nwu.ac.za
+Status: BLOCKED
+
+--- Result 320 ---
+SNI: natural-sciences.nwu.ac.za
+Status: BLOCKED
+
+--- Result 321 ---
+SNI: potchagric.studentmanager.co.za
+Status: BLOCKED
+
+--- Result 322 ---
+SNI: api.mysedcol.co.za
+Status: BLOCKED
+
+--- Result 323 ---
+SNI: hybridlearning.co.za
+Status: BLOCKED
+
+--- Result 324 ---
+SNI: ict.ru.ac.za
+Status: BLOCKED
+
+--- Result 325 ---
+SNI: webwork.uj.ac.za
+Status: BLOCKED
+
+--- Result 326 ---
+SNI: gadi.agric.za
+Status: BLOCKED
+
+--- Result 327 ---
+SNI: bpm.nsfas.org.za
+Status: BLOCKED
+
+--- Result 328 ---
+SNI: apps.unisa.ac.za
+Status: BLOCKED
+
+--- Result 329 ---
+SNI: rhodeshich.co.za
+Status: BLOCKED
+
+--- Result 330 ---
+SNI: podcasts.unisa.ac.za
+Status: BLOCKED
+
+--- Result 331 ---
+SNI: innopac.smu.ac.za
+Status: BLOCKED
+
+--- Result 332 ---
+SNI: lynnies.co.za
+Status: BLOCKED
+
+--- Result 333 ---
+SNI: smu.ac.za
+Status: BLOCKED
+
+--- Result 334 ---
+SNI: myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 335 ---
+SNI: web.health.wits.ac.za
+Status: BLOCKED
+
+--- Result 336 ---
+SNI: ienabler.tut.ac.za
+Status: BLOCKED
+
+--- Result 337 ---
+SNI: dmore.chpc.ac.za
+Status: BLOCKED
+
+--- Result 338 ---
+SNI: my.unisa.ac.za
+Status: BLOCKED
+
+--- Result 339 ---
+SNI: cmorefs.chpc.ac.za
+Status: BLOCKED
+
+--- Result 340 ---
+SNI: ierp.mut.ac.za
+Status: BLOCKED
+
+--- Result 341 ---
+SNI: druid.cut.ac.za
+Status: BLOCKED
+
+--- Result 342 ---
+SNI: libguides.wits.ac.za
+Status: BLOCKED
+
+--- Result 343 ---
+SNI: v-vgw-nlx7.v.nwu.ac.za
+Status: BLOCKED
+
+--- Result 344 ---
+SNI: kzncn.kznhealth.gov.za
+Status: BLOCKED
+
+--- Result 345 ---
+SNI: wiredspace-extra.wits.ac.za
+Status: BLOCKED
+
+--- Result 346 ---
+SNI: engineering.nwu.ac.za
+Status: BLOCKED
+
+--- Result 347 ---
+SNI: vpn.smu.ac.za
+Status: BLOCKED
+
+--- Result 348 ---
+SNI: distance.nwu.ac.za
+Status: BLOCKED
+
+--- Result 349 ---
+SNI: media.uct.ac.za
+Status: BLOCKED
+
+--- Result 350 ---
+SNI: open.uct.ac.za
+Status: BLOCKED
+
+--- Result 351 ---
+SNI: vr1-vm1-cpt1.net.vidyo.ac.za
+Status: BLOCKED
+
+--- Result 352 ---
+SNI: vssweb.nwu.ac.za
+Status: BLOCKED
+
+--- Result 353 ---
+SNI: ilifalabantwana.co.za
+Status: BLOCKED
+
+--- Result 354 ---
+SNI: cdn.adyo.co.za
+Status: BLOCKED
+
+--- Result 355 ---
+SNI: randparkhigh.co.za
+Status: BLOCKED
+
+--- Result 356 ---
+SNI: v-pgw-nlx4.p.nwu.ac.za
+Status: BLOCKED
+
+--- Result 357 ---
+SNI: news.uct.ac.za
+Status: BLOCKED
+
+--- Result 358 ---
+SNI: student.uj.ac.za
+Status: BLOCKED
+
+--- Result 359 ---
+SNI: eve.uj.ac.za
+Status: BLOCKED
+
+--- Result 360 ---
+SNI: uj.ac.za
+Status: BLOCKED
+
+--- Result 361 ---
+SNI: journals.co.za
+Status: BLOCKED
+
+--- Result 362 ---
+SNI: macmillaneducation.co.za
+Status: BLOCKED
+
+--- Result 363 ---
+SNI: portal.net.vidyo.ac.za
+Status: BLOCKED
+
+--- Result 364 ---
+SNI: publicaccess.uct.ac.za
+Status: BLOCKED
+
+--- Result 365 ---
+SNI: vr1-vm1-jnb2.net.vidyo.ac.za
+Status: BLOCKED
+
+--- Result 366 ---
+SNI: ujcontent.uj.ac.za
+Status: BLOCKED
+
+--- Result 367 ---
+SNI: repository.smu.ac.za
+Status: BLOCKED
+
+--- Result 368 ---
+SNI: smartstart.org.za
+Status: BLOCKED
+
+--- Result 369 ---
+SNI: ezproxy.uct.ac.za
+Status: BLOCKED
+
+--- Result 370 ---
+SNI: vula.uct.ac.za
+Status: BLOCKED
+
+--- Result 371 ---
+SNI: ujlink.uj.ac.za
+Status: BLOCKED
+
+--- Result 372 ---
+SNI: education.nwu.ac.za
+Status: BLOCKED
+
+--- Result 373 ---
+SNI: theology.nwu.ac.za
+Status: BLOCKED
+
+--- Result 374 ---
+SNI: adfs.uct.ac.za
+Status: BLOCKED
+
+--- Result 375 ---
+SNI: shuters.co.za
+Status: BLOCKED
+
+--- Result 376 ---
+SNI: nrfsubmission.nrf.ac.za
+Status: BLOCKED
+
+--- Result 377 ---
+SNI: meanstest.nsfas.org.za
+Status: BLOCKED
+
+--- Result 378 ---
+SNI: ulturfapp.ul.ac.za
+Status: BLOCKED
+
+--- Result 379 ---
+SNI: proxy.safire.ac.za
+Status: BLOCKED
+
+--- Result 380 ---
+SNI: encore.unisa.ac.za
+Status: BLOCKED
+
+--- Result 381 ---
+SNI: socialproject.co.za
+Status: BLOCKED
+
+--- Result 382 ---
+SNI: codecogs.unisa.ac.za
+Status: BLOCKED
+
+--- Result 383 ---
+SNI: cmoredcs.chpc.ac.za
+Status: BLOCKED
+
+--- Result 384 ---
+SNI: bbb3.unisa.ac.za
+Status: BLOCKED
+
+--- Result 385 ---
+SNI: ump-ac-za.libguides.com
+Status: BLOCKED
+
+--- Result 386 ---
+SNI: clickfoundation.co.za
+Status: BLOCKED
+
+--- Result 387 ---
+SNI: cmorelm.chpc.ac.za
+Status: BLOCKED
+
+--- Result 388 ---
+SNI: ultmillen.ul.ac.za
+Status: BLOCKED
+
+--- Result 389 ---
+SNI: sport.nwu.ac.za
+Status: BLOCKED
+
+--- Result 390 ---
+SNI: radio.unisa.ac.za
+Status: BLOCKED
+
+--- Result 391 ---
+SNI: unisa.ac.za
+Status: BLOCKED
+
+--- Result 392 ---
+SNI: wiredspace.wits.ac.za
+Status: BLOCKED
+
+--- Result 393 ---
+SNI: lms.togi.ac.za
+Status: BLOCKED
+
+--- Result 394 ---
+SNI: portal.belgiumcampus.ac.za
+Status: BLOCKED
+
+--- Result 395 ---
+SNI: bostonmediahouse.co.za
+Status: BLOCKED
+
+--- Result 396 ---
+SNI: rsvp.unisa.ac.za
+Status: BLOCKED
+
+--- Result 397 ---
+SNI: sbl.unisa.ac.za
+Status: BLOCKED
+
+--- Result 398 ---
+SNI: sharepoint.ump.ac.za
+Status: BLOCKED
+
+--- Result 399 ---
+SNI: cas.unisa.ac.za
+Status: BLOCKED
+
+--- Result 400 ---
+SNI: myclassroom.cput.ac.za
+Status: BLOCKED
+
+--- Result 401 ---
+SNI: camelotint.studentmanager.co.za
+Status: BLOCKED
+
+--- Result 402 ---
+SNI: a4fm.ac.za
+Status: BLOCKED
+
+--- Result 403 ---
+SNI: truth.wwl.wits.ac.za
+Status: BLOCKED
+
+--- Result 404 ---
+SNI: www2.unisa.ac.za
+Status: BLOCKED
+
+--- Result 405 ---
+SNI: cmorekz.chpc.ac.za
+Status: BLOCKED
+
+--- Result 406 ---
+SNI: enroll.cut.ac.za
+Status: BLOCKED
+
+--- Result 407 ---
+SNI: dl.d6communicator.com
+Status: BLOCKED
+
+--- Result 408 ---
+SNI: mathsup.mobi
+Status: BLOCKED
+
+--- Result 409 ---
+SNI: self-service.wits.ac.za
+Status: BLOCKED
+
+--- Result 410 ---
+SNI: fp.d6communicator.com
+Status: BLOCKED
+
+--- Result 411 ---
+SNI: tools.health.wits.ac.za
+Status: BLOCKED
+
+--- Result 412 ---
+SNI: historicalpapers-atom.wits.ac.za
+Status: BLOCKED
+
+--- Result 413 ---
+SNI: www3.unisa.ac.za
+Status: BLOCKED
+
+--- Result 414 ---
+SNI: gghs.co.za
+Status: BLOCKED
+
+--- Result 415 ---
+SNI: ump.ac.za
+Status: BLOCKED
+
+--- Result 416 ---
+SNI: bbb.wits.ac.za
+Status: BLOCKED
+
+--- Result 417 ---
+SNI: exams-archives.wits.ac.za
+Status: BLOCKED
+
+--- Result 418 ---
+SNI: mobilefeeds.d6communicator.com
+Status: BLOCKED
+
+--- Result 419 ---
+SNI: stselearning.health.wits.ac.za
+Status: BLOCKED
+
+--- Result 420 ---
+SNI: wits.ac.za
+Status: BLOCKED
+
+--- Result 421 ---
+SNI: clarendonpark.co.za
+Status: BLOCKED
+
+--- Result 422 ---
+SNI: mymodules.unisa.ac.za
+Status: BLOCKED
+
+--- Result 423 ---
+SNI: cream-ce.core.wits.ac.za
+Status: BLOCKED
+
+--- Result 424 ---
+SNI: laerskoolkathu.co.za
+Status: BLOCKED
+
+--- Result 425 ---
+SNI: static.safire.ac.za
+Status: BLOCKED
+
+--- Result 426 ---
+SNI: wits-e.wits.ac.za
+Status: BLOCKED
+
+--- Result 427 ---
+SNI: droomskool.co.za
+Status: BLOCKED
+
+--- Result 428 ---
+SNI: engine.adyo.co.za
+Status: BLOCKED
+
+--- Result 429 ---
+SNI: sierra-eds.wits.ac.za
+Status: BLOCKED
+
+--- Result 430 ---
+SNI: brandwag.co.za
+Status: BLOCKED
+
+--- Result 431 ---
+SNI: hvsgrt.org.za
+Status: BLOCKED
+
+--- Result 432 ---
+SNI: filesender.sanren.ac.za
+Status: BLOCKED
+
+--- Result 433 ---
+SNI: downloads.d6communicator.com
+Status: BLOCKED
+
+--- Result 434 ---
+SNI: cedarwoodschool.co.za
+Status: BLOCKED
+
+--- Result 435 ---
+SNI: jakkies.com
+Status: BLOCKED
+
+--- Result 436 ---
+SNI: d6plus.co.za
+Status: BLOCKED
+
+--- Result 437 ---
+SNI: lskp.co.za
+Status: BLOCKED
+
+--- Result 438 ---
+SNI: mylife.unisa.ac.za
+Status: BLOCKED
+
+--- Result 439 ---
+SNI: cmoregp.chpc.ac.za
+Status: BLOCKED
+
+--- Result 440 ---
+SNI: lti.colcampus.com
+Status: BLOCKED
+
+--- Result 441 ---
+SNI: bcc.edgelearningmedia.com
+Status: BLOCKED
+
+--- Result 442 ---
+SNI: mylms.pearsoninstitute.ac.za
+Status: BLOCKED
+
+--- Result 443 ---
+SNI: elearning.net.za
+Status: BLOCKED
+
+--- Result 444 ---
+SNI: rondebosch.com
+Status: BLOCKED
+
+--- Result 445 ---
+SNI: advance.mandela.ac.za
+Status: BLOCKED
+
+--- Result 446 ---
+SNI: myump.ump.ac.za
+Status: BLOCKED
+
+--- Result 447 ---
+SNI: cput.alma.exlibrisgroup.com
+Status: BLOCKED
+
+--- Result 448 ---
+SNI: greenshootsedu.co.za
+Status: BLOCKED
+
+--- Result 449 ---
+SNI: innopac.wits.ac.za
+Status: BLOCKED
+
+--- Result 450 ---
+SNI: pearson.primo.exlibrisgroup.com
+Status: BLOCKED
+
+--- Result 451 ---
+SNI: eportfolio.unisa.ac.za
+Status: BLOCKED
+
+--- Result 452 ---
+SNI: wsps.co.za
+Status: BLOCKED
+
+--- Result 453 ---
+SNI: sbleds.ac.za
+Status: BLOCKED
+
+--- Result 454 ---
+SNI: ums.ctca.co.za
+Status: BLOCKED
+
+--- Result 455 ---
+SNI: parowhs.co.za
+Status: BLOCKED
+
+--- Result 456 ---
+SNI: bct.ac.za
+Status: BLOCKED
+
+--- Result 457 ---
+SNI: rce.colcampus.com
+Status: BLOCKED
+
+--- Result 458 ---
+SNI: tardi.ac.za
+Status: BLOCKED
+
+--- Result 459 ---
+SNI: cmorewc.chpc.ac.za
+Status: BLOCKED
+
+--- Result 460 ---
+SNI: tenfold.africa
+Status: BLOCKED
+
+--- Result 461 ---
+SNI: finaid.mandela.ac.za
+Status: BLOCKED
+
+--- Result 462 ---
+SNI: togi.org.za
+Status: BLOCKED
+
+--- Result 463 ---
+SNI: shineliteracy.org.za
+Status: BLOCKED
+
+--- Result 464 ---
+SNI: 41.162.25.178
+Status: BLOCKED
+
+--- Result 465 ---
+SNI: bostonhub.co.za
+Status: BLOCKED
+
+--- Result 466 ---
+SNI: keycloak.madinainstitute.ac.za
+Status: BLOCKED
+
+--- Result 467 ---
+SNI: lib.uct.ac.za
+Status: BLOCKED
+
+--- Result 468 ---
+SNI: bbb2.unisa.ac.za
+Status: BLOCKED
+
+--- Result 469 ---
+SNI: unitube.mandela.ac.za
+Status: BLOCKED
+
+--- Result 470 ---
+SNI: ray.core.wits.ac.za
+Status: BLOCKED
+
+--- Result 471 ---
+SNI: cput.ac.za
+Status: BLOCKED
+
+--- Result 472 ---
+SNI: namies.co.za
+Status: BLOCKED
+
+--- Result 473 ---
+SNI: madinainstitute.ac.za
+Status: BLOCKED
+
+--- Result 474 ---
+SNI: science.mandela.ac.za
+Status: BLOCKED
+
+--- Result 475 ---
+SNI: ipsa-edu.org
+Status: BLOCKED
+
+--- Result 476 ---
+SNI: thunderboltkids.co.za
+Status: BLOCKED
+
+--- Result 477 ---
+SNI: content.mindset.africa
+Status: BLOCKED
+
+--- Result 478 ---
+SNI: vital.seals.ac.za
+Status: BLOCKED
+
+--- Result 479 ---
+SNI: learn.mindset.africa
+Status: BLOCKED
+
+--- Result 480 ---
+SNI: dbedashboard.co.za
+Status: BLOCKED
+
+--- Result 481 ---
+SNI: sbs.ac.za
+Status: BLOCKED
+
+--- Result 482 ---
+SNI: myhfpa.dedicated.co.za
+Status: BLOCKED
+
+--- Result 483 ---
+SNI: sannies.co.za
+Status: BLOCKED
+
+--- Result 484 ---
+SNI: bookdash.org
+Status: BLOCKED
+
+--- Result 485 ---
+SNI: aero.stellenboschacademy.co.za
+Status: BLOCKED
+
+--- Result 486 ---
+SNI: sants.co.za
+Status: BLOCKED
+
+--- Result 487 ---
+SNI: portal.sae.edu.za
+Status: BLOCKED
+
+--- Result 488 ---
+SNI: wowza.mindset.africa
+Status: BLOCKED
+
+--- Result 489 ---
+SNI: studenthousing.mandela.ac.za
+Status: BLOCKED
+
+--- Result 490 ---
+SNI: cput.figshare.com
+Status: BLOCKED
+
+--- Result 491 ---
+SNI: online.sun.ac.za
+Status: BLOCKED
+
+--- Result 492 ---
+SNI: designacademyoffashion.studentmanager.co.za
+Status: BLOCKED
+
+--- Result 493 ---
+SNI: lsa.unisa.ac.za
+Status: BLOCKED
+
+--- Result 494 ---
+SNI: handle.seals.ac.za
+Status: BLOCKED
+
+--- Result 495 ---
+SNI: etaconnect.etacollege.com
+Status: BLOCKED
+
+--- Result 496 ---
+SNI: mandela.ac.za
+Status: BLOCKED
+
+--- Result 497 ---
+SNI: henleyonline.com
+Status: BLOCKED
+
+--- Result 498 ---
+SNI: fsh-ho-moodle.fshealth.gov.za
+Status: BLOCKED
+
+--- Result 499 ---
+SNI: researchspace.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 500 ---
+SNI: inscape.co.za
+Status: BLOCKED
+
+--- Result 501 ---
+SNI: moodle-campus.embury.ac.za
+Status: BLOCKED
+
+--- Result 502 ---
+SNI: uct.ac.za
+Status: BLOCKED
+
+--- Result 503 ---
+SNI: playsa.org
+Status: BLOCKED
+
+--- Result 504 ---
+SNI: ihsonlinelms.co
+Status: BLOCKED
+
+--- Result 505 ---
+SNI: health.mandela.ac.za
+Status: BLOCKED
+
+--- Result 506 ---
+SNI: learn-bbb.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 507 ---
+SNI: ctbs.org.za
+Status: BLOCKED
+
+--- Result 508 ---
+SNI: charlo.co.za
+Status: BLOCKED
+
+--- Result 509 ---
+SNI: axiumeducation.org
+Status: BLOCKED
+
+--- Result 510 ---
+SNI: stream.sun.ac.za
+Status: BLOCKED
+
+--- Result 511 ---
+SNI: icttraining.westerncape.gov.za
+Status: BLOCKED
+
+--- Result 512 ---
+SNI: webapps.mandela.ac.za
+Status: BLOCKED
+
+--- Result 513 ---
+SNI: wam.seals.ac.za
+Status: BLOCKED
+
+--- Result 514 ---
+SNI: myhfpa.org
+Status: BLOCKED
+
+--- Result 515 ---
+SNI: madinainstitute.org.za
+Status: BLOCKED
+
+--- Result 516 ---
+SNI: moodle.swisshotelschool.co.za
+Status: BLOCKED
+
+--- Result 517 ---
+SNI: hrms.ncedu.gov.za
+Status: BLOCKED
+
+--- Result 518 ---
+SNI: fundza.mobi
+Status: BLOCKED
+
+--- Result 519 ---
+SNI: ez.sun.ac.za
+Status: BLOCKED
+
+--- Result 520 ---
+SNI: dcschool.org.za
+Status: BLOCKED
+
+--- Result 521 ---
+SNI: blackboard.nhlstenden.com
+Status: BLOCKED
+
+--- Result 522 ---
+SNI: mindset.africa
+Status: BLOCKED
+
+--- Result 523 ---
+SNI: gradesmatch.co.za
+Status: BLOCKED
+
+--- Result 524 ---
+SNI: learn.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 525 ---
+SNI: itec.org.za
+Status: BLOCKED
+
+--- Result 526 ---
+SNI: cotlands.org
+Status: BLOCKED
+
+--- Result 527 ---
+SNI: ukwazi.co.za
+Status: BLOCKED
+
+--- Result 528 ---
+SNI: sierra.seals.ac.za
+Status: BLOCKED
+
+--- Result 529 ---
+SNI: belgiumcampus.ac.za
+Status: BLOCKED
+
+--- Result 530 ---
+SNI: togi.ac.za
+Status: BLOCKED
+
+--- Result 531 ---
+SNI: applyonline.uct.ac.za
+Status: BLOCKED
+
+--- Result 532 ---
+SNI: juniortech.co.za
+Status: BLOCKED
+
+--- Result 533 ---
+SNI: staffonline.uct.ac.za
+Status: BLOCKED
+
+--- Result 534 ---
+SNI: bereact.co.za
+Status: BLOCKED
+
+--- Result 535 ---
+SNI: studentsonline.uct.ac.za
+Status: BLOCKED
+
+--- Result 536 ---
+SNI: pop.mindset.africa
+Status: BLOCKED
+
+--- Result 537 ---
+SNI: schoolinabox.co.za
+Status: BLOCKED
+
+--- Result 538 ---
+SNI: bbb.unisa.ac.za
+Status: BLOCKED
+
+--- Result 539 ---
+SNI: commongood.org.za
+Status: BLOCKED
+
+--- Result 540 ---
+SNI: learn.ufs.ac.za
+Status: BLOCKED
+
+--- Result 541 ---
+SNI: stbcitrix.sun.ac.za
+Status: BLOCKED
+
+--- Result 542 ---
+SNI: bereatech.co.za
+Status: BLOCKED
+
+--- Result 543 ---
+SNI: paarlboysp.co.za
+Status: BLOCKED
+
+--- Result 544 ---
+SNI: cotlands.co.za
+Status: BLOCKED
+
+--- Result 545 ---
+SNI: cat.eduroam.org
+Status: BLOCKED
+
+--- Result 546 ---
+SNI: fundawande.org
+Status: BLOCKED
+
+--- Result 547 ---
+SNI: ignitepotential.co.za
+Status: BLOCKED
+
+--- Result 548 ---
+SNI: tvh.co.za
+Status: BLOCKED
+
+--- Result 549 ---
+SNI: acorneducation.org.za
+Status: BLOCKED
+
+--- Result 550 ---
+SNI: ezproxy.ufs.ac.za
+Status: BLOCKED
+
+--- Result 551 ---
+SNI: synergy.ict.ru.ac.za
+Status: BLOCKED
+
+--- Result 552 ---
+SNI: portal.regenesys.net
+Status: BLOCKED
+
+--- Result 553 ---
+SNI: ujoogle.uj.ac.za
+Status: BLOCKED
+
+--- Result 554 ---
+SNI: paarlgirlshigh.com
+Status: BLOCKED
+
+--- Result 555 ---
+SNI: ru.ac.za
+Status: BLOCKED
+
+--- Result 556 ---
+SNI: paarlboyshigh.org.za
+Status: BLOCKED
+
+--- Result 557 ---
+SNI: selfservice.ufs.ac.za
+Status: BLOCKED
+
+--- Result 558 ---
+SNI: boston.co.za
+Status: BLOCKED
+
+--- Result 559 ---
+SNI: mathsclubs.co.za
+Status: BLOCKED
+
+--- Result 560 ---
+SNI: portal.camelotint.co.za
+Status: BLOCKED
+
+--- Result 561 ---
+SNI: ulink.uj.ac.za
+Status: BLOCKED
+
+--- Result 562 ---
+SNI: login.ru.ac.za
+Status: BLOCKED
+
+--- Result 563 ---
+SNI: paarlgim.co.za
+Status: BLOCKED
+
+--- Result 564 ---
+SNI: fundaflix.com
+Status: BLOCKED
+
+--- Result 565 ---
+SNI: noorderland.net
+Status: BLOCKED
+
+--- Result 566 ---
+SNI: portiaprimary.co.za
+Status: BLOCKED
+
+--- Result 567 ---
+SNI: studvpn.ufh.ac.za
+Status: BLOCKED
+
+--- Result 568 ---
+SNI: schoolnet.org.za
+Status: BLOCKED
+
+--- Result 569 ---
+SNI: adam.uj.ac.za
+Status: BLOCKED
+
+--- Result 570 ---
+SNI: oerafrica.org
+Status: BLOCKED
+
+--- Result 571 ---
+SNI: bbmedia.ufs.ac.za
+Status: BLOCKED
+
+--- Result 572 ---
+SNI: c.colcampus.com
+Status: BLOCKED
+
+--- Result 573 ---
+SNI: paarlskool.org.za
+Status: BLOCKED
+
+--- Result 574 ---
+SNI: dkps.org.za
+Status: BLOCKED
+
+--- Result 575 ---
+SNI: careup.mobi
+Status: BLOCKED
+
+--- Result 576 ---
+SNI: glenbridgeschool.co.za
+Status: BLOCKED
+
+--- Result 577 ---
+SNI: disadvancalc.uct.ac.za
+Status: BLOCKED
+
+--- Result 578 ---
+SNI: mstworkbooks.co.za
+Status: BLOCKED
+
+--- Result 579 ---
+SNI: nfhs.co.za
+Status: BLOCKED
+
+--- Result 580 ---
+SNI: ufs.service-now.com
+Status: BLOCKED
+
+--- Result 581 ---
+SNI: spens.akademia.ac.za
+Status: BLOCKED
+
+--- Result 582 ---
+SNI: docs.colcampus.com
+Status: BLOCKED
+
+--- Result 583 ---
+SNI: fichies.co.za
+Status: BLOCKED
+
+--- Result 584 ---
+SNI: ump.primo.exlibrisgroup.com
+Status: BLOCKED
+
+--- Result 585 ---
+SNI: iziko.safire.ac.za
+Status: BLOCKED
+
+--- Result 586 ---
+SNI: ul.ac.za
+Status: BLOCKED
+
+--- Result 587 ---
+SNI: learn.ufh.ac.za
+Status: BLOCKED
+
+--- Result 588 ---
+SNI: siyaphumelela.org.za
+Status: BLOCKED
+
+--- Result 589 ---
+SNI: greenwoodbaycollege.co.za
+Status: BLOCKED
+
+--- Result 590 ---
+SNI: paulroos.co.za
+Status: BLOCKED
+
+--- Result 591 ---
+SNI: cmorewc1.chpc.ac.za
+Status: BLOCKED
+
+--- Result 592 ---
+SNI: solveit.ufs.ac.za
+Status: BLOCKED
+
+--- Result 593 ---
+SNI: abbotts.co.za
+Status: BLOCKED
+
+--- Result 594 ---
+SNI: qmlogin.ufs.ac.za
+Status: BLOCKED
+
+--- Result 595 ---
+SNI: portal.theanimationschool.co.za
+Status: BLOCKED
+
+--- Result 596 ---
+SNI: myuniv2.ufs.ac.za
+Status: BLOCKED
+
+--- Result 597 ---
+SNI: pecanwoodcollege.co.za
+Status: BLOCKED
+
+--- Result 598 ---
+SNI: cmoreec.chpc.ac.za
+Status: BLOCKED
+
+--- Result 599 ---
+SNI: milnertonhigh.co.za
+Status: BLOCKED
+
+--- Result 600 ---
+SNI: wwhomeliteracy.org.za
+Status: BLOCKED
+
+--- Result 601 ---
+SNI: stratus.unisa.ac.za
+Status: BLOCKED
+
+--- Result 602 ---
+SNI: mooc.unisa.ac.za
+Status: BLOCKED
+
+--- Result 603 ---
+SNI: portal.myboston.co.za
+Status: BLOCKED
+
+--- Result 604 ---
+SNI: cmoren1.chpc.ac.za
+Status: BLOCKED
+
+--- Result 605 ---
+SNI: survey.unisa.ac.za
+Status: BLOCKED
+
+--- Result 606 ---
+SNI: juniorcolleges.co.za
+Status: BLOCKED
+
+--- Result 607 ---
+SNI: affies.net
+Status: BLOCKED
+
+--- Result 608 ---
+SNI: learn.olico.org
+Status: BLOCKED
+
+--- Result 609 ---
+SNI: cput.primo.exlibrisgroup.com
+Status: BLOCKED
+
+--- Result 610 ---
+SNI: pinnaclecolleges.co.za
+Status: BLOCKED
+
+--- Result 611 ---
+SNI: htseden.co.za
+Status: BLOCKED
+
+--- Result 612 ---
+SNI: oasis.unisa.ac.za
+Status: BLOCKED
+
+--- Result 613 ---
+SNI: myadmin.unisa.ac.za
+Status: BLOCKED
+
+--- Result 614 ---
+SNI: unisa.westeurope.cloudapp.azure.com
+Status: BLOCKED
+
+--- Result 615 ---
+SNI: btc.edu.za
+Status: BLOCKED
+
+--- Result 616 ---
+SNI: bisa.instructure.com
+Status: BLOCKED
+
+--- Result 617 ---
+SNI: dl.d6.co.za
+Status: BLOCKED
+
+--- Result 618 ---
+SNI: login.nren.ac.za
+Status: BLOCKED
+
+--- Result 619 ---
+SNI: afeed.d6communicator.com
+Status: BLOCKED
+
+--- Result 620 ---
+SNI: assignalt.unisa.ac.za
+Status: BLOCKED
+
+--- Result 621 ---
+SNI: hsoosterlig.co.za
+Status: BLOCKED
+
+--- Result 622 ---
+SNI: poortjies.co.za
+Status: BLOCKED
+
+--- Result 623 ---
+SNI: tinybaobabs.co.za
+Status: BLOCKED
+
+--- Result 624 ---
+SNI: bisa.org.za
+Status: BLOCKED
+
+--- Result 625 ---
+SNI: redcap.core.wits.ac.za
+Status: BLOCKED
+
+--- Result 626 ---
+SNI: view.wits.ac.za
+Status: BLOCKED
+
+--- Result 627 ---
+SNI: ienabler.ump.ac.za
+Status: BLOCKED
+
+--- Result 628 ---
+SNI: pearson.alma.exlibrisgroup.com
+Status: BLOCKED
+
+--- Result 629 ---
+SNI: unisaenterprise.ac.za
+Status: BLOCKED
+
+--- Result 630 ---
+SNI: hsnylstroom.co.za
+Status: BLOCKED
+
+--- Result 631 ---
+SNI: esal.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 632 ---
+SNI: passwordreset.wits.ac.za
+Status: BLOCKED
+
+--- Result 633 ---
+SNI: gelofte.co.za
+Status: BLOCKED
+
+--- Result 634 ---
+SNI: maraisviljoen.co.za
+Status: BLOCKED
+
+--- Result 635 ---
+SNI: schoolsit.wcgschools.gov.za
+Status: BLOCKED
+
+--- Result 636 ---
+SNI: hscenturion.co.za
+Status: BLOCKED
+
+--- Result 637 ---
+SNI: greycollegeprimary.com
+Status: BLOCKED
+
+--- Result 638 ---
+SNI: applications.unisa.ac.za
+Status: BLOCKED
+
+--- Result 639 ---
+SNI: learn.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 640 ---
+SNI: paroweastprimary.co.za
+Status: BLOCKED
+
+--- Result 641 ---
+SNI: itsi.paarlgirlshigh.com
+Status: BLOCKED
+
+--- Result 642 ---
+SNI: library.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 643 ---
+SNI: business.mandela.ac.za
+Status: BLOCKED
+
+--- Result 644 ---
+SNI: optimum.ac.za
+Status: BLOCKED
+
+--- Result 645 ---
+SNI: webservices.nmmu.ac.za
+Status: BLOCKED
+
+--- Result 646 ---
+SNI: moodle.elearning.net.za
+Status: BLOCKED
+
+--- Result 647 ---
+SNI: orpa2.davinci.ac.za
+Status: BLOCKED
+
+--- Result 648 ---
+SNI: capi.d6.co.za
+Status: BLOCKED
+
+--- Result 649 ---
+SNI: courses.ms.wits.ac.za
+Status: BLOCKED
+
+--- Result 650 ---
+SNI: students.mandela.ac.za
+Status: BLOCKED
+
+--- Result 651 ---
+SNI: belvedereschool.co.za
+Status: BLOCKED
+
+--- Result 652 ---
+SNI: learn2020.imm.ac.za
+Status: BLOCKED
+
+--- Result 653 ---
+SNI: admin.d6communicator.com
+Status: BLOCKED
+
+--- Result 654 ---
+SNI: rassies.com
+Status: BLOCKED
+
+--- Result 655 ---
+SNI: regent.ac.za
+Status: BLOCKED
+
+--- Result 656 ---
+SNI: itsweb.mandela.ac.za
+Status: BLOCKED
+
+--- Result 657 ---
+SNI: ifeed.d6communicator.com
+Status: BLOCKED
+
+--- Result 658 ---
+SNI: wordworks.org.za
+Status: BLOCKED
+
+--- Result 659 ---
+SNI: go.d6.co.za
+Status: BLOCKED
+
+--- Result 660 ---
+SNI: lms.madinainstitute.ac.za
+Status: BLOCKED
+
+--- Result 661 ---
+SNI: learn.mbse.ac.za
+Status: BLOCKED
+
+--- Result 662 ---
+SNI: hche.ac.za
+Status: BLOCKED
+
+--- Result 663 ---
+SNI: worcesteroos.co.za
+Status: BLOCKED
+
+--- Result 664 ---
+SNI: scottburghhigh.co.za
+Status: BLOCKED
+
+--- Result 665 ---
+SNI: brightstarchristian.co.za
+Status: BLOCKED
+
+--- Result 666 ---
+SNI: pmilearning.co.za
+Status: BLOCKED
+
+--- Result 667 ---
+SNI: diamantveld.co.za
+Status: BLOCKED
+
+--- Result 668 ---
+SNI: education.mandela.ac.za
+Status: BLOCKED
+
+--- Result 669 ---
+SNI: mymancosa.com
+Status: BLOCKED
+
+--- Result 670 ---
+SNI: learn.occupationalqualification.com
+Status: BLOCKED
+
+--- Result 671 ---
+SNI: pqm.unisa.ac.za
+Status: BLOCKED
+
+--- Result 672 ---
+SNI: hsbredasdorp.co.za
+Status: BLOCKED
+
+--- Result 673 ---
+SNI: ashburyedu.co.za
+Status: BLOCKED
+
+--- Result 674 ---
+SNI: thebridgeschool.co.za
+Status: BLOCKED
+
+--- Result 675 ---
+SNI: galwayprimary.co.za
+Status: BLOCKED
+
+--- Result 676 ---
+SNI: valiakurrikulum.co.za
+Status: BLOCKED
+
+--- Result 677 ---
+SNI: registration.unisa.ac.za
+Status: BLOCKED
+
+--- Result 678 ---
+SNI: westviewpe.co.za
+Status: BLOCKED
+
+--- Result 679 ---
+SNI: northlandsprimary.co.za
+Status: BLOCKED
+
+--- Result 680 ---
+SNI: myaccess.cut.ac.za
+Status: BLOCKED
+
+--- Result 681 ---
+SNI: parkhurstprimary.org.za
+Status: BLOCKED
+
+--- Result 682 ---
+SNI: foundation.co.za
+Status: BLOCKED
+
+--- Result 683 ---
+SNI: embury.ac.za
+Status: BLOCKED
+
+--- Result 684 ---
+SNI: opa.cput.ac.za
+Status: BLOCKED
+
+--- Result 685 ---
+SNI: mymail.hugenote.com
+Status: BLOCKED
+
+--- Result 686 ---
+SNI: cornerstone.ac.za
+Status: BLOCKED
+
+--- Result 687 ---
+SNI: funda.cornerstone.ac.za
+Status: BLOCKED
+
+--- Result 688 ---
+SNI: connect.d6.co.za
+Status: BLOCKED
+
+--- Result 689 ---
+SNI: api.edgelearningmedia.com
+Status: BLOCKED
+
+--- Result 690 ---
+SNI: mycloud.sae.edu.za
+Status: BLOCKED
+
+--- Result 691 ---
+SNI: virtualcampus.co.za
+Status: BLOCKED
+
+--- Result 692 ---
+SNI: dirkieuys.co.za
+Status: BLOCKED
+
+--- Result 693 ---
+SNI: disaprimaryschool.co.za
+Status: BLOCKED
+
+--- Result 694 ---
+SNI: p1.immgsm.ac.za
+Status: BLOCKED
+
+--- Result 695 ---
+SNI: shsbakgat.co.za
+Status: BLOCKED
+
+--- Result 696 ---
+SNI: robbies.co.za
+Status: BLOCKED
+
+--- Result 697 ---
+SNI: library.mandela.ac.za
+Status: BLOCKED
+
+--- Result 698 ---
+SNI: khuluma.cornerstone.ac.za
+Status: BLOCKED
+
+--- Result 699 ---
+SNI: hspjolivier.co.za
+Status: BLOCKED
+
+--- Result 700 ---
+SNI: itsi.sbhs.co.za
+Status: BLOCKED
+
+--- Result 701 ---
+SNI: schoolfm.co.za
+Status: BLOCKED
+
+--- Result 702 ---
+SNI: wowza.nmmu.ac.za
+Status: BLOCKED
+
+--- Result 703 ---
+SNI: moodle-dl.embury.ac.za
+Status: BLOCKED
+
+--- Result 704 ---
+SNI: gwc.ac.za
+Status: BLOCKED
+
+--- Result 705 ---
+SNI: deltaprimary.org.za
+Status: BLOCKED
+
+--- Result 706 ---
+SNI: dataser.myqnapcloud.com
+Status: BLOCKED
+
+--- Result 707 ---
+SNI: 197.189.239.194
+Status: BLOCKED
+
+--- Result 708 ---
+SNI: rxradio.co.za
+Status: BLOCKED
+
+--- Result 709 ---
+SNI: mysacap.sacap.edu.za
+Status: BLOCKED
+
+--- Result 710 ---
+SNI: whetstoneprimary.co.za
+Status: BLOCKED
+
+--- Result 711 ---
+SNI: olg4me.co.za
+Status: BLOCKED
+
+--- Result 712 ---
+SNI: calvinialaerskool.co.za
+Status: BLOCKED
+
+--- Result 713 ---
+SNI: koffies.co.za
+Status: BLOCKED
+
+--- Result 714 ---
+SNI: ienabler.orbitcollege.co.za
+Status: BLOCKED
+
+--- Result 715 ---
+SNI: mycloud.saecapetown.net
+Status: BLOCKED
+
+--- Result 716 ---
+SNI: myclass.damelin.co.za
+Status: BLOCKED
+
+--- Result 717 ---
+SNI: sled.org.za
+Status: BLOCKED
+
+--- Result 718 ---
+SNI: imm.ac.za
+Status: BLOCKED
+
+--- Result 719 ---
+SNI: myrhodes.ac.za
+Status: BLOCKED
+
+--- Result 720 ---
+SNI: myregent.ac.za
+Status: BLOCKED
+
+--- Result 721 ---
+SNI: stg.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 722 ---
+SNI: lms.chartallcampus.com
+Status: BLOCKED
+
+--- Result 723 ---
+SNI: assessment.mandela.ac.za
+Status: BLOCKED
+
+--- Result 724 ---
+SNI: myru.ac.za
+Status: BLOCKED
+
+--- Result 725 ---
+SNI: opac.seals.ac.za
+Status: BLOCKED
+
+--- Result 726 ---
+SNI: ukzn.ac.za
+Status: BLOCKED
+
+--- Result 727 ---
+SNI: arts.mandela.ac.za
+Status: BLOCKED
+
+--- Result 728 ---
+SNI: mts.mandela.ac.za
+Status: BLOCKED
+
+--- Result 729 ---
+SNI: henleyscout.com
+Status: BLOCKED
+
+--- Result 730 ---
+SNI: connect.up.ac.za
+Status: BLOCKED
+
+--- Result 731 ---
+SNI: servicedesk.sun.ac.za
+Status: BLOCKED
+
+--- Result 732 ---
+SNI: nalibali.org
+Status: BLOCKED
+
+--- Result 733 ---
+SNI: milpark.ac.za
+Status: BLOCKED
+
+--- Result 734 ---
+SNI: camelotint.co.za
+Status: BLOCKED
+
+--- Result 735 ---
+SNI: learn.sun.ac.za
+Status: BLOCKED
+
+--- Result 736 ---
+SNI: nalibali.mobi
+Status: BLOCKED
+
+--- Result 737 ---
+SNI: lab2.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 738 ---
+SNI: studentfeedback.sun.ac.za
+Status: BLOCKED
+
+--- Result 739 ---
+SNI: learn2021-01.imm.ac.za
+Status: BLOCKED
+
+--- Result 740 ---
+SNI: cpanel.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 741 ---
+SNI: kokstad.gov.za
+Status: BLOCKED
+
+--- Result 742 ---
+SNI: zibuza.net
+Status: BLOCKED
+
+--- Result 743 ---
+SNI: bmtcollege.ac.za
+Status: BLOCKED
+
+--- Result 744 ---
+SNI: locateme.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 745 ---
+SNI: webdisk.ukdm.gov.za
+Status: BLOCKED
+
+--- Result 746 ---
+SNI: read.org.za
+Status: BLOCKED
+
+--- Result 747 ---
+SNI: vaccine.certificate.health.gov.za
+Status: BLOCKED
+
+--- Result 748 ---
+SNI: creativeacademy.ac.za
+Status: BLOCKED
+
+--- Result 749 ---
+SNI: humanities.mandela.ac.za
+Status: BLOCKED
+
+--- Result 750 ---
+SNI: umlalazi.gov.za
+Status: BLOCKED
+
+--- Result 751 ---
+SNI: pelopele.com
+Status: BLOCKED
+
+--- Result 752 ---
+SNI: afda.co.za
+Status: BLOCKED
+
+--- Result 753 ---
+SNI: encore.seals.ac.za
+Status: BLOCKED
+
+--- Result 754 ---
+SNI: vpn2.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 755 ---
+SNI: kaliedehaas.co.za
+Status: BLOCKED
+
+--- Result 756 ---
+SNI: gateserv.myqnapcloud.com
+Status: BLOCKED
+
+--- Result 757 ---
+SNI: myaccess.ufs.ac.za
+Status: BLOCKED
+
+--- Result 758 ---
+SNI: genelouw.co.za
+Status: BLOCKED
+
+--- Result 759 ---
+SNI: library.sun.ac.za
+Status: BLOCKED
+
+--- Result 760 ---
+SNI: webdisk.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 761 ---
+SNI: mobi.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 762 ---
+SNI: ienabler.ufh.ac.za
+Status: BLOCKED
+
+--- Result 763 ---
+SNI: apply.ufs.ac.za
+Status: BLOCKED
+
+--- Result 764 ---
+SNI: mpuhealth.gov.za
+Status: BLOCKED
+
+--- Result 765 ---
+SNI: vpn.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 766 ---
+SNI: pssa.ufs.ac.za
+Status: BLOCKED
+
+--- Result 767 ---
+SNI: wavecrestyep.site123.me
+Status: BLOCKED
+
+--- Result 768 ---
+SNI: thanda.org
+Status: BLOCKED
+
+--- Result 769 ---
+SNI: certificates.colcampus.com
+Status: BLOCKED
+
+--- Result 770 ---
+SNI: grassdalehigh.org.za
+Status: BLOCKED
+
+--- Result 771 ---
+SNI: access.ufs.ac.za
+Status: BLOCKED
+
+--- Result 772 ---
+SNI: kranskopprimary.co.za
+Status: BLOCKED
+
+--- Result 773 ---
+SNI: myschoolwork.online
+Status: BLOCKED
+
+--- Result 774 ---
+SNI: hswollies.co.za
+Status: BLOCKED
+
+--- Result 775 ---
+SNI: moodle.hhs.co.za
+Status: BLOCKED
+
+--- Result 776 ---
+SNI: istenden.com
+Status: BLOCKED
+
+--- Result 777 ---
+SNI: pjolivier.co.za
+Status: BLOCKED
+
+--- Result 778 ---
+SNI: artschool.za.net
+Status: BLOCKED
+
+--- Result 779 ---
+SNI: mail.nsa.edu.za
+Status: BLOCKED
+
+--- Result 780 ---
+SNI: webmail.ufh.ac.za
+Status: BLOCKED
+
+--- Result 781 ---
+SNI: ecla.ufs.ac.za
+Status: BLOCKED
+
+--- Result 782 ---
+SNI: advtech.co.za
+Status: BLOCKED
+
+--- Result 783 ---
+SNI: apps.ufs.ac.za
+Status: BLOCKED
+
+--- Result 784 ---
+SNI: hseldo.co.za
+Status: BLOCKED
+
+--- Result 785 ---
+SNI: fulton.org.za
+Status: BLOCKED
+
+--- Result 786 ---
+SNI: crawfordschools.co.za
+Status: BLOCKED
+
+--- Result 787 ---
+SNI: piketberghs.co.za
+Status: BLOCKED
+
+--- Result 788 ---
+SNI: fhodendaal.co.za
+Status: BLOCKED
+
+--- Result 789 ---
+SNI: mentor.colcampus.com
+Status: BLOCKED
+
+--- Result 790 ---
+SNI: appserver1.watobe.com
+Status: BLOCKED
+
+--- Result 791 ---
+SNI: colcampus.com
+Status: BLOCKED
+
+--- Result 792 ---
+SNI: parowpps.co.za
+Status: BLOCKED
+
+--- Result 793 ---
+SNI: sikunye.org.za
+Status: BLOCKED
+
+--- Result 794 ---
+SNI: blueprint.gov.za
+Status: BLOCKED
+
+--- Result 795 ---
+SNI: adfs.ufs.ac.za
+Status: BLOCKED
+
+--- Result 796 ---
+SNI: lmsauth.ufs.ac.za
+Status: BLOCKED
+
+--- Result 797 ---
+SNI: meetings.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 798 ---
+SNI: covid19.ufs.ac.za
+Status: BLOCKED
+
+--- Result 799 ---
+SNI: laerskooltygerpoort.co.za
+Status: BLOCKED
+
+--- Result 800 ---
+SNI: moodle.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 801 ---
+SNI: clicklearning.org
+Status: BLOCKED
+
+--- Result 802 ---
+SNI: vpn.belgiumcampus.ac.za
+Status: BLOCKED
+
+--- Result 803 ---
+SNI: southfieldprimary.com
+Status: BLOCKED
+
+--- Result 804 ---
+SNI: sp.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 805 ---
+SNI: files.colcampus.com
+Status: BLOCKED
+
+--- Result 806 ---
+SNI: ui.hpc.ufs.ac.za
+Status: BLOCKED
+
+--- Result 807 ---
+SNI: learn-mm.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 808 ---
+SNI: api.ufs.ac.za
+Status: BLOCKED
+
+--- Result 809 ---
+SNI: ase.co.za
+Status: BLOCKED
+
+--- Result 810 ---
+SNI: brightbeginningspreschool.co.za
+Status: BLOCKED
+
+--- Result 811 ---
+SNI: myclass.cityvarsity.co.za
+Status: BLOCKED
+
+--- Result 812 ---
+SNI: danville.co.za
+Status: BLOCKED
+
+--- Result 813 ---
+SNI: ufh.ac.za
+Status: BLOCKED
+
+--- Result 814 ---
+SNI: parktowngirls.co.za
+Status: BLOCKED
+
+--- Result 815 ---
+SNI: welgemoedprimary.co.za
+Status: BLOCKED
+
+--- Result 816 ---
+SNI: olico.org
+Status: BLOCKED
+
+--- Result 817 ---
+SNI: laerskoolrustenburg.co.za
+Status: BLOCKED
+
+--- Result 818 ---
+SNI: ufs.ac.za
+Status: BLOCKED
+
+--- Result 819 ---
+SNI: glenwoodhouse.co.za
+Status: BLOCKED
+
+--- Result 820 ---
+SNI: sso-prod.sun.ac.za
+Status: BLOCKED
+
+--- Result 821 ---
+SNI: smsnew.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 822 ---
+SNI: southdownscollege.co.za
+Status: BLOCKED
+
+--- Result 823 ---
+SNI: ebet.mandela.ac.za
+Status: BLOCKED
+
+--- Result 824 ---
+SNI: uzspace.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 825 ---
+SNI: myqia.co.za
+Status: BLOCKED
+
+--- Result 826 ---
+SNI: lenhamprimary.co.za
+Status: BLOCKED
+
+--- Result 827 ---
+SNI: jlakademie.co.za
+Status: BLOCKED
+
+--- Result 828 ---
+SNI: mancosaconnect.ac.za
+Status: BLOCKED
+
+--- Result 829 ---
+SNI: insight.netcare.co.za
+Status: BLOCKED
+
+--- Result 830 ---
+SNI: scottsvilleschool.co.za
+Status: BLOCKED
+
+--- Result 831 ---
+SNI: atmyschool.co.za
+Status: BLOCKED
+
+--- Result 832 ---
+SNI: schoolturnaroundfoundation.org.za
+Status: BLOCKED
+
+--- Result 833 ---
+SNI: tygervalleycollege.co.za
+Status: BLOCKED
+
+--- Result 834 ---
+SNI: media-elearn.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 835 ---
+SNI: law.mandela.ac.za
+Status: BLOCKED
+
+--- Result 836 ---
+SNI: fairvaless.co.za
+Status: BLOCKED
+
+--- Result 837 ---
+SNI: eshaneprimary.co.za
+Status: BLOCKED
+
+--- Result 838 ---
+SNI: treverton.co.za
+Status: BLOCKED
+
+--- Result 839 ---
+SNI: current.cornerstone.ac.za
+Status: BLOCKED
+
+--- Result 840 ---
+SNI: custompages.appextents.com
+Status: BLOCKED
+
+--- Result 841 ---
+SNI: regentonline.ac.za
+Status: BLOCKED
+
+--- Result 842 ---
+SNI: schoollms.online
+Status: BLOCKED
+
+--- Result 843 ---
+SNI: lydenburghs.co.za
+Status: BLOCKED
+
+--- Result 844 ---
+SNI: saastewc.co.za
+Status: BLOCKED
+
+--- Result 845 ---
+SNI: home.iwhiz.co.za
+Status: BLOCKED
+
+--- Result 846 ---
+SNI: myembury.embury.ac.za
+Status: BLOCKED
+
+--- Result 847 ---
+SNI: edgemeadhigh.org.za
+Status: BLOCKED
+
+--- Result 848 ---
+SNI: myclass.icesa.co.za
+Status: BLOCKED
+
+--- Result 849 ---
+SNI: laerskoolbergland.co.za
+Status: BLOCKED
+
+--- Result 850 ---
+SNI: funda19.cornerstone.ac.za
+Status: BLOCKED
+
+--- Result 851 ---
+SNI: learn.linksidehs.co.za
+Status: BLOCKED
+
+--- Result 852 ---
+SNI: knysnahigh.co.za
+Status: BLOCKED
+
+--- Result 853 ---
+SNI: daniemalan.co.za
+Status: BLOCKED
+
+--- Result 854 ---
+SNI: moodle-ca.co.za
+Status: BLOCKED
+
+--- Result 855 ---
+SNI: training.vhembecollege.edu.za
+Status: BLOCKED
+
+--- Result 856 ---
+SNI: outeniqua.co.za
+Status: BLOCKED
+
+--- Result 857 ---
+SNI: 4ways.co.za
+Status: BLOCKED
+
+--- Result 858 ---
+SNI: sts.saecapetown.net
+Status: BLOCKED
+
+--- Result 859 ---
+SNI: 156.38.160.122
+Status: BLOCKED
+
+--- Result 860 ---
+SNI: pnps.co.za
+Status: BLOCKED
+
+--- Result 861 ---
+SNI: ccsadurban.co.za
+Status: BLOCKED
+
+--- Result 862 ---
+SNI: syafunda.net
+Status: BLOCKED
+
+--- Result 863 ---
+SNI: hand13.co.za
+Status: BLOCKED
+
+--- Result 864 ---
+SNI: online.lisof.co.za
+Status: BLOCKED
+
+--- Result 865 ---
+SNI: watobe.today
+Status: BLOCKED
+
+--- Result 866 ---
+SNI: holycrosshigh.co.za
+Status: BLOCKED
+
+--- Result 867 ---
+SNI: mynotes.hugenote.com
+Status: BLOCKED
+
+--- Result 868 ---
+SNI: laerskooldenneoord.co.za
+Status: BLOCKED
+
+--- Result 869 ---
+SNI: nect.org.za
+Status: BLOCKED
+
+--- Result 870 ---
+SNI: futurekidslms.co.za
+Status: BLOCKED
+
+--- Result 871 ---
+SNI: smms.ac.za
+Status: BLOCKED
+
+--- Result 872 ---
+SNI: uitenhagehigh.co.za
+Status: BLOCKED
+
+--- Result 873 ---
+SNI: lab1.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 874 ---
+SNI: dghs.co.za
+Status: BLOCKED
+
+--- Result 875 ---
+SNI: aero2019.stellenboschacademy.co.za
+Status: BLOCKED
+
+--- Result 876 ---
+SNI: applyonline.mandela.ac.za
+Status: BLOCKED
+
+--- Result 877 ---
+SNI: dev.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 878 ---
+SNI: myclass.lyceum.co.za
+Status: BLOCKED
+
+--- Result 879 ---
+SNI: student.saecapetown.net
+Status: BLOCKED
+
+--- Result 880 ---
+SNI: suvpn.sun.ac.za
+Status: BLOCKED
+
+--- Result 881 ---
+SNI: studentbase.sacap.edu.za
+Status: BLOCKED
+
+--- Result 882 ---
+SNI: cdn.sun.ac.za
+Status: BLOCKED
+
+--- Result 883 ---
+SNI: moodle.krugersdorphigh.co.za
+Status: BLOCKED
+
+--- Result 884 ---
+SNI: imap.savic.ac.za
+Status: BLOCKED
+
+--- Result 885 ---
+SNI: 159.65.196.188
+Status: BLOCKED
+
+--- Result 886 ---
+SNI: learning.capeaudiocollege.co.za
+Status: BLOCKED
+
+--- Result 887 ---
+SNI: ctutraining.ac.za
+Status: BLOCKED
+
+--- Result 888 ---
+SNI: myfuture.mandela.ac.za
+Status: BLOCKED
+
+--- Result 889 ---
+SNI: progressnet.nl
+Status: BLOCKED
+
+--- Result 890 ---
+SNI: moodle.clarendonps.co.za
+Status: BLOCKED
+
+--- Result 891 ---
+SNI: mail.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 892 ---
+SNI: damtraining.co.za
+Status: BLOCKED
+
+--- Result 893 ---
+SNI: hspcrswart.co.za
+Status: BLOCKED
+
+--- Result 894 ---
+SNI: sacap.edu.za
+Status: BLOCKED
+
+--- Result 895 ---
+SNI: ilearn.taxfaculty.ac.za
+Status: BLOCKED
+
+--- Result 896 ---
+SNI: durbanhighschool.co.za
+Status: BLOCKED
+
+--- Result 897 ---
+SNI: uct-service-now-com.ezproxy.uct.ac.za
+Status: BLOCKED
+
+--- Result 898 ---
+SNI: kulliesonline.co.za
+Status: BLOCKED
+
+--- Result 899 ---
+SNI: cpanel.kznlegislature.gov.za
+Status: BLOCKED
+
+--- Result 900 ---
+SNI: stenden.ac.za
+Status: BLOCKED
+
+--- Result 901 ---
+SNI: library.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 902 ---
+SNI: eligwa.co.za
+Status: BLOCKED
+
+--- Result 903 ---
+SNI: lab3.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 904 ---
+SNI: cpanel.ukdm.gov.za
+Status: BLOCKED
+
+--- Result 905 ---
+SNI: zibuza.azurewebsites.net
+Status: BLOCKED
+
+--- Result 906 ---
+SNI: intranet.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 907 ---
+SNI: kznlegislature.gov.za
+Status: BLOCKED
+
+--- Result 908 ---
+SNI: mymodules.dtls.unisa.ac.za
+Status: BLOCKED
+
+--- Result 909 ---
+SNI: cpcalendars.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 910 ---
+SNI: lab4.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 911 ---
+SNI: employee.dkm.gov.za
+Status: BLOCKED
+
+--- Result 912 ---
+SNI: hbc.ac.za
+Status: BLOCKED
+
+--- Result 913 ---
+SNI: stenden.studentmanager.co.za
+Status: BLOCKED
+
+--- Result 914 ---
+SNI: moodle.edutel.ac.za
+Status: BLOCKED
+
+--- Result 915 ---
+SNI: library.hugenote.com
+Status: BLOCKED
+
+--- Result 916 ---
+SNI: onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 917 ---
+SNI: oldsite.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 918 ---
+SNI: incoko.mandela.ac.za
+Status: BLOCKED
+
+--- Result 919 ---
+SNI: mnquma.gov.za
+Status: BLOCKED
+
+--- Result 920 ---
+SNI: usblearn.belpark.sun.ac.za
+Status: BLOCKED
+
+--- Result 921 ---
+SNI: doh.limpopo.gov.za
+Status: BLOCKED
+
+--- Result 922 ---
+SNI: vaalrivierskool.co.za
+Status: BLOCKED
+
+--- Result 923 ---
+SNI: funda.mandela.ac.za
+Status: BLOCKED
+
+--- Result 924 ---
+SNI: hsbrandwag.co.za
+Status: BLOCKED
+
+--- Result 925 ---
+SNI: ligbrononlinelearning.co.za
+Status: BLOCKED
+
+--- Result 926 ---
+SNI: ukdm.gov.za
+Status: BLOCKED
+
+--- Result 927 ---
+SNI: gdecontent.co.za
+Status: BLOCKED
+
+--- Result 928 ---
+SNI: trinityhouse.co.za
+Status: BLOCKED
+
+--- Result 929 ---
+SNI: tuskies.co.za
+Status: BLOCKED
+
+--- Result 930 ---
+SNI: hsgrabouw.co.za
+Status: BLOCKED
+
+--- Result 931 ---
+SNI: sso.sun.ac.za
+Status: BLOCKED
+
+--- Result 932 ---
+SNI: ictsscontractvendor.gauteng.gov.za
+Status: BLOCKED
+
+--- Result 933 ---
+SNI: mgps.co.za
+Status: BLOCKED
+
+--- Result 934 ---
+SNI: huttenpark.co.za
+Status: BLOCKED
+
+--- Result 935 ---
+SNI: lsvandykprimary.co.za
+Status: BLOCKED
+
+--- Result 936 ---
+SNI: myhub.curro.co.za
+Status: BLOCKED
+
+--- Result 937 ---
+SNI: taponphone.vodacom.co.za
+Status: BLOCKED
+
+--- Result 938 ---
+SNI: drhavinga.co.za
+Status: BLOCKED
+
+--- Result 939 ---
+SNI: maragon.co.za
+Status: BLOCKED
+
+--- Result 940 ---
+SNI: jankriel.co.za
+Status: BLOCKED
+
+--- Result 941 ---
+SNI: thegrove.co.za
+Status: BLOCKED
+
+--- Result 942 ---
+SNI: coronavirus.westerncape.gov.za
+Status: BLOCKED
+
+--- Result 943 ---
+SNI: nxt.westerford.co.za
+Status: BLOCKED
+
+--- Result 944 ---
+SNI: rims.ufs.ac.za
+Status: BLOCKED
+
+--- Result 945 ---
+SNI: hfm.co.za
+Status: BLOCKED
+
+--- Result 946 ---
+SNI: laerskoolelspark.co.zaa
+Status: BLOCKED
+
+--- Result 947 ---
+SNI: tomnewbyschool.co.za
+Status: BLOCKED
+
+--- Result 948 ---
+SNI: sutherlandhs.co.za
+Status: BLOCKED
+
+--- Result 949 ---
+SNI: ienabler.pec.edu.za
+Status: BLOCKED
+
+--- Result 950 ---
+SNI: connect.wits.ac.za
+Status: BLOCKED
+
+--- Result 951 ---
+SNI: totius.co.za
+Status: BLOCKED
+
+--- Result 952 ---
+SNI: ligbron.co.za
+Status: BLOCKED
+
+--- Result 953 ---
+SNI: presidenths.co.za
+Status: BLOCKED
+
+--- Result 954 ---
+SNI: hstygerberg.co.za
+Status: BLOCKED
+
+--- Result 955 ---
+SNI: together4uscitc.co.za
+Status: BLOCKED
+
+--- Result 956 ---
+SNI: npps.co.za
+Status: BLOCKED
+
+--- Result 957 ---
+SNI: taxfaculty.ac.za
+Status: BLOCKED
+
+--- Result 958 ---
+SNI: glenwoodprep.co.za
+Status: BLOCKED
+
+--- Result 959 ---
+SNI: i-school.co.za
+Status: BLOCKED
+
+--- Result 960 ---
+SNI: homework.stirlinghs.co.za
+Status: BLOCKED
+
+--- Result 961 ---
+SNI: studentportal.hermanusvarsity.co.za
+Status: BLOCKED
+
+--- Result 962 ---
+SNI: scd-nwu-ac-za.web.nwu.ac.za
+Status: BLOCKED
+
+--- Result 963 ---
+SNI: storage.dimension5.co.za
+Status: BLOCKED
+
+--- Result 964 ---
+SNI: villiotifashioninstitute-portal.co.za
+Status: BLOCKED
+
+--- Result 965 ---
+SNI: hermanushigh.co.za
+Status: BLOCKED
+
+--- Result 966 ---
+SNI: unizulu.ac.za
+Status: BLOCKED
+
+--- Result 967 ---
+SNI: moodle.cct.edu.za
+Status: BLOCKED
+
+--- Result 968 ---
+SNI: superelsies.co.za
+Status: BLOCKED
+
+--- Result 969 ---
+SNI: cpcontacts.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 970 ---
+SNI: teachfolk.com
+Status: BLOCKED
+
+--- Result 971 ---
+SNI: 3dca-droomskool.co.za
+Status: BLOCKED
+
+--- Result 972 ---
+SNI: kwaggasrand.co.za
+Status: BLOCKED
+
+--- Result 973 ---
+SNI: cjcapp.cjc.edu.za
+Status: BLOCKED
+
+--- Result 974 ---
+SNI: sc.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 975 ---
+SNI: learn.mandela.ac.za
+Status: BLOCKED
+
+--- Result 976 ---
+SNI: laerskoolfairland.co.za
+Status: BLOCKED
+
+--- Result 977 ---
+SNI: sunlands.co.za
+Status: BLOCKED
+
+--- Result 978 ---
+SNI: laerskoolmontagu.net
+Status: BLOCKED
+
+--- Result 979 ---
+SNI: tinymions.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
