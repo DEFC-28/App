@@ -20,5 +20,16 @@
     "ipAddress": "64.227.140.137",
     "userAgent": "Mozilla/5.0 (Linux; Android 13; itel A663L Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.109 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Test user",
+    "email": null,
+    "phone": "+42555555556",
+    "squad": "None",
+    "registeredAt": 1770439436230,
+    "expiresAt": 1770439733600,
+    "ipAddress": "64.227.140.137",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
