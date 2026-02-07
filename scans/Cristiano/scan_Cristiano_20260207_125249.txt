@@ -1,0 +1,26 @@
+=== SNI SCAN RESULT ===
+Scan ID: 6822675dcc9e4d80
+Username: Cristiano
+Date: 2026-02-07 12:44:24
+Timestamp: 1770461064502
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Test Duration: 0s
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: hdnsjs.co
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
