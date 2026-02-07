@@ -1,0 +1,281 @@
+=== SNI SCAN RESULT ===
+Scan ID: 5183297969004868
+Username: Kaylah
+Date: 2026-02-07 06:50:19
+Timestamp: 1770439819819
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 10
+Failed: 0
+Success Rate: 15.15%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: ulwazi.wits.ac.za
+Status: YES
+
+--- Result 2 ---
+SNI: upnet.up.ac.za
+Status: YES
+
+--- Result 3 ---
+SNI: umfolozicollege.co.za
+Status: YES
+
+--- Result 4 ---
+SNI: gscollege.edu.za
+Status: YES
+
+--- Result 5 ---
+SNI: elangeni.edu.za
+Status: YES
+
+--- Result 6 ---
+SNI: cjc.edu.za
+Status: YES
+
+--- Result 7 ---
+SNI: vuselelacollege.co.za
+Status: YES
+
+--- Result 8 ---
+SNI: mthashanacollege.co.za
+Status: YES
+
+--- Result 9 ---
+SNI: tvetcolleges.co.za
+Status: YES
+
+--- Result 10 ---
+SNI: waterbergcollege.co.za
+Status: YES
+
+--- Result 11 ---
+SNI: rxradio.co.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: westcoastcollege.co.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: stg.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: mnquma.gov.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: ruconnected.ru.ac.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: commerce.nwu.ac.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: webdisk.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: registration.uj.ac.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: learn2021-01.imm.ac.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: cpanel.kznlegislature.gov.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: dev.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: intranet.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: ictsscontractvendor.gauteng.gov.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: smu.ac.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: uj.ac.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: imap.savic.ac.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: gdeadmissions.gov.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: cpanel.ukdm.gov.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: sccollege.co.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: coastalkzn.co.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: mymodules.dtls.unisa.ac.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: oldsite.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: lab2.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: cpcalendars.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: ienabler.pec.edu.za
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: mail.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: employee.dkm.gov.za
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: ukdm.gov.za
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: cpcontacts.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: zibuza.azurewebsites.net
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: adam.uj.ac.za
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: webdisk.ukdm.gov.za
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: kznlegislature.gov.za
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: mail.nsa.edu.za
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: connect.wits.ac.za
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: myrhodes.ac.za
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: vaccine.certificate.health.gov.za
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: blueprint.gov.za
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: scd-nwu-ac-za.web.nwu.ac.za
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: courses.ms.wits.ac.za
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: myru.ac.za
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: zibuza.net
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: wcedonline.westerncape.gov.za
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: taponphone.vodacom.co.za
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: lab4.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: lab3.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: lab1.onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: umlalazi.gov.za
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: ewc.edu.za
+Status: BLOCKED
+
+--- Result 61 ---
+SNI: kokstad.gov.za
+Status: BLOCKED
+
+--- Result 62 ---
+SNI: media.uct.ac.za
+Status: BLOCKED
+
+--- Result 63 ---
+SNI: uct-service-now-com.ezproxy.uct.ac.za
+Status: BLOCKED
+
+--- Result 64 ---
+SNI: cpanel.kokstad.gov.za
+Status: BLOCKED
+
+--- Result 65 ---
+SNI: onlinecms.mtn.co.za
+Status: BLOCKED
+
+--- Result 66 ---
+SNI: webwork.uj.ac.za
+Status: BLOCKED
+
+=== END OF SCAN ===
