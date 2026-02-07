@@ -8,5 +8,15 @@
     "createdAt": 1770416612736,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "Test user",
+    "key": "HLZDNOHUYKSNKFL7",
+    "expiresAt": 1770439733600,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770439436232,
+    "registrationSource": "web_portal",
+    "squad": "None"
   }
 ]
