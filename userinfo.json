@@ -42,5 +42,16 @@
     "ipAddress": "57.128.189.211",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "TribalChief",
+    "email": null,
+    "phone": "+27793652324",
+    "squad": null,
+    "registeredAt": 1770443670426,
+    "expiresAt": 1770443968911,
+    "ipAddress": "160.119.251.15",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
