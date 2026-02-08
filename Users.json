@@ -68,5 +68,15 @@
     "createdAt": 1770499328184,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "1",
+    "key": "G2VYQS2DJN8HG9NS",
+    "expiresAt": 1770537098536,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1770536799108,
+    "registrationSource": "web_portal",
+    "squad": "1"
   }
 ]
