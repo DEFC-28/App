@@ -71,12 +71,12 @@
   },
   {
     "username": "1",
-    "key": "G2VYQS2DJN8HG9NS",
-    "expiresAt": 1770537098536,
+    "key": "OS5FA0293RGO4DRO",
+    "expiresAt": 1770654750925,
     "duration": 5,
     "createdBy": "self_registered",
-    "createdAt": 1770536799108,
+    "createdAt": 1770654452783,
     "registrationSource": "web_portal",
-    "squad": "1"
+    "squad": null
   }
 ]
