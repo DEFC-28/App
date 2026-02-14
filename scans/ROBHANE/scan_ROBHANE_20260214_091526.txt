@@ -1,0 +1,58 @@
+=== SNI SCAN RESULT ===
+Scan ID: 9d080a94fe33440a
+Username: ROBHANE
+Date: 2026-02-02 18:58:21
+Timestamp: 1770051501793
+ISP: Mobile: Vodacom
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 5
+Failed: 0
+Success Rate: 100.0%
+Test Duration: 0s
+Network ISP: Mobile: Vodacom
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: jobjack.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: careerjunction.co.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: careersinafrica.com
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: definingmomentsihc.com
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 5 ---
+SNI: milpark.ac.za
+Status: YES
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
