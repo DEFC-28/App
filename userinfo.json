@@ -108,5 +108,16 @@
     "ipAddress": "51.68.184.210",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "ROBHANE",
+    "email": "hlabisamelusi28@gmail.com",
+    "phone": "+2764 875 8272",
+    "squad": "I Don't have a Crew Gang",
+    "registeredAt": 1771053268138,
+    "expiresAt": 1771053565816,
+    "ipAddress": "104.238.221.48",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
