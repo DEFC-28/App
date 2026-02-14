@@ -78,5 +78,15 @@
     "createdAt": 1770654452783,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "ROBHANE",
+    "key": "K327VQ63MOPYCABM",
+    "expiresAt": 1771053565816,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1771053268153,
+    "registrationSource": "web_portal",
+    "squad": "I Don't have a Crew Gang"
   }
 ]
