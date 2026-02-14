@@ -1,0 +1,58 @@
+=== SNI SCAN RESULT ===
+Scan ID: 74b2cbcf1a754967
+Username: ROBHANE
+Date: 2026-02-02 19:01:24
+Timestamp: 1770051684005
+ISP: Mobile: Vodacom
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Test Duration: 0s
+Network ISP: Mobile: Vodacom
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: jobjack.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 2 ---
+SNI: definingmomentsihc.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 3 ---
+SNI: careerjunction.co.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 4 ---
+SNI: milpark.ac.za
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+--- Result 5 ---
+SNI: careersinafrica.com
+Status: BLOCKED
+IP Address: 
+Port: 0
+SSL Version: 
+Latency: 0ms
+
+=== END OF SCAN ===
