@@ -119,5 +119,16 @@
     "ipAddress": "104.238.221.48",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Kaylahh",
+    "email": null,
+    "phone": "+27833200248",
+    "squad": "Gay",
+    "registeredAt": 1771158052266,
+    "expiresAt": 1771158351413,
+    "ipAddress": "169.239.181.228",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
