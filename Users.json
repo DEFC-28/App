@@ -98,5 +98,15 @@
     "createdAt": 1771158052267,
     "registrationSource": "web_portal",
     "squad": "Gay"
+  },
+  {
+    "username": "Koros",
+    "key": "LI5QWCTXYSCC4P3L",
+    "expiresAt": 1771270432132,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1771270132817,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
