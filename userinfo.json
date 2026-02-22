@@ -152,5 +152,16 @@
     "ipAddress": "107.189.10.66",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Laurentgaudence",
+    "email": "laurentgaudence1@gmail.com",
+    "phone": "+255788386109",
+    "squad": "Mrwifivitonga",
+    "registeredAt": 1771777472979,
+    "expiresAt": 1771777772464,
+    "ipAddress": "154.74.157.26",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "source": "web_registration"
   }
 ]
