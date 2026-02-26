@@ -163,5 +163,16 @@
     "ipAddress": "154.74.157.26",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Thetribal",
+    "email": null,
+    "phone": "+27793652324",
+    "squad": null,
+    "registeredAt": 1772097776323,
+    "expiresAt": 1772098075184,
+    "ipAddress": "169.239.181.228",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
