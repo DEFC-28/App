@@ -196,5 +196,16 @@
     "ipAddress": "102.130.127.135",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "L",
+    "email": "fyubji",
+    "phone": "+255885685",
+    "squad": "Fhuj",
+    "registeredAt": 1772465601059,
+    "expiresAt": 1772465900397,
+    "ipAddress": "192.143.103.92",
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.80 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
