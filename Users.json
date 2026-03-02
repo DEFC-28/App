@@ -38,5 +38,15 @@
     "createdAt": 1772129572137,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "L",
+    "key": "F4V7XIK12J4I6MBW",
+    "expiresAt": 1772465900397,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1772465601059,
+    "registrationSource": "web_portal",
+    "squad": "Fhuj"
   }
 ]
