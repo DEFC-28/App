@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 8654dbe6ef1f4481
+Username: L
+Date: 2026-03-02 17:48:26
+Timestamp: 1772466506514
+ISP: No Network
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: No Network
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: auth.mtn.com.gh
+Status: BLOCKED
+
+=== END OF SCAN ===
