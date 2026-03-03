@@ -1,0 +1,37 @@
+=== SNI SCAN RESULT ===
+Scan ID: 490972dac1e24575
+Username: L
+Date: 2026-03-02 17:40:39
+Timestamp: 1772466039191
+ISP: WiFi (IP: 192.168.1.105...)
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 5
+Failed: 0
+Success Rate: 100.0%
+Network ISP: WiFi (IP: 192.168.1.105...)
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: so.sun.ac.za
+Status: YES
+
+--- Result 2 ---
+SNI: ervicedesk.sun.ac.za
+Status: YES
+
+--- Result 3 ---
+SNI: un.ac.za
+Status: YES
+
+--- Result 4 ---
+SNI: libguides.sun.ac.za
+Status: YES
+
+--- Result 5 ---
+SNI: library.up.ac.za
+Status: YES
+
+=== END OF SCAN ===
