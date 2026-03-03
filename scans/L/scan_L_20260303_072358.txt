@@ -1,0 +1,29 @@
+=== SNI SCAN RESULT ===
+Scan ID: c8694c8876f2454a
+Username: L
+Date: 2026-03-02 17:50:40
+Timestamp: 1772466640301
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: 3dsbrowser.capitecbank.co.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: africademo2.topicworx.co.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: 3ds.capitecbank.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
