@@ -1,0 +1,157 @@
+=== SNI SCAN RESULT ===
+Scan ID: 352d32c7dff84fa4
+Username: L
+Date: 2026-03-02 18:04:19
+Timestamp: 1772467459407
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: api.topicworx.co.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: africademo.topicworx.co.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: apps.topicworx.co.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: africademo2.topicworx.co.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: api-absa.topicworx.co.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: beth.topicworx.co.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: azule-risk-assessment.topicworx.co.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: azule.pwa.topicworx.co.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: birdperson.topicworx.co.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: avocato.topicworx.co.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: bowser.topicworx.co.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: bmo.topicworx.co.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: credit.topicworx.co.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: covid.topicworx.co.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: control.topicworx.co.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: goodspeed.topicworx.co.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: iceking.topicworx.co.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: fmproject.topicworx.co.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: gary.topicworx.co.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: ds.topicworx.co.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: intelligence.topicworx.co.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: jerry.topicworx.co.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: karen.topicworx.co.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: jake.topicworx.co.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: menendez.topicworx.co.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: mrkrabs.topicworx.co.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: morty.topicworx.co.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: patrick.topicworx.co.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: mooncake.topicworx.co.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: peach.topicworx.co.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: pwa-test.topicworx.co.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: push.topicworx.co.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: pwa.topicworx.co.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: pearl.topicworx.co.za
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: plankton.topicworx.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
