@@ -1,0 +1,37 @@
+=== SNI SCAN RESULT ===
+Scan ID: d5603391bcf04951
+Username: L
+Date: 2026-03-02 17:41:30
+Timestamp: 1772466090035
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: library.up.ac.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: un.ac.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: libguides.sun.ac.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: ervicedesk.sun.ac.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: so.sun.ac.za
+Status: BLOCKED
+
+=== END OF SCAN ===
