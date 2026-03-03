@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: a80683522d1c4c49
+Username: L
+Date: 2026-03-02 17:48:51
+Timestamp: 1772466531032
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: auth.mtn.com.gh
+Status: BLOCKED
+
+=== END OF SCAN ===
