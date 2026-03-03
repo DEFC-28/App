@@ -48,5 +48,15 @@
     "createdAt": 1772465601059,
     "registrationSource": "web_portal",
     "squad": "Fhuj"
+  },
+  {
+    "username": "MERRO",
+    "key": "FBM5CLDR23NDA0K4",
+    "expiresAt": 1772564962986,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1772564663921,
+    "registrationSource": "web_portal",
+    "squad": "I Don't have a Crew Gang"
   }
 ]
