@@ -1,0 +1,23 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-03-02 17:40:39
+Number of SNIs tested: 5
+ISP used: WiFi (IP: 192.168.1.105...)
+Successful count: 5
+Success rate: 100.0%
+Scan ID: e0baba40-e0b
+Username: L
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+so.sun.ac.za
+ervicedesk.sun.ac.za
+un.ac.za
+libguides.sun.ac.za
+library.up.ac.za
+
+=== METADATA ===
+File saved at: Mon Mar 02 17:40:39 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/L/scan60_L_20260302_174039_39897e53.txt
+File size: 540 bytes
+Status: PENDING_UPLOAD
+=================================
