@@ -218,5 +218,16 @@
     "ipAddress": "102.130.127.135",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Nakhan67",
+    "email": "example@gmail.com",
+    "phone": "+27785028986",
+    "squad": "Trs",
+    "registeredAt": 1773130300556,
+    "expiresAt": 1773130598778,
+    "ipAddress": "51.89.192.99",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
