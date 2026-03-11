@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 07bf248e423449ab
+Username: klone
+Date: 2026-03-11 18:56:23
+Timestamp: 1773248183158
+ISP: No Network
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: No Network
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: free.facebook.com
+Status: BLOCKED
+
+=== END OF SCAN ===
