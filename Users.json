@@ -68,5 +68,15 @@
     "createdAt": 1773130300558,
     "registrationSource": "web_portal",
     "squad": "Trs"
+  },
+  {
+    "username": "Klone",
+    "key": "QM8AZT0OELKCWXSJ",
+    "expiresAt": 1773247892689,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1773247593887,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
