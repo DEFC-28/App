@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 30537a63e5724713
+Username: klone
+Date: 2026-03-11 18:58:20
+Timestamp: 1773248300416
+ISP: WiFi (IP: 192.168.8.100...)
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: WiFi (IP: 192.168.8.100...)
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: m.drct.me
+Status: BLOCKED
+
+=== END OF SCAN ===
