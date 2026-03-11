@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-03-11 18:49:24
+Number of SNIs tested: 1
+ISP used: Mobile: Airtel Zambia
+Successful count: 1
+Success rate: 100.0%
+Scan ID: f88aaa90-d74
+Username: klone
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+free.facebook.com
+
+=== METADATA ===
+File saved at: Wed Mar 11 18:49:24 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/klone/scan60_klone_20260311_184924_f1bbe48e.txt
+File size: 484 bytes
+Status: PENDING_UPLOAD
+=================================
