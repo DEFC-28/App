@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 62343d6d3cb943b0
+Username: klone
+Date: 2026-03-11 18:57:24
+Timestamp: 1773248244768
+ISP: WiFi (IP: 192.168.8.100...)
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: WiFi (IP: 192.168.8.100...)
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: home.mtn.zm
+Status: BLOCKED
+
+=== END OF SCAN ===
