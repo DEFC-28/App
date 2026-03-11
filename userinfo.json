@@ -240,5 +240,16 @@
     "ipAddress": "102.148.110.232",
     "userAgent": "Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.120 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "ROBHA",
+    "email": "ROBHA",
+    "phone": "+27648758272",
+    "squad": "I Don't have a Crew Gang",
+    "registeredAt": 1773256189737,
+    "expiresAt": 1773256487654,
+    "ipAddress": "70.34.218.163",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
