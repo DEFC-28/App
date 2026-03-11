@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: de37e3ef6b8145a9
+Username: klone
+Date: 2026-03-11 18:52:47
+Timestamp: 1773247967166
+ISP: Mobile: Airtel Zambia
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: Airtel Zambia
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: free.facebook.com
+Status: YES
+
+=== END OF SCAN ===
