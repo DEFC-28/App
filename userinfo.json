@@ -229,5 +229,16 @@
     "ipAddress": "51.89.192.99",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Klone",
+    "email": null,
+    "phone": "+260772140620",
+    "squad": null,
+    "registeredAt": 1773247593887,
+    "expiresAt": 1773247892689,
+    "ipAddress": "102.148.110.232",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.120 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
