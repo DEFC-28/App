@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-02-12 03:06:38
+Number of SNIs tested: 1
+ISP used: Mobile: MTNSA
+Successful count: 1
+Success rate: 100,0%
+Scan ID: fa04ab6b-e82
+Username: 2kela
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+sabcnews.com
+
+=== METADATA ===
+File saved at: Thu Feb 12 03:06:38 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/2kela/scan60_2kela_20260212_030638_92827909.txt
+File size: 471 bytes
+Status: PENDING_UPLOAD
+=================================
