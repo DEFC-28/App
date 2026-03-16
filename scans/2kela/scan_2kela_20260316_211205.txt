@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 8d3ccd4300934d0b
+Username: 2kela
+Date: 2026-02-08 19:37:40
+Timestamp: 1770572260802
+ISP: Mobile: MTN-SA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTN-SA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: betway.betwayzero.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
