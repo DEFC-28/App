@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: b15fb3fd765f4498
+Username: 2kela
+Date: 2026-02-08 19:27:26
+Timestamp: 1770571646970
+ISP: Mobile: MTN-SA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTN-SA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: universities.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
