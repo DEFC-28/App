@@ -251,5 +251,16 @@
     "ipAddress": "70.34.218.163",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "2kela",
+    "email": "thukelantuthuko@gmail.com",
+    "phone": "+27 73 563 0238",
+    "squad": "TRS",
+    "registeredAt": 1773688031591,
+    "expiresAt": 1773688324013,
+    "ipAddress": "15.204.245.159",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
