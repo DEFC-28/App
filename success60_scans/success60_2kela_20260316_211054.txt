@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-02-08 13:30:37
+Number of SNIs tested: 1
+ISP used: Mobile Network
+Successful count: 1
+Success rate: 100,0%
+Scan ID: d9ac782b-c0d
+Username: 2kela
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+api.midtrans.com.njay.my.id
+
+=== METADATA ===
+File saved at: Sun Feb 08 13:30:37 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/2kela/scan60_2kela_20260208_133037_4e6b79be.txt
+File size: 487 bytes
+Status: PENDING_UPLOAD
+=================================
