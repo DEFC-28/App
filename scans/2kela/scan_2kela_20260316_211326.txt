@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 8d61fd99bfaf4c4a
+Username: 2kela
+Date: 2026-02-12 03:10:52
+Timestamp: 1770858652831
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: sabcnews.com
+Status: BLOCKED
+
+=== END OF SCAN ===
