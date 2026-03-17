@@ -1,0 +1,33 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-03-16 21:56:39
+Number of SNIs tested: 15
+ISP used: Mobile: MTNSA
+Successful count: 10
+Success rate: 66,7%
+Scan ID: ef1f7d51-9f5
+Username: 2kela
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+cjc.edu.za
+moodle.bolandcollege.com
+capricorncollege.edu.za
+bccollege.co.za
+cct.edu.za
+emcol.co.za
+ewc.edu.za
+efet.co.za
+xbay.bblearn.co.za
+flaviusmareka.net
+tvet coastal tvet college www.coastalkzn.co.za
+ehlanzenicollege.co.za  www.eec.edu.za
+esayidifet.co.za  www.xbaycollege.co.za
+gscollege.co.za  gsc4me.gscollege.edu.za  staff.gscollege.edu.za gsquiz.gscollege.edu.za  gssms.gscollege.edu.za  gscoltech.gscollege.edu.za  www.goldfieldstvet.edu.za www.ikhala.edu.za www.ingwecollege.edu.za  www.ingwecollegelms.co.za  www.kinghintsacollege.edu.za www.ksdcollege.edu.za www.leptvetcol.edu.za
+letcol.co.za  www.lovedalecollege.co.za
+
+=== METADATA ===
+File saved at: Mon Mar 16 21:56:39 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/2kela/scan60_2kela_20260316_215639_92d3ef06.txt
+File size: 1094 bytes
+Status: PENDING_UPLOAD
+=================================
