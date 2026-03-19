@@ -1,0 +1,73 @@
+=== SNI SCAN RESULT ===
+Scan ID: aa8c380d7465492a
+Username: 2kela
+Date: 2026-03-17 12:04:10
+Timestamp: 1773741850641
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: educonnect.co.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: mandela.ac.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: ikhala.edu.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: cct.edu.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: letabafet.co.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: dut.ac.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: orbitcollege.co.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: malutitvet.co.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: cut.ac.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: coastalkzn.co.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: nkangalafet.edu.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: northlink.co.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: motheotvet.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
