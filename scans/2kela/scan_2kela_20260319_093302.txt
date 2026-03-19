@@ -1,0 +1,77 @@
+=== SNI SCAN RESULT ===
+Scan ID: 62175d48a14749d2
+Username: 2kela
+Date: 2026-03-16 21:56:39
+Timestamp: 1773690999101
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 10
+Failed: 0
+Success Rate: 66.67%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: cjc.edu.za
+Status: YES
+
+--- Result 2 ---
+SNI: moodle.bolandcollege.com
+Status: YES
+
+--- Result 3 ---
+SNI: capricorncollege.edu.za
+Status: YES
+
+--- Result 4 ---
+SNI: bccollege.co.za
+Status: YES
+
+--- Result 5 ---
+SNI: cct.edu.za
+Status: YES
+
+--- Result 6 ---
+SNI: emcol.co.za
+Status: YES
+
+--- Result 7 ---
+SNI: ewc.edu.za
+Status: YES
+
+--- Result 8 ---
+SNI: efet.co.za
+Status: YES
+
+--- Result 9 ---
+SNI: xbay.bblearn.co.za
+Status: YES
+
+--- Result 10 ---
+SNI: flaviusmareka.net
+Status: YES
+
+--- Result 11 ---
+SNI: tvet coastal tvet college www.coastalkzn.co.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: ehlanzenicollege.co.za  www.eec.edu.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: esayidifet.co.za  www.xbaycollege.co.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: gscollege.co.za  gsc4me.gscollege.edu.za  staff.gscollege.edu.za gsquiz.gscollege.edu.za  gssms.gscollege.edu.za  gscoltech.gscollege.edu.za  www.goldfieldstvet.edu.za www.ikhala.edu.za www.ingwecollege.edu.za  www.ingwecollegelms.co.za  www.kinghintsacollege.edu.za www.ksdcollege.edu.za www.leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: letcol.co.za  www.lovedalecollege.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
