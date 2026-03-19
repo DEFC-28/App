@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 90c675b3112a4a8b
+Username: 2kela
+Date: 2026-03-16 21:14:15
+Timestamp: 1773688455355
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: clickup.up.ac.za
+Status: YES
+
+=== END OF SCAN ===
