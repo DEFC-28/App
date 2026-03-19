@@ -1,0 +1,161 @@
+=== SNI SCAN RESULT ===
+Scan ID: 45dfc88978b84472
+Username: 2kela
+Date: 2026-03-17 11:29:14
+Timestamp: 1773739754325
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: cput.ac.za www.capricorncollege.co.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: khanacademy.org www.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: nwu.ac ncrtvet.com
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: learn.mindset.africa www.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: cct.edu.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: educonnect.co.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: northlink.co.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: mandela.ac.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: dut.ac.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: cut.ac.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: orbitcollege.co.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: ikhala.edu.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: motheotvet.co.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: coastalkzn.co.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: letabafet.co.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: nkangalafet.edu.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: malutitvet.co.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: cput.ac.za www.capricorncollege.co.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: learn.mindset.africa www.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: nwu.ac ncrtvet.com
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: khanacademy.org www.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: malutitvet.co.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: coastalkzn.co.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: mandela.ac.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: ikhala.edu.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: motheotvet.co.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: dut.ac.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: cct.edu.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: northlink.co.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: cut.ac.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: educonnect.co.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: orbitcollege.co.za
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: letabafet.co.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: nkangalafet.edu.za
+Status: BLOCKED
+
+=== END OF SCAN ===
