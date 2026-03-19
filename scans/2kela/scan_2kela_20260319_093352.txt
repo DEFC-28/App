@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 5f19aea2b0024f21
+Username: 2kela
+Date: 2026-03-17 12:12:58
+Timestamp: 1773742378180
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: darksocketkofnet.duckns.org
+Status: BLOCKED
+
+=== END OF SCAN ===
