@@ -1,0 +1,33 @@
+=== SNI SCAN RESULT ===
+Scan ID: 732d34c267504ebf
+Username: 2kela
+Date: 2026-03-17 11:25:38
+Timestamp: 1773739538224
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: nwu.ac ncrtvet.com
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: cput.ac.za www.capricorncollege.co.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: khanacademy.org www.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: learn.mindset.africa www.mopanicollege.edu.za
+Status: BLOCKED
+
+=== END OF SCAN ===
