@@ -1,0 +1,69 @@
+=== SNI SCAN RESULT ===
+Scan ID: 0430113e30854464
+Username: 2kela
+Date: 2026-03-19 09:43:24
+Timestamp: 1773906204907
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 13
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: westcol.co
+Status: YES
+
+--- Result 2 ---
+SNI: univen.ac.za
+Status: YES
+
+--- Result 3 ---
+SNI: uj.ac.za
+Status: YES
+
+--- Result 4 ---
+SNI: ukzn.ac.za
+Status: YES
+
+--- Result 5 ---
+SNI: unisa.ac.za
+Status: YES
+
+--- Result 6 ---
+SNI: malutitvet.co.za
+Status: YES
+
+--- Result 7 ---
+SNI: uwc.ac.za
+Status: YES
+
+--- Result 8 ---
+SNI: ufs.ac.za
+Status: YES
+
+--- Result 9 ---
+SNI: ul.ac.za
+Status: YES
+
+--- Result 10 ---
+SNI: up.ac.za
+Status: YES
+
+--- Result 11 ---
+SNI: wits.ac.za
+Status: YES
+
+--- Result 12 ---
+SNI: wsu.ac.za
+Status: YES
+
+--- Result 13 ---
+SNI: westcoastcollege.coza
+Status: YES
+
+=== END OF SCAN ===
