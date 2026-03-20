@@ -262,5 +262,16 @@
     "ipAddress": "15.204.245.159",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "GANG",
+    "email": "OGGA",
+    "phone": "+27648758272",
+    "squad": "I Don't have a Crew Gang",
+    "registeredAt": 1774029015503,
+    "expiresAt": 1774029314718,
+    "ipAddress": "102.130.127.135",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
