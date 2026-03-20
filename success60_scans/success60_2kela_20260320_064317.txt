@@ -1,0 +1,31 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-03-19 09:43:53
+Number of SNIs tested: 13
+ISP used: Mobile: MTNSA
+Successful count: 13
+Success rate: 100,0%
+Scan ID: 60913ec1-4b6
+Username: 2kela
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+unisa.ac.za
+univen.ac.za
+malutitvet.co.za
+wits.ac.za
+uj.ac.za
+uwc.ac.za
+westcoastcollege.coza
+westcol.co
+ukzn.ac.za
+up.ac.za
+ul.ac.za
+wsu.ac.za
+ufs.ac.za
+
+=== METADATA ===
+File saved at: Thu Mar 19 09:43:53 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/2kela/scan60_2kela_20260319_094353_cf194f28.txt
+File size: 614 bytes
+Status: PENDING_UPLOAD
+=================================
