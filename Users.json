@@ -98,5 +98,15 @@
     "createdAt": 1773688031595,
     "registrationSource": "web_portal",
     "squad": "TRS"
+  },
+  {
+    "username": "GANG",
+    "key": "WPKG89UYJVGODX77",
+    "expiresAt": 1774029314718,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1774029015504,
+    "registrationSource": "web_portal",
+    "squad": "I Don't have a Crew Gang"
   }
 ]
