@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-03-19 09:50:41
+Number of SNIs tested: 1
+ISP used: Mobile: MTNSA
+Successful count: 1
+Success rate: 100,0%
+Scan ID: bb482129-86a
+Username: 2kela
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+wits.ac.za
+
+=== METADATA ===
+File saved at: Thu Mar 19 09:50:41 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/2kela/scan60_2kela_20260319_095041_a111c7c3.txt
+File size: 469 bytes
+Status: PENDING_UPLOAD
+=================================
