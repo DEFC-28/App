@@ -1,0 +1,69 @@
+=== SNI SCAN RESULT ===
+Scan ID: 61ddea8ffeb749d1
+Username: 2kela
+Date: 2026-03-19 09:57:08
+Timestamp: 1773907028707
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: ul.ac.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: ufs.ac.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: up.ac.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: wits.ac.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: malutitvet.co.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: uj.ac.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: westcoastcollege.coza
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: ukzn.ac.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: westcol.co
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: unisa.ac.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: wsu.ac.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: uwc.ac.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: univen.ac.za
+Status: BLOCKED
+
+=== END OF SCAN ===
