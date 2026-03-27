@@ -273,5 +273,16 @@
     "ipAddress": "102.130.127.135",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Ntukzin",
+    "email": null,
+    "phone": "+27718062202",
+    "squad": "TRS",
+    "registeredAt": 1774603830448,
+    "expiresAt": 1774604126959,
+    "ipAddress": "66.163.125.176",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
