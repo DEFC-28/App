@@ -108,5 +108,15 @@
     "createdAt": 1774029015504,
     "registrationSource": "web_portal",
     "squad": "I Don't have a Crew Gang"
+  },
+  {
+    "username": "Ntukzin",
+    "key": "2E8OXGR0O9EADQKV",
+    "expiresAt": 1774604126959,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1774603830450,
+    "registrationSource": "web_portal",
+    "squad": "TRS"
   }
 ]
