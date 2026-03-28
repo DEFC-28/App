@@ -1,0 +1,909 @@
+=== SNI SCAN RESULT ===
+Scan ID: e9b0022da6754a9a
+Username: ItzzChaiii
+Date: 2026-03-28 16:32:20
+Timestamp: 1774708340710
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: mail.vut.ac.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: elearning.spu.ac.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: mail.spu.ac.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: mail.mut.ac.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: library.ul.ac.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: portal.ul.ac.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: node6.campus6.ac.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: staff.ul.ac.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: staff.vut.ac.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: cloud.spu.ac.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: node95.campus45.ac.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: node104.campus4.ac.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: services.vut.ac.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: connect.mut.ac.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: apps.vut.ac.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: node125.campus25.ac.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: node29.campus29.ac.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: learn.ul.ac.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: node69.campus19.ac.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: vut.ac.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: node116.campus16.ac.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: node108.campus8.ac.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: node22.campus22.ac.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: learn.spu.ac.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: learn.vut.ac.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: node25.campus25.ac.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: node16.campus16.ac.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: cloud.ul.ac.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: webmail.ul.ac.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: online.vut.ac.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: node43.campus43.ac.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: services.mut.ac.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: node10.campus10.ac.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: cloud.mut.ac.zaspu.ac.za
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: node21.campus21.ac.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: courses.mut.ac.za
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: node5.campus5.ac.za
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: student.spu.ac.za
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: node86.campus36.ac.za
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: online.ul.ac.za
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: vpn.vut.ac.za
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: node112.campus12.ac.za
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: admin.mut.ac.za
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: node27.campus27.ac.za
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: node60.campus10.ac.za
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: node78.campus28.ac.za
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: node14.campus14.ac.za
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: node7.campus7.ac.za
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: lms.ul.ac.za
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: services.spu.ac.za
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: webmail.mut.ac.za
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: node38.campus38.ac.za
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: intranet.mut.ac.za
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: node119.campus19.ac.za
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: node35.campus35.ac.za
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: node90.campus40.ac.za
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: node26.campus26.ac.za
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: cloud.vut.ac.za
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: library.mut.ac.za
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: node122.campus22.ac.za
+Status: BLOCKED
+
+--- Result 61 ---
+SNI: node67.campus17.ac.za
+Status: BLOCKED
+
+--- Result 62 ---
+SNI: node130.campus30.ac.za
+Status: BLOCKED
+
+--- Result 63 ---
+SNI: node42.campus42.ac.za
+Status: BLOCKED
+
+--- Result 64 ---
+SNI: apps.spu.ac.za
+Status: BLOCKED
+
+--- Result 65 ---
+SNI: webmail.spu.ac.za
+Status: BLOCKED
+
+--- Result 66 ---
+SNI: node79.campus29.ac.za
+Status: BLOCKED
+
+--- Result 67 ---
+SNI: connect.spu.ac.za
+Status: BLOCKED
+
+--- Result 68 ---
+SNI: portal.mut.ac.za
+Status: BLOCKED
+
+--- Result 69 ---
+SNI: admin.ul.ac.za
+Status: BLOCKED
+
+--- Result 70 ---
+SNI: node134.campus34.ac.za
+Status: BLOCKED
+
+--- Result 71 ---
+SNI: node98.campus48.ac.za
+Status: BLOCKED
+
+--- Result 72 ---
+SNI: spu.ac.za
+Status: BLOCKED
+
+--- Result 73 ---
+SNI: node54.campus4.ac.za
+Status: BLOCKED
+
+--- Result 74 ---
+SNI: vpn.mut.ac.za
+Status: BLOCKED
+
+--- Result 75 ---
+SNI: node91.campus41.ac.za
+Status: BLOCKED
+
+--- Result 76 ---
+SNI: node31.campus31.ac.za
+Status: BLOCKED
+
+--- Result 77 ---
+SNI: node2.campus2.ac.za
+Status: BLOCKED
+
+--- Result 78 ---
+SNI: node40.campus40.ac.za
+Status: BLOCKED
+
+--- Result 79 ---
+SNI: node113.campus13.ac.za
+Status: BLOCKED
+
+--- Result 80 ---
+SNI: node63.campus13.ac.za
+Status: BLOCKED
+
+--- Result 81 ---
+SNI: node65.campus15.ac.za
+Status: BLOCKED
+
+--- Result 82 ---
+SNI: node30.campus30.ac.za
+Status: BLOCKED
+
+--- Result 83 ---
+SNI: node9.campus9.ac.za
+Status: BLOCKED
+
+--- Result 84 ---
+SNI: portal.vut.ac.za
+Status: BLOCKED
+
+--- Result 85 ---
+SNI: node111.campus11.ac.za
+Status: BLOCKED
+
+--- Result 86 ---
+SNI: node49.campus49.ac.za
+Status: BLOCKED
+
+--- Result 87 ---
+SNI: node1.campus1.ac.za
+Status: BLOCKED
+
+--- Result 88 ---
+SNI: node100.campus0.ac.za
+Status: BLOCKED
+
+--- Result 89 ---
+SNI: node33.campus33.ac.za
+Status: BLOCKED
+
+--- Result 90 ---
+SNI: node57.campus7.ac.za
+Status: BLOCKED
+
+--- Result 91 ---
+SNI: node109.campus9.ac.za
+Status: BLOCKED
+
+--- Result 92 ---
+SNI: intranet.spu.ac.za
+Status: BLOCKED
+
+--- Result 93 ---
+SNI: node28.campus28.ac.za
+Status: BLOCKED
+
+--- Result 94 ---
+SNI: intranet.ul.ac.za
+Status: BLOCKED
+
+--- Result 95 ---
+SNI: library.spu.ac.za
+Status: BLOCKED
+
+--- Result 96 ---
+SNI: node73.campus23.ac.za
+Status: BLOCKED
+
+--- Result 97 ---
+SNI: admin.spu.ac.za
+Status: BLOCKED
+
+--- Result 98 ---
+SNI: node52.campus2.ac.za
+Status: BLOCKED
+
+--- Result 99 ---
+SNI: webmail.vut.ac.za
+Status: BLOCKED
+
+--- Result 100 ---
+SNI: courses.spu.ac.za
+Status: BLOCKED
+
+--- Result 101 ---
+SNI: portal.spu.ac.za
+Status: BLOCKED
+
+--- Result 102 ---
+SNI: node8.campus8.ac.za
+Status: BLOCKED
+
+--- Result 103 ---
+SNI: node75.campus25.ac.za
+Status: BLOCKED
+
+--- Result 104 ---
+SNI: node55.campus5.ac.za
+Status: BLOCKED
+
+--- Result 105 ---
+SNI: node126.campus26.ac.za
+Status: BLOCKED
+
+--- Result 106 ---
+SNI: connect.ul.ac.za
+Status: BLOCKED
+
+--- Result 107 ---
+SNI: node77.campus27.ac.za
+Status: BLOCKED
+
+--- Result 108 ---
+SNI: node32.campus32.ac.za
+Status: BLOCKED
+
+--- Result 109 ---
+SNI: node50.campus0.ac.za
+Status: BLOCKED
+
+--- Result 110 ---
+SNI: moodle.spu.ac.za
+Status: BLOCKED
+
+--- Result 111 ---
+SNI: node74.campus24.ac.za
+Status: BLOCKED
+
+--- Result 112 ---
+SNI: node87.campus37.ac.za
+Status: BLOCKED
+
+--- Result 113 ---
+SNI: node144.campus44.ac.za
+Status: BLOCKED
+
+--- Result 114 ---
+SNI: node132.campus32.ac.za
+Status: BLOCKED
+
+--- Result 115 ---
+SNI: elearning.mut.ac.za
+Status: BLOCKED
+
+--- Result 116 ---
+SNI: apps.ul.ac.za
+Status: BLOCKED
+
+--- Result 117 ---
+SNI: node13.campus13.ac.za
+Status: BLOCKED
+
+--- Result 118 ---
+SNI: node19.campus19.ac.za
+Status: BLOCKED
+
+--- Result 119 ---
+SNI: node56.campus6.ac.za
+Status: BLOCKED
+
+--- Result 120 ---
+SNI: apps.mut.ac.za
+Status: BLOCKED
+
+--- Result 121 ---
+SNI: node3.campus3.ac.za
+Status: BLOCKED
+
+--- Result 122 ---
+SNI: node47.campus47.ac.za
+Status: BLOCKED
+
+--- Result 123 ---
+SNI: moodle.vut.ac.za
+Status: BLOCKED
+
+--- Result 124 ---
+SNI: node107.campus7.ac.za
+Status: BLOCKED
+
+--- Result 125 ---
+SNI: node23.campus23.ac.za
+Status: BLOCKED
+
+--- Result 126 ---
+SNI: node84.campus34.ac.za
+Status: BLOCKED
+
+--- Result 127 ---
+SNI: node102.campus2.ac.za
+Status: BLOCKED
+
+--- Result 128 ---
+SNI: node101.campus1.ac.za
+Status: BLOCKED
+
+--- Result 129 ---
+SNI: node82.campus32.ac.za
+Status: BLOCKED
+
+--- Result 130 ---
+SNI: node114.campus14.ac.za
+Status: BLOCKED
+
+--- Result 131 ---
+SNI: node121.campus21.ac.za
+Status: BLOCKED
+
+--- Result 132 ---
+SNI: node138.campus38.ac.za
+Status: BLOCKED
+
+--- Result 133 ---
+SNI: online.spu.ac.za
+Status: BLOCKED
+
+--- Result 134 ---
+SNI: node145.campus45.ac.za
+Status: BLOCKED
+
+--- Result 135 ---
+SNI: node110.campus10.ac.za
+Status: BLOCKED
+
+--- Result 136 ---
+SNI: node81.campus31.ac.za
+Status: BLOCKED
+
+--- Result 137 ---
+SNI: node123.campus23.ac.za
+Status: BLOCKED
+
+--- Result 138 ---
+SNI: node146.campus46.ac.za
+Status: BLOCKED
+
+--- Result 139 ---
+SNI: node96.campus46.ac.za
+Status: BLOCKED
+
+--- Result 140 ---
+SNI: node68.campus18.ac.za
+Status: BLOCKED
+
+--- Result 141 ---
+SNI: node48.campus48.ac.za
+Status: BLOCKED
+
+--- Result 142 ---
+SNI: node103.campus3.ac.za
+Status: BLOCKED
+
+--- Result 143 ---
+SNI: node93.campus43.ac.zanode94.campus44.ac.za
+Status: BLOCKED
+
+--- Result 144 ---
+SNI: node118.campus18.ac.za
+Status: BLOCKED
+
+--- Result 145 ---
+SNI: node85.campus35.ac.za
+Status: BLOCKED
+
+--- Result 146 ---
+SNI: node62.campus12.ac.za
+Status: BLOCKED
+
+--- Result 147 ---
+SNI: node117.campus17.ac.za
+Status: BLOCKED
+
+--- Result 148 ---
+SNI: node39.campus39.ac.za
+Status: BLOCKED
+
+--- Result 149 ---
+SNI: node92.campus42.ac.za
+Status: BLOCKED
+
+--- Result 150 ---
+SNI: node64.campus14.ac.za
+Status: BLOCKED
+
+--- Result 151 ---
+SNI: node129.campus29.ac.za
+Status: BLOCKED
+
+--- Result 152 ---
+SNI: node46.campus46.ac.za
+Status: BLOCKED
+
+--- Result 153 ---
+SNI: node139.campus39.ac.za
+Status: BLOCKED
+
+--- Result 154 ---
+SNI: node115.campus15.ac.za
+Status: BLOCKED
+
+--- Result 155 ---
+SNI: node15.campus15.ac.za
+Status: BLOCKED
+
+--- Result 156 ---
+SNI: lms.vut.ac.za
+Status: BLOCKED
+
+--- Result 157 ---
+SNI: vpn.ul.ac.za
+Status: BLOCKED
+
+--- Result 158 ---
+SNI: learn.mut.ac.za
+Status: BLOCKED
+
+--- Result 159 ---
+SNI: lms.mut.ac.za
+Status: BLOCKED
+
+--- Result 160 ---
+SNI: node59.campus9.ac.za
+Status: BLOCKED
+
+--- Result 161 ---
+SNI: node18.campus18.ac.za
+Status: BLOCKED
+
+--- Result 162 ---
+SNI: node36.campus36.ac.zanode37.campus37.ac.za
+Status: BLOCKED
+
+--- Result 163 ---
+SNI: node41.campus41.ac.za
+Status: BLOCKED
+
+--- Result 164 ---
+SNI: node128.campus28.ac.za
+Status: BLOCKED
+
+--- Result 165 ---
+SNI: node66.campus16.ac.za
+Status: BLOCKED
+
+--- Result 166 ---
+SNI: node88.campus38.ac.za
+Status: BLOCKED
+
+--- Result 167 ---
+SNI: node4.campus4.ac.za
+Status: BLOCKED
+
+--- Result 168 ---
+SNI: node51.campus1.ac.za
+Status: BLOCKED
+
+--- Result 169 ---
+SNI: node44.campus44.ac.za
+Status: BLOCKED
+
+--- Result 170 ---
+SNI: node133.campus33.ac.za
+Status: BLOCKED
+
+--- Result 171 ---
+SNI: node45.campus45.ac.za
+Status: BLOCKED
+
+--- Result 172 ---
+SNI: node127.campus27.ac.za
+Status: BLOCKED
+
+--- Result 173 ---
+SNI: node150.campus0.ac.za
+Status: BLOCKED
+
+--- Result 174 ---
+SNI: node71.campus21.ac.za
+Status: BLOCKED
+
+--- Result 175 ---
+SNI: lms.spu.ac.za
+Status: BLOCKED
+
+--- Result 176 ---
+SNI: node58.campus8.ac.za
+Status: BLOCKED
+
+--- Result 177 ---
+SNI: node137.campus37.ac.za
+Status: BLOCKED
+
+--- Result 178 ---
+SNI: node124.campus24.ac.za
+Status: BLOCKED
+
+--- Result 179 ---
+SNI: courses.vut.ac.za
+Status: BLOCKED
+
+--- Result 180 ---
+SNI: node97.campus47.ac.za
+Status: BLOCKED
+
+--- Result 181 ---
+SNI: node72.campus22.ac.za
+Status: BLOCKED
+
+--- Result 182 ---
+SNI: online.mut.ac.za
+Status: BLOCKED
+
+--- Result 183 ---
+SNI: vpn.spu.ac.za
+Status: BLOCKED
+
+--- Result 184 ---
+SNI: node76.campus26.ac.za
+Status: BLOCKED
+
+--- Result 185 ---
+SNI: staff.mut.ac.za
+Status: BLOCKED
+
+--- Result 186 ---
+SNI: node99.campus49.ac.za
+Status: BLOCKED
+
+--- Result 187 ---
+SNI: staff.spu.ac.za
+Status: BLOCKED
+
+--- Result 188 ---
+SNI: node89.campus39.ac.za
+Status: BLOCKED
+
+--- Result 189 ---
+SNI: node24.campus24.ac.za
+Status: BLOCKED
+
+--- Result 190 ---
+SNI: node61.campus11.ac.za
+Status: BLOCKED
+
+--- Result 191 ---
+SNI: node136.campus36.ac.za
+Status: BLOCKED
+
+--- Result 192 ---
+SNI: node131.campus31.ac.za
+Status: BLOCKED
+
+--- Result 193 ---
+SNI: node147.campus47.ac.za
+Status: BLOCKED
+
+--- Result 194 ---
+SNI: node143.campus43.ac.za
+Status: BLOCKED
+
+--- Result 195 ---
+SNI: node34.campus34.ac.za
+Status: BLOCKED
+
+--- Result 196 ---
+SNI: node142.campus42.ac.za
+Status: BLOCKED
+
+--- Result 197 ---
+SNI: connect.vut.ac.za
+Status: BLOCKED
+
+--- Result 198 ---
+SNI: admin.vut.ac.za
+Status: BLOCKED
+
+--- Result 199 ---
+SNI: elearning.vut.ac.za
+Status: BLOCKED
+
+--- Result 200 ---
+SNI: library.vut.ac.za
+Status: BLOCKED
+
+--- Result 201 ---
+SNI: intranet.vut.ac.za
+Status: BLOCKED
+
+--- Result 202 ---
+SNI: node148.campus48.ac.za
+Status: BLOCKED
+
+--- Result 203 ---
+SNI: node53.campus3.ac.za
+Status: BLOCKED
+
+--- Result 204 ---
+SNI: node140.campus40.ac.za
+Status: BLOCKED
+
+--- Result 205 ---
+SNI: node141.campus41.ac.za
+Status: BLOCKED
+
+--- Result 206 ---
+SNI: node12.campus12.ac.za
+Status: BLOCKED
+
+--- Result 207 ---
+SNI: node83.campus33.ac.za
+Status: BLOCKED
+
+--- Result 208 ---
+SNI: node17.campus17.ac.za
+Status: BLOCKED
+
+--- Result 209 ---
+SNI: node120.campus20.ac.za
+Status: BLOCKED
+
+--- Result 210 ---
+SNI: node80.campus30.ac.za
+Status: BLOCKED
+
+--- Result 211 ---
+SNI: node11.campus11.ac.za
+Status: BLOCKED
+
+--- Result 212 ---
+SNI: node70.campus20.ac.za
+Status: BLOCKED
+
+--- Result 213 ---
+SNI: node106.campus6.ac.za
+Status: BLOCKED
+
+--- Result 214 ---
+SNI: mut.ac.za
+Status: BLOCKED
+
+--- Result 215 ---
+SNI: node20.campus20.ac.za
+Status: BLOCKED
+
+--- Result 216 ---
+SNI: node135.campus35.ac.za
+Status: BLOCKED
+
+--- Result 217 ---
+SNI: courses.ul.ac.za
+Status: BLOCKED
+
+--- Result 218 ---
+SNI: services.ul.ac.za
+Status: BLOCKED
+
+--- Result 219 ---
+SNI: node105.campus5.ac.za
+Status: BLOCKED
+
+--- Result 220 ---
+SNI: moodle.mut.ac.za
+Status: BLOCKED
+
+--- Result 221 ---
+SNI: student.vut.ac.za
+Status: BLOCKED
+
+--- Result 222 ---
+SNI: student.mut.ac.za
+Status: BLOCKED
+
+--- Result 223 ---
+SNI: node149.campus49.ac.za
+Status: BLOCKED
+
+=== END OF SCAN ===
