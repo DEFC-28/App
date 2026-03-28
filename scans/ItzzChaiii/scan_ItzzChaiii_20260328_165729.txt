@@ -1,0 +1,661 @@
+=== SNI SCAN RESULT ===
+Scan ID: 97a2f73e62c2415c
+Username: ItzzChaiii
+Date: 2026-03-28 16:28:56
+Timestamp: 1774708136997
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: staff.cut.ac.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: admin.ru.ac.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: moodle.cut.ac.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: webmail.cput.ac.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: library.ufs.ac.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: mail.uwc.ac.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: admin.cut.ac.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: portal.cut.ac.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: intranet.cput.ac.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: courses.cut.ac.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: mail.ul.ac.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: learn.wsu.ac.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: vpn.nwu.ac.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: webmail.ru.ac.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: services.cut.ac.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: staff.uwc.ac.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: courses.ru.ac.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: student.ufh.ac.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: portal.ru.ac.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: learn.cut.ac.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: student.ru.ac.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: connect.ufh.ac.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: library.cput.ac.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: webmail.uwc.ac.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: staff.ru.ac.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: mail.ru.ac.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: webmail.ufs.ac.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: intranet.ru.ac.zaconnect.ru.ac.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: learn.ufh.ac.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: intranet.wsu.ac.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: admin.cput.ac.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: apps.ru.ac.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: services.ufs.ac.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: courses.uwc.ac.za
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: library.ru.ac.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: apps.cput.ac.za
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: cloud.cput.ac.za
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: portal.wsu.ac.za
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: mail.cut.ac.za
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: moodle.ufs.ac.za
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: elearning.uwc.ac.za
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: elearning.ufh.ac.za
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: cloud.wsu.ac.za
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: courses.wsu.ac.za
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: ufs.ac.za
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: online.cput.ac.za
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: student.cut.ac.za
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: intranet.uwc.ac.za
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: moodle.ul.ac.za
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: library.cut.ac.za
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: cloud.ru.ac.za
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: elearning.cput.ac.za
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: elearning.wsu.ac.za
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: apps.cut.ac.za
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: student.cput.ac.za
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: vpn.cut.ac.za
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: services.wsu.ac.za
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: vpn.ufs.ac.za
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: lms.uwc.ac.za
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: moodle.ufh.ac.za
+Status: BLOCKED
+
+--- Result 61 ---
+SNI: vpn.ufh.ac.za
+Status: BLOCKED
+
+--- Result 62 ---
+SNI: mail.ufs.ac.za
+Status: BLOCKED
+
+--- Result 63 ---
+SNI: online.uwc.ac.za
+Status: BLOCKED
+
+--- Result 64 ---
+SNI: admin.ufs.ac.za
+Status: BLOCKED
+
+--- Result 65 ---
+SNI: staff.wsu.ac.za
+Status: BLOCKED
+
+--- Result 66 ---
+SNI: learn.nwu.ac.za
+Status: BLOCKED
+
+--- Result 67 ---
+SNI: courses.nwu.ac.za
+Status: BLOCKED
+
+--- Result 68 ---
+SNI: webmail.ufh.ac.za
+Status: BLOCKED
+
+--- Result 69 ---
+SNI: services.cput.ac.za
+Status: BLOCKED
+
+--- Result 70 ---
+SNI: staff.ufh.ac.za
+Status: BLOCKED
+
+--- Result 71 ---
+SNI: intranet.cut.ac.za
+Status: BLOCKED
+
+--- Result 72 ---
+SNI: portal.ufs.ac.za
+Status: BLOCKED
+
+--- Result 73 ---
+SNI: cut.ac.za
+Status: BLOCKED
+
+--- Result 74 ---
+SNI: admin.nwu.ac.za
+Status: BLOCKED
+
+--- Result 75 ---
+SNI: apps.nwu.ac.za
+Status: BLOCKED
+
+--- Result 76 ---
+SNI: library.uwc.ac.za
+Status: BLOCKED
+
+--- Result 77 ---
+SNI: services.nwu.ac.za
+Status: BLOCKED
+
+--- Result 78 ---
+SNI: online.ru.ac.za
+Status: BLOCKED
+
+--- Result 79 ---
+SNI: lms.wsu.ac.za
+Status: BLOCKED
+
+--- Result 80 ---
+SNI: vpn.cput.ac.za
+Status: BLOCKED
+
+--- Result 81 ---
+SNI: ru.ac.za
+Status: BLOCKED
+
+--- Result 82 ---
+SNI: apps.ufh.ac.zaonline.ufh.ac.za
+Status: BLOCKED
+
+--- Result 83 ---
+SNI: lms.cut.ac.za
+Status: BLOCKED
+
+--- Result 84 ---
+SNI: apps.ufs.ac.za
+Status: BLOCKED
+
+--- Result 85 ---
+SNI: connect.cput.ac.za
+Status: BLOCKED
+
+--- Result 86 ---
+SNI: uwc.ac.za
+Status: BLOCKED
+
+--- Result 87 ---
+SNI: learn.cput.ac.za
+Status: BLOCKED
+
+--- Result 88 ---
+SNI: elearning.ul.ac.za
+Status: BLOCKED
+
+--- Result 89 ---
+SNI: ufh.ac.za
+Status: BLOCKED
+
+--- Result 90 ---
+SNI: lms.nwu.ac.za
+Status: BLOCKED
+
+--- Result 91 ---
+SNI: services.uwc.ac.za
+Status: BLOCKED
+
+--- Result 92 ---
+SNI: courses.ufh.ac.za
+Status: BLOCKED
+
+--- Result 93 ---
+SNI: learn.uwc.ac.za
+Status: BLOCKED
+
+--- Result 94 ---
+SNI: moodle.cput.ac.za
+Status: BLOCKED
+
+--- Result 95 ---
+SNI: lms.ufs.ac.za
+Status: BLOCKED
+
+--- Result 96 ---
+SNI: elearning.ru.ac.za
+Status: BLOCKED
+
+--- Result 97 ---
+SNI: apps.uwc.ac.za
+Status: BLOCKED
+
+--- Result 98 ---
+SNI: portal.nwu.ac.za
+Status: BLOCKED
+
+--- Result 99 ---
+SNI: portal.ufh.ac.za
+Status: BLOCKED
+
+--- Result 100 ---
+SNI: wsu.ac.za
+Status: BLOCKED
+
+--- Result 101 ---
+SNI: elearning.nwu.ac.za
+Status: BLOCKED
+
+--- Result 102 ---
+SNI: connect.ufs.ac.za
+Status: BLOCKED
+
+--- Result 103 ---
+SNI: online.ufs.ac.za
+Status: BLOCKED
+
+--- Result 104 ---
+SNI: library.nwu.ac.za
+Status: BLOCKED
+
+--- Result 105 ---
+SNI: lms.ufh.ac.za
+Status: BLOCKED
+
+--- Result 106 ---
+SNI: admin.wsu.ac.za
+Status: BLOCKED
+
+--- Result 107 ---
+SNI: online.nwu.ac.za
+Status: BLOCKED
+
+--- Result 108 ---
+SNI: courses.cput.ac.za
+Status: BLOCKED
+
+--- Result 109 ---
+SNI: cloud.uwc.ac.za
+Status: BLOCKED
+
+--- Result 110 ---
+SNI: cloud.cut.ac.za
+Status: BLOCKED
+
+--- Result 111 ---
+SNI: learn.ufs.ac.za
+Status: BLOCKED
+
+--- Result 112 ---
+SNI: moodle.ru.ac.za
+Status: BLOCKED
+
+--- Result 113 ---
+SNI: moodle.uwc.ac.za
+Status: BLOCKED
+
+--- Result 114 ---
+SNI: connect.nwu.ac.za
+Status: BLOCKED
+
+--- Result 115 ---
+SNI: intranet.ufs.ac.za
+Status: BLOCKED
+
+--- Result 116 ---
+SNI: connect.wsu.ac.za
+Status: BLOCKED
+
+--- Result 117 ---
+SNI: student.nwu.ac.za
+Status: BLOCKED
+
+--- Result 118 ---
+SNI: student.uwc.ac.za
+Status: BLOCKED
+
+--- Result 119 ---
+SNI: moodle.nwu.ac.za
+Status: BLOCKED
+
+--- Result 120 ---
+SNI: moodle.wsu.ac.za
+Status: BLOCKED
+
+--- Result 121 ---
+SNI: staff.cput.ac.za
+Status: BLOCKED
+
+--- Result 122 ---
+SNI: lms.ru.ac.za
+Status: BLOCKED
+
+--- Result 123 ---
+SNI: library.ufh.ac.za
+Status: BLOCKED
+
+--- Result 124 ---
+SNI: services.ufh.ac.za
+Status: BLOCKED
+
+--- Result 125 ---
+SNI: elearning.ufs.ac.za
+Status: BLOCKED
+
+--- Result 126 ---
+SNI: staff.nwu.ac.za
+Status: BLOCKED
+
+--- Result 127 ---
+SNI: mail.ufh.ac.za
+Status: BLOCKED
+
+--- Result 128 ---
+SNI: learn.ru.ac.za
+Status: BLOCKED
+
+--- Result 129 ---
+SNI: student.wsu.ac.za
+Status: BLOCKED
+
+--- Result 130 ---
+SNI: courses.ufs.ac.za
+Status: BLOCKED
+
+--- Result 131 ---
+SNI: webmail.nwu.ac.za
+Status: BLOCKED
+
+--- Result 132 ---
+SNI: intranet.ufh.ac.za
+Status: BLOCKED
+
+--- Result 133 ---
+SNI: connect.cut.ac.za
+Status: BLOCKED
+
+--- Result 134 ---
+SNI: admin.uwc.ac.za
+Status: BLOCKED
+
+--- Result 135 ---
+SNI: student.ufs.ac.za
+Status: BLOCKED
+
+--- Result 136 ---
+SNI: ul.ac.za
+Status: BLOCKED
+
+--- Result 137 ---
+SNI: portal.cput.ac.za
+Status: BLOCKED
+
+--- Result 138 ---
+SNI: mail.wsu.ac.za
+Status: BLOCKED
+
+--- Result 139 ---
+SNI: elearning.cut.ac.za
+Status: BLOCKED
+
+--- Result 140 ---
+SNI: mail.nwu.ac.za
+Status: BLOCKED
+
+--- Result 141 ---
+SNI: cloud.ufh.ac.za
+Status: BLOCKED
+
+--- Result 142 ---
+SNI: cloud.nwu.ac.za
+Status: BLOCKED
+
+--- Result 143 ---
+SNI: admin.ufh.ac.za
+Status: BLOCKED
+
+--- Result 144 ---
+SNI: connect.uwc.ac.za
+Status: BLOCKED
+
+--- Result 145 ---
+SNI: lms.cput.ac.za
+Status: BLOCKED
+
+--- Result 146 ---
+SNI: student.ul.ac.za
+Status: BLOCKED
+
+--- Result 147 ---
+SNI: nwu.ac.za
+Status: BLOCKED
+
+--- Result 148 ---
+SNI: webmail.cut.ac.za
+Status: BLOCKED
+
+--- Result 149 ---
+SNI: intranet.nwu.ac.za
+Status: BLOCKED
+
+--- Result 150 ---
+SNI: vpn.wsu.ac.za
+Status: BLOCKED
+
+--- Result 151 ---
+SNI: vpn.uwc.ac.za
+Status: BLOCKED
+
+--- Result 152 ---
+SNI: webmail.wsu.ac.za
+Status: BLOCKED
+
+--- Result 153 ---
+SNI: vpn.ru.ac.za
+Status: BLOCKED
+
+--- Result 154 ---
+SNI: online.wsu.ac.za
+Status: BLOCKED
+
+--- Result 155 ---
+SNI: library.wsu.ac.za
+Status: BLOCKED
+
+--- Result 156 ---
+SNI: portal.uwc.ac.za
+Status: BLOCKED
+
+--- Result 157 ---
+SNI: cloud.ufs.ac.za
+Status: BLOCKED
+
+--- Result 158 ---
+SNI: staff.ufs.ac.za
+Status: BLOCKED
+
+--- Result 159 ---
+SNI: services.ru.ac.za
+Status: BLOCKED
+
+--- Result 160 ---
+SNI: online.cut.ac.za
+Status: BLOCKED
+
+--- Result 161 ---
+SNI: apps.wsu.ac.za
+Status: BLOCKED
+
+=== END OF SCAN ===
