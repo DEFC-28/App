@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-03-28 16:18:21
+Number of SNIs tested: 1
+ISP used: Mobile: MTNSA
+Successful count: 1
+Success rate: 100.0%
+Scan ID: 807964f6-d78
+Username: ItzzChaiii
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+arenaplus.co.za
+
+=== METADATA ===
+File saved at: Sat Mar 28 16:18:21 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/ItzzChaiii/scan60_ItzzChaiii_20260328_161821_dd6ad0f3.txt
+File size: 489 bytes
+Status: PENDING_UPLOAD
+=================================
