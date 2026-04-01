@@ -148,5 +148,15 @@
     "createdAt": 1775038023688,
     "registrationSource": "web_portal",
     "squad": "OTC"
+  },
+  {
+    "username": "Xero",
+    "key": "B90KHGM5OY9X2GBG",
+    "expiresAt": 1775077552068,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1775077252554,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
