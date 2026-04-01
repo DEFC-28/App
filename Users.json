@@ -128,5 +128,15 @@
     "createdAt": 1774707392806,
     "registrationSource": "web_portal",
     "squad": "THE CHAII"
+  },
+  {
+    "username": "Cristiano",
+    "key": "0LOER1VID48Z38FC",
+    "expiresAt": 1775037758580,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1775037460202,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
