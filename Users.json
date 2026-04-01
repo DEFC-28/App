@@ -138,5 +138,15 @@
     "createdAt": 1775037460202,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "Otc55",
+    "key": "0726JZIKWA63C0K1",
+    "expiresAt": 1775038319764,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1775038023688,
+    "registrationSource": "web_portal",
+    "squad": "OTC"
   }
 ]
