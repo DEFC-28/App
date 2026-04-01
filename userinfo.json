@@ -317,5 +317,16 @@
     "ipAddress": "108.165.121.176",
     "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Xero",
+    "email": null,
+    "phone": "+260772140620",
+    "squad": null,
+    "registeredAt": 1775077252553,
+    "expiresAt": 1775077552068,
+    "ipAddress": "45.215.236.130",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.166 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
