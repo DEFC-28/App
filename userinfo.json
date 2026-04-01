@@ -306,5 +306,16 @@
     "ipAddress": "38.127.62.114",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Otc55",
+    "email": "Adamsmoke092@gmail.com",
+    "phone": "+27793652324",
+    "squad": "OTC",
+    "registeredAt": 1775038023687,
+    "expiresAt": 1775038319764,
+    "ipAddress": "108.165.121.176",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
