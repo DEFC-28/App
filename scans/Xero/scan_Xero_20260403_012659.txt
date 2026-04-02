@@ -1,0 +1,53 @@
+=== SNI SCAN RESULT ===
+Scan ID: 736b6537469b4ca0
+Username: Xero
+Date: 2026-04-01 23:23:15
+Timestamp: 1775078595938
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: backend.webreg.mtn.zm
+callertunes.mtn.zm
+mtnfleetplatform.mtn.zm
+mtnid.mtn.zm
+my5g.mtn.zm
+partnergui.mtn.zm
+mail.webreg.mtn.zm
+5gmaps.mtn.zm
+mtnmomo.mtn.zm
+www.mtn.zm
+ena.mtn.zm
+myreg.mtn.zm
+valuebooster.mtn.zm
+home.mtn.zm
+isl.mtn.zm
+api.vm-vas-sm.mtn.zm
+backend.webreg.mtn.zm
+auth.mtn.zm
+www.myreg.mtn.zm
+www.partnergui.mtn.zm
+www.mtnmomo.mtn.zm
+webreg.mtn.zm
+vm-vas-sm.mtn.zm
+cpassmessaging.mtn.zm
+speedtest.mtn.zm
+rechargeandwin.mtn.zm
+talktoussurvey.mtn.zm
+isluat.mtn.zm
+www.webreg.mtn.zm
+selfservice.mtn.zm
+backend.webreg.mtn.zm
+oam-vm-vas-sm.mtn.zm
+rebalancer.mtn.zm
+Status: BLOCKED
+
+=== END OF SCAN ===
