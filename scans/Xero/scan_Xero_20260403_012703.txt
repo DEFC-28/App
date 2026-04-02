@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: b8a4e46a3c444ec5
+Username: Xero
+Date: 2026-04-02 16:20:13
+Timestamp: 1775139613332
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: home.mtn.zm
+Status: YES
+
+=== END OF SCAN ===
