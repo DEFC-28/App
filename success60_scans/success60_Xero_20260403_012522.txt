@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-04-02 16:20:13
+Number of SNIs tested: 1
+ISP used: Mobile: 64502
+Successful count: 1
+Success rate: 100.0%
+Scan ID: 808e44e4-bc5
+Username: Xero
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+home.mtn.zm
+
+=== METADATA ===
+File saved at: Thu Apr 02 16:20:13 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/Xero/scan60_Xero_20260402_162013_9759e1a6.txt
+File size: 467 bytes
+Status: PENDING_UPLOAD
+=================================
