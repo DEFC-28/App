@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 67a7dcc0c48f4bad
+Username: Xero
+Date: 2026-04-01 23:01:48
+Timestamp: 1775077308051
+ISP: Mobile: Airtel Zambia
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: Airtel Zambia
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: home.mtn.zm
+Status: YES
+
+=== END OF SCAN ===
