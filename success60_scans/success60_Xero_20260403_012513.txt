@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-04-01 23:01:48
+Number of SNIs tested: 1
+ISP used: Mobile: Airtel Zambia
+Successful count: 1
+Success rate: 100.0%
+Scan ID: 27853d0d-691
+Username: Xero
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+home.mtn.zm
+
+=== METADATA ===
+File saved at: Wed Apr 01 23:01:48 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/Xero/scan60_Xero_20260401_230148_473dd676.txt
+File size: 475 bytes
+Status: PENDING_UPLOAD
+=================================
