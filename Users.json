@@ -158,5 +158,15 @@
     "createdAt": 1775077252554,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "Non",
+    "key": "XCNN97JNVSMI0N5U",
+    "expiresAt": 1775347070676,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1775346773080,
+    "registrationSource": "web_portal",
+    "squad": "Ppp"
   }
 ]
