@@ -1,0 +1,47 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-04-06 02:02:49
+Number of SNIs tested: 29
+ISP used: Mobile: 64502
+Successful count: 29
+Success rate: 100.0%
+Scan ID: 247cf8fd-423
+Username: Xero
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+ecw.mtnzambia.co.zm
+ngage1.mtnzambia.co.zm
+zmlupislapp01.internal.mtnzambia.co.zm
+ngage.mtnzambia.co.zm
+mtnzvsdpgw02.mtnzambia.co.zm
+momo.mtnzambia.co.zm
+zmluvmbtdr01.internal.mtnzambia.co.zm
+ngage2.mtnzambia.co.zm
+zmluvmbtprd01.internal.mtnzambia.co.zm
+mtnzvsdpgw03.mtnzambia.co.zm
+zmopexcas02.internal.mtnzambia.co.zm
+zmluvmbtdr02.internal.mtnzambia.co.zm
+store.business.mtnzambia.co.zm
+webmail.mtnzambia.co.zm
+beyondtrust.internal.mtnzambia.co.zm
+zmopttcoweb01.mtnzambia.co.zm
+sslvpn.mtnzambia.co.zm
+internal.mtnzambia.co.zm
+customerregistration.mtnzambia.co.zm
+zmopttcoweb02.mtnzambia.co.zm
+sslvpn-ctl1.mtnzambia.co.zm
+mtnzvsdpgw01.mtnzambia.co.zm
+autodiscover.mtnzambia.co.zm
+zmopexcas01.internal.mtnzambia.co.zm
+evd.mtnzambia.co.zm
+legacy.mtnzambia.co.zm
+isluat.mtnzambia.co.zm
+dealerportal.mtnzambia.co.zm
+partner.mtnzambia.co.zm
+
+=== METADATA ===
+File saved at: Mon Apr 06 02:02:49 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/Xero/scan60_Xero_20260406_020249_f0e26e77.txt
+File size: 1294 bytes
+Status: PENDING_UPLOAD
+=================================
