@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 4efab4a6368b479c
+Username: Xero
+Date: 2026-04-07 00:42:30
+Timestamp: 1775515350149
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: z-m-scontent.flun1-3.fna.fbcdn.net
+Status: BLOCKED
+
+=== END OF SCAN ===
