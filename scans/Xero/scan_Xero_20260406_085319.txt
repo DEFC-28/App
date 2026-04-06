@@ -1,0 +1,133 @@
+=== SNI SCAN RESULT ===
+Scan ID: 4305ca01f880411a
+Username: Xero
+Date: 2026-04-06 02:02:49
+Timestamp: 1775433769847
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 29
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: ecw.mtnzambia.co.zm
+Status: YES
+
+--- Result 2 ---
+SNI: ngage1.mtnzambia.co.zm
+Status: YES
+
+--- Result 3 ---
+SNI: zmlupislapp01.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 4 ---
+SNI: ngage.mtnzambia.co.zm
+Status: YES
+
+--- Result 5 ---
+SNI: mtnzvsdpgw02.mtnzambia.co.zm
+Status: YES
+
+--- Result 6 ---
+SNI: momo.mtnzambia.co.zm
+Status: YES
+
+--- Result 7 ---
+SNI: zmluvmbtdr01.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 8 ---
+SNI: ngage2.mtnzambia.co.zm
+Status: YES
+
+--- Result 9 ---
+SNI: zmluvmbtprd01.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 10 ---
+SNI: mtnzvsdpgw03.mtnzambia.co.zm
+Status: YES
+
+--- Result 11 ---
+SNI: zmopexcas02.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 12 ---
+SNI: zmluvmbtdr02.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 13 ---
+SNI: store.business.mtnzambia.co.zm
+Status: YES
+
+--- Result 14 ---
+SNI: webmail.mtnzambia.co.zm
+Status: YES
+
+--- Result 15 ---
+SNI: beyondtrust.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 16 ---
+SNI: zmopttcoweb01.mtnzambia.co.zm
+Status: YES
+
+--- Result 17 ---
+SNI: sslvpn.mtnzambia.co.zm
+Status: YES
+
+--- Result 18 ---
+SNI: internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 19 ---
+SNI: customerregistration.mtnzambia.co.zm
+Status: YES
+
+--- Result 20 ---
+SNI: zmopttcoweb02.mtnzambia.co.zm
+Status: YES
+
+--- Result 21 ---
+SNI: sslvpn-ctl1.mtnzambia.co.zm
+Status: YES
+
+--- Result 22 ---
+SNI: mtnzvsdpgw01.mtnzambia.co.zm
+Status: YES
+
+--- Result 23 ---
+SNI: autodiscover.mtnzambia.co.zm
+Status: YES
+
+--- Result 24 ---
+SNI: zmopexcas01.internal.mtnzambia.co.zm
+Status: YES
+
+--- Result 25 ---
+SNI: evd.mtnzambia.co.zm
+Status: YES
+
+--- Result 26 ---
+SNI: legacy.mtnzambia.co.zm
+Status: YES
+
+--- Result 27 ---
+SNI: isluat.mtnzambia.co.zm
+Status: YES
+
+--- Result 28 ---
+SNI: dealerportal.mtnzambia.co.zm
+Status: YES
+
+--- Result 29 ---
+SNI: partner.mtnzambia.co.zm
+Status: YES
+
+=== END OF SCAN ===
