@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: da2fad4b501146dd
+Username: Xero
+Date: 2026-04-07 00:58:28
+Timestamp: 1775516308289
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: browser-intake-datadoghq.eu
+Status: YES
+
+=== END OF SCAN ===
