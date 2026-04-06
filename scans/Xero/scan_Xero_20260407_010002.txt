@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: f99d5eb9da0a4512
+Username: Xero
+Date: 2026-04-07 00:39:39
+Timestamp: 1775515179174
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: home.mtn.zm
+Status: BLOCKED
+
+=== END OF SCAN ===
