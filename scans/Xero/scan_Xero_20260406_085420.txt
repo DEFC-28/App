@@ -1,0 +1,257 @@
+=== SNI SCAN RESULT ===
+Scan ID: 9ec1953cbfd848eb
+Username: Xero
+Date: 2026-04-06 03:22:13
+Timestamp: 1775438533606
+ISP: Mobile: 64502
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: 64502
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: http-agunbd-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: www-naij-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: cekvirus.freebasics.com
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: http-zzhinga-blogspot-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: www-bbc-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: http-paimages-prothom--alo-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: http-9jaflaver-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: 0.inyour.freebasics.com
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: 0.freebasics.com
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: http-mahbubpathan-blogspot-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: covid19.mobile.freebasics.com
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: http-brainners-wapka-mobi.0.freebasics.com
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: http-ascensionrpg-mobi.0.freebasics.com
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: http-m-bdnews24-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: www-nairaland-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: 0-0-5.freebasics.com
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: 0.beta.freebasics.com
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: 0-0-8.freebasics.com
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: http-bdapon26-tk.0.freebasics.com
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: healthalert-whofreebasics-org.0.freebasics.com
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: http-i-imgur-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: 0.0.freebasics.com
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: http-f23-wapka--files-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: 0-0.iph.freebasics.com
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: http-i1-wp-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: 0.latest.freebasics.com
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: simulator.freebasics.com
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: 0-02.freebasics.com
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: 0.prod.freebasics.com
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: my-od.freebasics.com
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: alpha.0.freebasics.com
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: 0.intern.freebasics.com
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: http-cdm15015-contentdm-oclc-org.0.freebasics.com
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: http-gobiafra-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: http-bikroy-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: http-amartrickbd-ml.0.freebasics.com
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: http-m-wikihow-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: avg-antivirus-free.freebasics.com
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: http-frely-wapka-mobi.0.freebasics.com
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: http-free-bdnews24-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: http-ng-supersport-mobi.0.freebasics.com
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: http-m-goal-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: http-www-aaa-si-edu.0.freebasics.com
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: 0-01.freebasics.com
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: http-iorg-dream-co-id.0.freebasics.com
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: http-nglite-vconnect-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: 0-0-4.freebasics.com
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: 0-0.0.freebasics.com
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: http-1tipsbd-tk.0.freebasics.com
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: 0.virus-w1.freebasics.com
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: http-forums-terraria-org.0.freebasics.com
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: andrew.0.freebasics.com
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: covid19.sante.gov.dz.freebasics.com
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: 0-0-0.freebasics.com
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: http-encrypted-google-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: http-androidarmybd-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: freebasics.com
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: 0-0-6.freebasics.com
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: http-mobile-jobberman-com.0.freebasics.com
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: http-jobs-bdjobs-com.0.freebasics.com
+Status: BLOCKED
+
+=== END OF SCAN ===
