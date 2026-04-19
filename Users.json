@@ -168,5 +168,15 @@
     "createdAt": 1775346773080,
     "registrationSource": "web_portal",
     "squad": "Ppp"
+  },
+  {
+    "username": "Tton",
+    "key": "22UYQLJPGQU5FWVH",
+    "expiresAt": 1776632713395,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1776632414953,
+    "registrationSource": "web_portal",
+    "squad": "Trs"
   }
 ]
