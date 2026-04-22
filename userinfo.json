@@ -350,5 +350,16 @@
     "ipAddress": "43.242.224.120",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Bonabo",
+    "email": "bonabo@gmail.com",
+    "phone": "+260775609714",
+    "squad": null,
+    "registeredAt": 1776899115490,
+    "expiresAt": 1776899414919,
+    "ipAddress": "41.223.116.246",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.177 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
