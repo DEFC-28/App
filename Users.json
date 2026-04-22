@@ -178,5 +178,15 @@
     "createdAt": 1776632414953,
     "registrationSource": "web_portal",
     "squad": "Trs"
+  },
+  {
+    "username": "Bonabo",
+    "key": "ZQM4APKWL8B20H8Y",
+    "expiresAt": 1776899414919,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1776899115490,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
