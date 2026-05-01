@@ -188,5 +188,15 @@
     "createdAt": 1776899115490,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "Otc",
+    "key": "EM7A7QI7NYPFWHM9",
+    "expiresAt": 1777620201655,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1777619903364,
+    "registrationSource": "web_portal",
+    "squad": null
   }
 ]
