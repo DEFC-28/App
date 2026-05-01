@@ -361,5 +361,16 @@
     "ipAddress": "41.223.116.246",
     "userAgent": "Mozilla/5.0 (Linux; Android 16; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.177 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Otc",
+    "email": null,
+    "phone": "+27793652324",
+    "squad": null,
+    "registeredAt": 1777619903362,
+    "expiresAt": 1777620201655,
+    "ipAddress": "51.89.192.99",
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
