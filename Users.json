@@ -198,5 +198,15 @@
     "createdAt": 1777619903364,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "pleasure",
+    "key": "4UHSRYT0WOUFXLN4",
+    "expiresAt": 1781530072513,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1781529795067,
+    "registrationSource": "web_portal",
+    "squad": "Pp"
   }
 ]
