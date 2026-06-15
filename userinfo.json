@@ -372,5 +372,16 @@
     "ipAddress": "51.89.192.99",
     "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A025F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "pleasure",
+    "email": "scottiekiid@gmail.com",
+    "phone": "+27785028986",
+    "squad": "Pp",
+    "registeredAt": 1781529795067,
+    "expiresAt": 1781530072513,
+    "ipAddress": "194.15.113.128",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
