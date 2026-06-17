@@ -1,0 +1,1669 @@
+=== SNI SCAN RESULT ===
+Scan ID: b153a37541fe454c
+Username: pleasure
+Date: 2026-06-15 19:00:35
+Timestamp: 1781542835432
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: cdn.dcc.edu.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: cpcalendars.crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: autodiscover.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: ctc.edu.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: cheetahsrugbyie.uxi.edu.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: businessschool.edu.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: cct.edu.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: cpanel.ube.edu.za
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: apply.ctc.edu.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: cpcalendars.bschool.edu.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: cpcalendars.lwti.edu.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: cpcalendars.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: bmtcollege.edu.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: cpcalendars.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: ait.edu.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: admin.my.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: apc.edu.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: cpcalendars.esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: cetc.edu.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: cpcalendars.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: dcc.edu.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: cpcontacts.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: borderri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: cpcontacts.bschool.edu.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: cpcalendars.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: cpcalendars.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: khano.edu.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: bullsundownsri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: bschool.edu.za
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: global.sacap.edu.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: cpcontacts.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: ftp.vhembecollege.edu.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: cpcontacts.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: cpcontacts.crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: autodiscover.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: bullsrugbyie.uxi.edu.za
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: cpcontacts.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: cpanel.esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: bolandkavaliersri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: cpcontacts.mycems.edu.za
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: cpcontacts.concord.edu.za
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: cpcalendars.ube.edu.za
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: cpcontacts.esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: bereatech.edu.za
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: ctctraining.edu.za
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: cpcontacts.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: mail.crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: emcol.edu.za
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: kpi.edu.za
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: dnssec.edu.za
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: ctu.edu.za
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: dom1.edu.za
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: cpcontacts.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: classroom.collegesa.edu.za
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: capricorncollege.edu.za
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: dev.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: mail.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: cpanel.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 61 ---
+SNI: imap.kwc.edu.za
+Status: BLOCKED
+
+--- Result 62 ---
+SNI: cpanel.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 63 ---
+SNI: flow.lyceum.edu.za
+Status: BLOCKED
+
+--- Result 64 ---
+SNI: connect.cjc.edu.za
+Status: BLOCKED
+
+--- Result 65 ---
+SNI: cpcalendars.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 66 ---
+SNI: mail.apc.edu.za
+Status: BLOCKED
+
+--- Result 67 ---
+SNI: cpanel.crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 68 ---
+SNI: leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 69 ---
+SNI: devnew.ctc.edu.za
+Status: BLOCKED
+
+--- Result 70 ---
+SNI: ienabler.tnc.edu.za
+Status: BLOCKED
+
+--- Result 71 ---
+SNI: griquari.uxi.edu.za
+Status: BLOCKED
+
+--- Result 72 ---
+SNI: ember.edu.za
+Status: BLOCKED
+
+--- Result 73 ---
+SNI: btc.edu.za
+Status: BLOCKED
+
+--- Result 74 ---
+SNI: apply.intec.edu.za
+Status: BLOCKED
+
+--- Result 75 ---
+SNI: autodiscover.mthashana.edu.za
+Status: BLOCKED
+
+--- Result 76 ---
+SNI: kinghintsacollege.edu.za
+Status: BLOCKED
+
+--- Result 77 ---
+SNI: dev.intec.edu.za
+Status: BLOCKED
+
+--- Result 78 ---
+SNI: gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 79 ---
+SNI: mail.businessschool.edu.za
+Status: BLOCKED
+
+--- Result 80 ---
+SNI: cpcalendars.westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 81 ---
+SNI: elangeni.edu.za
+Status: BLOCKED
+
+--- Result 82 ---
+SNI: autodiscover.cetc.edu.za
+Status: BLOCKED
+
+--- Result 83 ---
+SNI: mail.theshed.uxi.edu.za
+Status: BLOCKED
+
+--- Result 84 ---
+SNI: emberacademy.edu.za
+Status: BLOCKED
+
+--- Result 85 ---
+SNI: cferi.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 86 ---
+SNI: cpcontacts.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 87 ---
+SNI: cpcalendars.concord.edu.za
+Status: BLOCKED
+
+--- Result 88 ---
+SNI: application.sdp.edu.za
+Status: BLOCKED
+
+--- Result 89 ---
+SNI: cpcalendars.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 90 ---
+SNI: cpanel.bschool.edu.za
+Status: BLOCKED
+
+--- Result 91 ---
+SNI: cpcontacts.rostec.edu.za
+Status: BLOCKED
+
+--- Result 92 ---
+SNI: bullshirf.uxi.edu.za
+Status: BLOCKED
+
+--- Result 93 ---
+SNI: collegesa.edu.za
+Status: BLOCKED
+
+--- Result 94 ---
+SNI: mail.westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 95 ---
+SNI: cpcontacts.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 96 ---
+SNI: goldfieldstvet.edu.za
+Status: BLOCKED
+
+--- Result 97 ---
+SNI: ftp.ingwecollege.edu.za
+Status: BLOCKED
+
+--- Result 98 ---
+SNI: crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 99 ---
+SNI: cpcontacts.taletso.edu.za
+Status: BLOCKED
+
+--- Result 100 ---
+SNI: cpcalendars.taletso.edu.za
+Status: BLOCKED
+
+--- Result 101 ---
+SNI: eplacementest.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 102 ---
+SNI: mail.btc.edu.za
+Status: BLOCKED
+
+--- Result 103 ---
+SNI: cpanel.mycems.edu.za
+Status: BLOCKED
+
+--- Result 104 ---
+SNI: epruri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 105 ---
+SNI: ecampus.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 106 ---
+SNI: epri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 107 ---
+SNI: fourways.ait.edu.za
+Status: BLOCKED
+
+--- Result 108 ---
+SNI: cpcalendars.mycems.edu.za
+Status: BLOCKED
+
+--- Result 109 ---
+SNI: esayiditvet.edu.za
+Status: BLOCKED
+
+--- Result 110 ---
+SNI: ewc.edu.za
+Status: BLOCKED
+
+--- Result 111 ---
+SNI: learning.olm.edu.za
+Status: BLOCKED
+
+--- Result 112 ---
+SNI: cpcontacts.lwti.edu.za
+Status: BLOCKED
+
+--- Result 113 ---
+SNI: apply.dcc.edu.za
+Status: BLOCKED
+
+--- Result 114 ---
+SNI: eec.edu.za
+Status: BLOCKED
+
+--- Result 115 ---
+SNI: intec.edu.za
+Status: BLOCKED
+
+--- Result 116 ---
+SNI: mail.emberacademy.edu.za
+Status: BLOCKED
+
+--- Result 117 ---
+SNI: duxah.edu.za
+Status: BLOCKED
+
+--- Result 118 ---
+SNI: gsc4me.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 119 ---
+SNI: mail.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 120 ---
+SNI: cpcontacts.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 121 ---
+SNI: eskilzcollege.edu.za
+Status: BLOCKED
+
+--- Result 122 ---
+SNI: mail.nsa.edu.za
+Status: BLOCKED
+
+--- Result 123 ---
+SNI: cpcalendars.rostec.edu.za
+Status: BLOCKED
+
+--- Result 124 ---
+SNI: eecapp.eec.edu.za
+Status: BLOCKED
+
+--- Result 125 ---
+SNI: cpanel.westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 126 ---
+SNI: lovedale.edu.za
+Status: BLOCKED
+
+--- Result 127 ---
+SNI: helpdesk.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 128 ---
+SNI: mail.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 129 ---
+SNI: mail.institute.edu.za
+Status: BLOCKED
+
+--- Result 130 ---
+SNI: gsacademy.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 131 ---
+SNI: gautengwomensri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 132 ---
+SNI: bellview.edu.za
+Status: BLOCKED
+
+--- Result 133 ---
+SNI: cpanel.taletso.edu.za
+Status: BLOCKED
+
+--- Result 134 ---
+SNI: bolandri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 135 ---
+SNI: hirugbyie.uxi.edu.za
+Status: BLOCKED
+
+--- Result 136 ---
+SNI: cpanel.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 137 ---
+SNI: cpanel.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 138 ---
+SNI: ienabler.pec.edu.za
+Status: BLOCKED
+
+--- Result 139 ---
+SNI: mail.bereatech.edu.za
+Status: BLOCKED
+
+--- Result 140 ---
+SNI: mail.bmtcollege.edu.za
+Status: BLOCKED
+
+--- Result 141 ---
+SNI: nc.cetc.edu.za
+Status: BLOCKED
+
+--- Result 142 ---
+SNI: lepfet.edu.za
+Status: BLOCKED
+
+--- Result 143 ---
+SNI: cpcontacts.westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 144 ---
+SNI: imap.bereatech.edu.za
+Status: BLOCKED
+
+--- Result 145 ---
+SNI: my.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 146 ---
+SNI: ebmtc.edu.za
+Status: BLOCKED
+
+--- Result 147 ---
+SNI: communitycollege.edu.za
+Status: BLOCKED
+
+--- Result 148 ---
+SNI: mail.skillsacademy.edu.za
+Status: BLOCKED
+
+--- Result 149 ---
+SNI: learninggroup.edu.za
+Status: BLOCKED
+
+--- Result 150 ---
+SNI: smtp.ctu.edu.za
+Status: BLOCKED
+
+--- Result 151 ---
+SNI: img.comms2.sacap.edu.za
+Status: BLOCKED
+
+--- Result 152 ---
+SNI: mylms.majuba.edu.za
+Status: BLOCKED
+
+--- Result 153 ---
+SNI: mail.connect.cjc.edu.za
+Status: BLOCKED
+
+--- Result 154 ---
+SNI: mail.oxbridge.edu.za
+Status: BLOCKED
+
+--- Result 155 ---
+SNI: cpanel.leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 156 ---
+SNI: cpanel.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 157 ---
+SNI: mail.lwti.edu.za
+Status: BLOCKED
+
+--- Result 158 ---
+SNI: harlequinsiri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 159 ---
+SNI: ingwecollege.edu.za
+Status: BLOCKED
+
+--- Result 160 ---
+SNI: sdp.edu.za
+Status: BLOCKED
+
+--- Result 161 ---
+SNI: img.comms.sacap.edu.za
+Status: BLOCKED
+
+--- Result 162 ---
+SNI: mail.myportal.oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 163 ---
+SNI: mail.kwc.edu.za
+Status: BLOCKED
+
+--- Result 164 ---
+SNI: cpcalendars.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 165 ---
+SNI: eastrand.ait.edu.za
+Status: BLOCKED
+
+--- Result 166 ---
+SNI: lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 167 ---
+SNI: cpanel.myntc.edu.za
+Status: BLOCKED
+
+--- Result 168 ---
+SNI: myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 169 ---
+SNI: pop.nsa.edu.za
+Status: BLOCKED
+
+--- Result 170 ---
+SNI: motheotvet.edu.za
+Status: BLOCKED
+
+--- Result 171 ---
+SNI: masccom.edu.za
+Status: BLOCKED
+
+--- Result 172 ---
+SNI: nccetc.edu.za
+Status: BLOCKED
+
+--- Result 173 ---
+SNI: mp.cetc.edu.za
+Status: BLOCKED
+
+--- Result 174 ---
+SNI: smtp.institute.edu.za
+Status: BLOCKED
+
+--- Result 175 ---
+SNI: online.ctctraining.edu.za
+Status: BLOCKED
+
+--- Result 176 ---
+SNI: mail.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 177 ---
+SNI: pop.skills.sdp.edu.za
+Status: BLOCKED
+
+--- Result 178 ---
+SNI: mail.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 179 ---
+SNI: mail.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 180 ---
+SNI: pop.institute.edu.za
+Status: BLOCKED
+
+--- Result 181 ---
+SNI: mail.revolution.edu.za
+Status: BLOCKED
+
+--- Result 182 ---
+SNI: mail.bschool.edu.za
+Status: BLOCKED
+
+--- Result 183 ---
+SNI: imap.sdp.edu.za
+Status: BLOCKED
+
+--- Result 184 ---
+SNI: cpcontacts.ube.edu.za
+Status: BLOCKED
+
+--- Result 185 ---
+SNI: cjc.edu.za
+Status: BLOCKED
+
+--- Result 186 ---
+SNI: lwti.edu.za
+Status: BLOCKED
+
+--- Result 187 ---
+SNI: cpanel.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 188 ---
+SNI: mail.emcol.edu.za
+Status: BLOCKED
+
+--- Result 189 ---
+SNI: mail.hps.edu.za
+Status: BLOCKED
+
+--- Result 190 ---
+SNI: cpanel.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 191 ---
+SNI: mail.ncutvet.edu.za
+Status: BLOCKED
+
+--- Result 192 ---
+SNI: smtp.eec.edu.za
+Status: BLOCKED
+
+--- Result 193 ---
+SNI: intranet.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 194 ---
+SNI: mail.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 195 ---
+SNI: mail.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 196 ---
+SNI: cpcalendars.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 197 ---
+SNI: mail.uxi.edu.za
+Status: BLOCKED
+
+--- Result 198 ---
+SNI: concord.edu.za
+Status: BLOCKED
+
+--- Result 199 ---
+SNI: r.comms.sacap.edu.za
+Status: BLOCKED
+
+--- Result 200 ---
+SNI: mail.mycems.edu.za
+Status: BLOCKED
+
+--- Result 201 ---
+SNI: mail.sdp.edu.za
+Status: BLOCKED
+
+--- Result 202 ---
+SNI: mail.taletso.edu.za
+Status: BLOCKED
+
+--- Result 203 ---
+SNI: nkangalafet.edu.za
+Status: BLOCKED
+
+--- Result 204 ---
+SNI: mail.eec.edu.za
+Status: BLOCKED
+
+--- Result 205 ---
+SNI: kwc.edu.za
+Status: BLOCKED
+
+--- Result 206 ---
+SNI: mail.bellview.edu.za
+Status: BLOCKED
+
+--- Result 207 ---
+SNI: mail.skills.sdp.edu.za
+Status: BLOCKED
+
+--- Result 208 ---
+SNI: cpanel.lwti.edu.za
+Status: BLOCKED
+
+--- Result 209 ---
+SNI: learn.bschool.edu.za
+Status: BLOCKED
+
+--- Result 210 ---
+SNI: mail.my.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 211 ---
+SNI: gscollege.edu.za
+Status: BLOCKED
+
+--- Result 212 ---
+SNI: moodle.cct.edu.za
+Status: BLOCKED
+
+--- Result 213 ---
+SNI: mail.learninggroup.edu.za
+Status: BLOCKED
+
+--- Result 214 ---
+SNI: dev.uxi.edu.za
+Status: BLOCKED
+
+--- Result 215 ---
+SNI: mail.rostec.edu.za
+Status: BLOCKED
+
+--- Result 216 ---
+SNI: mail.rugby.uxi.edu.za
+Status: BLOCKED
+
+--- Result 217 ---
+SNI: ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 218 ---
+SNI: mail.esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 219 ---
+SNI: nwacademy.uxi.edu.za
+Status: BLOCKED
+
+--- Result 220 ---
+SNI: studentcard.lyceum.edu.za
+Status: BLOCKED
+
+--- Result 221 ---
+SNI: thaba.ait.edu.za
+Status: BLOCKED
+
+--- Result 222 ---
+SNI: smtp.myportal.oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 223 ---
+SNI: webmail.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 224 ---
+SNI: web.oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 225 ---
+SNI: oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 226 ---
+SNI: hps.edu.za
+Status: BLOCKED
+
+--- Result 227 ---
+SNI: cpanel.hps.edu.za
+Status: BLOCKED
+
+--- Result 228 ---
+SNI: splash.rostec.edu.za
+Status: BLOCKED
+
+--- Result 229 ---
+SNI: os.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 230 ---
+SNI: webdisk.westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 231 ---
+SNI: webdisk.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 232 ---
+SNI: cpanel.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 233 ---
+SNI: integration.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 234 ---
+SNI: registration.rostec.edu.za
+Status: BLOCKED
+
+--- Result 235 ---
+SNI: pecollege.edu.za
+Status: BLOCKED
+
+--- Result 236 ---
+SNI: stasy.school.iie.edu.za
+Status: BLOCKED
+
+--- Result 237 ---
+SNI: sae.edu.za
+Status: BLOCKED
+
+--- Result 238 ---
+SNI: smtp.bmtcollege.edu.za
+Status: BLOCKED
+
+--- Result 239 ---
+SNI: ntc.edu.za
+Status: BLOCKED
+
+--- Result 240 ---
+SNI: rostec.edu.za
+Status: BLOCKED
+
+--- Result 241 ---
+SNI: pop.ctu.edu.za
+Status: BLOCKED
+
+--- Result 242 ---
+SNI: pop.emberacademy.edu.za
+Status: BLOCKED
+
+--- Result 243 ---
+SNI: smtp.learninggroup.edu.za
+Status: BLOCKED
+
+--- Result 244 ---
+SNI: mycems.edu.za
+Status: BLOCKED
+
+--- Result 245 ---
+SNI: togetherwepass.edu.za
+Status: BLOCKED
+
+--- Result 246 ---
+SNI: webdisk.mycems.edu.za
+Status: BLOCKED
+
+--- Result 247 ---
+SNI: nsa.edu.za
+Status: BLOCKED
+
+--- Result 248 ---
+SNI: institute.edu.za
+Status: BLOCKED
+
+--- Result 249 ---
+SNI: mail.ctu.edu.za
+Status: BLOCKED
+
+--- Result 250 ---
+SNI: webdisk.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 251 ---
+SNI: faa.edu.za
+Status: BLOCKED
+
+--- Result 252 ---
+SNI: ufetc.edu.za
+Status: BLOCKED
+
+--- Result 253 ---
+SNI: mail.ube.edu.za
+Status: BLOCKED
+
+--- Result 254 ---
+SNI: thasululo.edu.za
+Status: BLOCKED
+
+--- Result 255 ---
+SNI: pop.connect.cjc.edu.za
+Status: BLOCKED
+
+--- Result 256 ---
+SNI: northerntech.edu.za
+Status: BLOCKED
+
+--- Result 257 ---
+SNI: ube.edu.za
+Status: BLOCKED
+
+--- Result 258 ---
+SNI: webmail.taletso.edu.za
+Status: BLOCKED
+
+--- Result 259 ---
+SNI: webmail.westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 260 ---
+SNI: vhem41app.vhembecollege.edu.za
+Status: BLOCKED
+
+--- Result 261 ---
+SNI: support.revolution.edu.za
+Status: BLOCKED
+
+--- Result 262 ---
+SNI: smtp.nsa.edu.za
+Status: BLOCKED
+
+--- Result 263 ---
+SNI: webmail.ksdcollege.edu.za
+Status: BLOCKED
+
+--- Result 264 ---
+SNI: webmail.ncutvet.edu.za
+Status: BLOCKED
+
+--- Result 265 ---
+SNI: westrand.ait.edu.za
+Status: BLOCKED
+
+--- Result 266 ---
+SNI: sandbox.rostec.edu.za
+Status: BLOCKED
+
+--- Result 267 ---
+SNI: mail.ait.edu.za
+Status: BLOCKED
+
+--- Result 268 ---
+SNI: tsc.edu.za
+Status: BLOCKED
+
+--- Result 269 ---
+SNI: mail.myntc.edu.za
+Status: BLOCKED
+
+--- Result 270 ---
+SNI: webmail.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 271 ---
+SNI: pop.rugby.uxi.edu.za
+Status: BLOCKED
+
+--- Result 272 ---
+SNI: pop.eec.edu.za
+Status: BLOCKED
+
+--- Result 273 ---
+SNI: staging.dcc.edu.za
+Status: BLOCKED
+
+--- Result 274 ---
+SNI: pop.myportal.oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 275 ---
+SNI: new.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 276 ---
+SNI: webdisk.hps.edu.za
+Status: BLOCKED
+
+--- Result 277 ---
+SNI: samajsfapp.majuba.edu.za
+Status: BLOCKED
+
+--- Result 278 ---
+SNI: webdisk.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 279 ---
+SNI: pop.sdp.edu.za
+Status: BLOCKED
+
+--- Result 280 ---
+SNI: rmslive1.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 281 ---
+SNI: webmail.rostec.edu.za
+Status: BLOCKED
+
+--- Result 282 ---
+SNI: ikhala.edu.za
+Status: BLOCKED
+
+--- Result 283 ---
+SNI: majuba.edu.za
+Status: BLOCKED
+
+--- Result 284 ---
+SNI: pop.bmtcollege.edu.za
+Status: BLOCKED
+
+--- Result 285 ---
+SNI: intranet.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 286 ---
+SNI: uxi.edu.za
+Status: BLOCKED
+
+--- Result 287 ---
+SNI: khc.edu.za
+Status: BLOCKED
+
+--- Result 288 ---
+SNI: training.vhembecollege.edu.za
+Status: BLOCKED
+
+--- Result 289 ---
+SNI: sats.edu.za
+Status: BLOCKED
+
+--- Result 290 ---
+SNI: webdisk.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 291 ---
+SNI: tshwane.ait.edu.za
+Status: BLOCKED
+
+--- Result 292 ---
+SNI: smtp.rugby.uxi.edu.za
+Status: BLOCKED
+
+--- Result 293 ---
+SNI: webdisk.ube.edu.za
+Status: BLOCKED
+
+--- Result 294 ---
+SNI: qa.sacap.edu.za
+Status: BLOCKED
+
+--- Result 295 ---
+SNI: webmail.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 296 ---
+SNI: webmail.lwti.edu.za
+Status: BLOCKED
+
+--- Result 297 ---
+SNI: westfordcollege.edu.za
+Status: BLOCKED
+
+--- Result 298 ---
+SNI: proedhouse.edu.za
+Status: BLOCKED
+
+--- Result 299 ---
+SNI: universable.edu.za
+Status: BLOCKED
+
+--- Result 300 ---
+SNI: smtp.skills.sdp.edu.za
+Status: BLOCKED
+
+--- Result 301 ---
+SNI: webmail.hps.edu.za
+Status: BLOCKED
+
+--- Result 302 ---
+SNI: pe41app.pec.edu.za
+Status: BLOCKED
+
+--- Result 303 ---
+SNI: webdisk.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 304 ---
+SNI: sound-operator.revolution.edu.za
+Status: BLOCKED
+
+--- Result 305 ---
+SNI: webdisk.crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 306 ---
+SNI: r.comms2.sacap.edu.za
+Status: BLOCKED
+
+--- Result 307 ---
+SNI: smtp.theshed.uxi.edu.za
+Status: BLOCKED
+
+--- Result 308 ---
+SNI: pop.btc.edu.za
+Status: BLOCKED
+
+--- Result 309 ---
+SNI: webdisk.lwti.edu.za
+Status: BLOCKED
+
+--- Result 310 ---
+SNI: webmail.my.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 311 ---
+SNI: webmail.concord.edu.za
+Status: BLOCKED
+
+--- Result 312 ---
+SNI: mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 313 ---
+SNI: pumasri.uxi.edu.za
+Status: BLOCKED
+
+--- Result 314 ---
+SNI: smtp.emberacademy.edu.za
+Status: BLOCKED
+
+--- Result 315 ---
+SNI: nic.edu.za
+Status: BLOCKED
+
+--- Result 316 ---
+SNI: myclass.dcc.edu.za
+Status: BLOCKED
+
+--- Result 317 ---
+SNI: staging.ctc.edu.za
+Status: BLOCKED
+
+--- Result 318 ---
+SNI: skillsacademy.edu.za
+Status: BLOCKED
+
+--- Result 319 ---
+SNI: smtp.connect.cjc.edu.za
+Status: BLOCKED
+
+--- Result 320 ---
+SNI: sacap.edu.za
+Status: BLOCKED
+
+--- Result 321 ---
+SNI: webmail.bschool.edu.za
+Status: BLOCKED
+
+--- Result 322 ---
+SNI: smtp.oxbridge.edu.za
+Status: BLOCKED
+
+--- Result 323 ---
+SNI: pop.skillsacademy.edu.za
+Status: BLOCKED
+
+--- Result 324 ---
+SNI: webdisk.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 325 ---
+SNI: scientia.edu.za
+Status: BLOCKED
+
+--- Result 326 ---
+SNI: oxbridge.edu.za
+Status: BLOCKED
+
+--- Result 327 ---
+SNI: sacob.edu.za
+Status: BLOCKED
+
+--- Result 328 ---
+SNI: smtp.skillsacademy.edu.za
+Status: BLOCKED
+
+--- Result 329 ---
+SNI: onlinelearning.pec.edu.za
+Status: BLOCKED
+
+--- Result 330 ---
+SNI: webdisk.rostec.edu.za
+Status: BLOCKED
+
+--- Result 331 ---
+SNI: pop.uxi.edu.za
+Status: BLOCKED
+
+--- Result 332 ---
+SNI: olm.edu.za
+Status: BLOCKED
+
+--- Result 333 ---
+SNI: ncutvet.edu.za
+Status: BLOCKED
+
+--- Result 334 ---
+SNI: shop.collegesa.edu.za
+Status: BLOCKED
+
+--- Result 335 ---
+SNI: webdisk.concord.edu.za
+Status: BLOCKED
+
+--- Result 336 ---
+SNI: saber.edu.za
+Status: BLOCKED
+
+--- Result 337 ---
+SNI: tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 338 ---
+SNI: sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 339 ---
+SNI: cpanel.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 340 ---
+SNI: rugby.uxi.edu.za
+Status: BLOCKED
+
+--- Result 341 ---
+SNI: properties.uxi.edu.za
+Status: BLOCKED
+
+--- Result 342 ---
+SNI: cpanel.rostec.edu.za
+Status: BLOCKED
+
+--- Result 343 ---
+SNI: smtp.bereatech.edu.za
+Status: BLOCKED
+
+--- Result 344 ---
+SNI: stasy.iie.edu.za
+Status: BLOCKED
+
+--- Result 345 ---
+SNI: webmail.mopanicollege.edu.za
+Status: BLOCKED
+
+--- Result 346 ---
+SNI: pop.dev.uxi.edu.za
+Status: BLOCKED
+
+--- Result 347 ---
+SNI: mail.mthashana.edu.za
+Status: BLOCKED
+
+--- Result 348 ---
+SNI: webmail.ube.edu.za
+Status: BLOCKED
+
+--- Result 349 ---
+SNI: staff.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 350 ---
+SNI: myntc.edu.za
+Status: BLOCKED
+
+--- Result 351 ---
+SNI: pop.learninggroup.edu.za
+Status: BLOCKED
+
+--- Result 352 ---
+SNI: webmail.tshwanecollege.edu.za
+Status: BLOCKED
+
+--- Result 353 ---
+SNI: webdisk.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 354 ---
+SNI: nw.cetc.edu.za
+Status: BLOCKED
+
+--- Result 355 ---
+SNI: whois.edu.za
+Status: BLOCKED
+
+--- Result 356 ---
+SNI: smtp.emcol.edu.za
+Status: BLOCKED
+
+--- Result 357 ---
+SNI: skills.sdp.edu.za
+Status: BLOCKED
+
+--- Result 358 ---
+SNI: tenderportal.kzn.cetc.edu.za
+Status: BLOCKED
+
+--- Result 359 ---
+SNI: pretoria.rostec.edu.za
+Status: BLOCKED
+
+--- Result 360 ---
+SNI: smtp.sdp.edu.za
+Status: BLOCKED
+
+--- Result 361 ---
+SNI: taletso.edu.za
+Status: BLOCKED
+
+--- Result 362 ---
+SNI: smtp.uxi.edu.za
+Status: BLOCKED
+
+--- Result 363 ---
+SNI: webdisk.esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 364 ---
+SNI: webdisk.gatewaycitycollege.edu.za
+Status: BLOCKED
+
+--- Result 365 ---
+SNI: kzn.cetc.edu.za
+Status: BLOCKED
+
+--- Result 366 ---
+SNI: staffsms.gscollege.edu.za
+Status: BLOCKED
+
+--- Result 367 ---
+SNI: stasy.tertiary.iie.edu.za
+Status: BLOCKED
+
+--- Result 368 ---
+SNI: webmail.sekhukhunetvet.edu.za
+Status: BLOCKED
+
+--- Result 369 ---
+SNI: mail.dev.uxi.edu.za
+Status: BLOCKED
+
+--- Result 370 ---
+SNI: webdisk.leptvetcol.edu.za
+Status: BLOCKED
+
+--- Result 371 ---
+SNI: pop.oxbridge.edu.za
+Status: BLOCKED
+
+--- Result 372 ---
+SNI: ienabler.ncutvet.edu.za
+Status: BLOCKED
+
+--- Result 373 ---
+SNI: myportal.oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 374 ---
+SNI: myclass.intec.edu.za
+Status: BLOCKED
+
+--- Result 375 ---
+SNI: smtp.btc.edu.za
+Status: BLOCKED
+
+--- Result 376 ---
+SNI: webmail.mycems.edu.za
+Status: BLOCKED
+
+--- Result 377 ---
+SNI: tmrs.bschool.edu.za
+Status: BLOCKED
+
+--- Result 378 ---
+SNI: theshed.uxi.edu.za
+Status: BLOCKED
+
+--- Result 379 ---
+SNI: servicedesk.thekwini.edu.za
+Status: BLOCKED
+
+--- Result 380 ---
+SNI: webmail.myntc.edu.za
+Status: BLOCKED
+
+--- Result 381 ---
+SNI: pop.bereatech.edu.za
+Status: BLOCKED
+
+--- Result 382 ---
+SNI: mail.concord.edu.za
+Status: BLOCKED
+
+--- Result 383 ---
+SNI: webdisk.taletso.edu.za
+Status: BLOCKED
+
+--- Result 384 ---
+SNI: smtp.dev.uxi.edu.za
+Status: BLOCKED
+
+--- Result 385 ---
+SNI: webdisk.bschool.edu.za
+Status: BLOCKED
+
+--- Result 386 ---
+SNI: webmail.crm.cems.edu.za
+Status: BLOCKED
+
+--- Result 387 ---
+SNI: tvet.lovedale.edu.za
+Status: BLOCKED
+
+--- Result 388 ---
+SNI: webmail.myrevolution.edu.za
+Status: BLOCKED
+
+--- Result 389 ---
+SNI: pop.emcol.edu.za
+Status: BLOCKED
+
+--- Result 390 ---
+SNI: web.ctctraining.edu.za
+Status: BLOCKED
+
+--- Result 391 ---
+SNI: tnc.edu.za
+Status: BLOCKED
+
+--- Result 392 ---
+SNI: webmail.lephalaletvetcollege.edu.za
+Status: BLOCKED
+
+--- Result 393 ---
+SNI: myclass2025.lyceum.edu.za
+Status: BLOCKED
+
+--- Result 394 ---
+SNI: smtp.kwc.edu.za
+Status: BLOCKED
+
+--- Result 395 ---
+SNI: rs.wsb.edu.za
+Status: BLOCKED
+
+--- Result 396 ---
+SNI: staging.lyceum.edu.za
+Status: BLOCKED
+
+--- Result 397 ---
+SNI: webmail.esayidicollege.edu.za
+Status: BLOCKED
+
+--- Result 398 ---
+SNI: pop.theshed.uxi.edu.za
+Status: BLOCKED
+
+--- Result 399 ---
+SNI: cpanel.concord.edu.za
+Status: BLOCKED
+
+--- Result 400 ---
+SNI: webdisk.cemsconnect.edu.za
+Status: BLOCKED
+
+--- Result 401 ---
+SNI: classroom.rostec.edu.za
+Status: BLOCKED
+
+--- Result 402 ---
+SNI: my-plk.rostec.edu.za
+Status: BLOCKED
+
+--- Result 403 ---
+SNI: my-bloem.rostec.edu.za
+Status: BLOCKED
+
+--- Result 404 ---
+SNI: wprugbyacademy.uxi.edu.za
+Status: BLOCKED
+
+--- Result 405 ---
+SNI: jhb.rostec.edu.za
+Status: BLOCKED
+
+--- Result 406 ---
+SNI: my-pta.rostec.edu.za
+Status: BLOCKED
+
+--- Result 407 ---
+SNI: my-jhb.rostec.edu.za
+Status: BLOCKED
+
+--- Result 408 ---
+SNI: bloem.rostec.edu.za
+Status: BLOCKED
+
+--- Result 409 ---
+SNI: admin.rostec.edu.za
+Status: BLOCKED
+
+--- Result 410 ---
+SNI: my-vaal.rostec.edu.za
+Status: BLOCKED
+
+--- Result 411 ---
+SNI: my-rtg.rostec.edu.za
+Status: BLOCKED
+
+--- Result 412 ---
+SNI: plk.rostec.edu.za
+Status: BLOCKED
+
+--- Result 413 ---
+SNI: yuni.edu.za
+Status: BLOCKED
+
+=== END OF SCAN ===
