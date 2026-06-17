@@ -1,0 +1,1841 @@
+=== SNI SCAN RESULT ===
+Scan ID: f5ecd654a7b24f88
+Username: pleasure
+Date: 2026-06-15 18:56:09
+Timestamp: 1781542569251
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: registerpassword.advnet.co.za, resetpassword.advnet.co.za
+Status: BLOCKED
+
+--- Result 2 ---
+SNI: rosebankcollege.co.za, selfservice.rosebankcollege.co.za
+Status: BLOCKED
+
+--- Result 3 ---
+SNI: vegaschool.com, selfservice.vegaschool.com
+Status: BLOCKED
+
+--- Result 4 ---
+SNI: tuskies.co.za
+Status: BLOCKED
+
+--- Result 5 ---
+SNI: parowpps.co.za
+Status: BLOCKED
+
+--- Result 6 ---
+SNI: schoolturnaroundfoundation.org.za
+Status: BLOCKED
+
+--- Result 7 ---
+SNI: paarlboysp.co.za
+Status: BLOCKED
+
+--- Result 8 ---
+SNI: artschool.za.net
+Status: BLOCKED
+
+--- Result 9 ---
+SNI: myuniv2.ufs.ac.za
+Status: BLOCKED
+
+--- Result 10 ---
+SNI: synergy.ict.ru.ac.za
+Status: BLOCKED
+
+--- Result 11 ---
+SNI: lenhamprimary.co.za
+Status: BLOCKED
+
+--- Result 12 ---
+SNI: presidenths.co.za
+Status: BLOCKED
+
+--- Result 13 ---
+SNI: kranskopprimary.co.za
+Status: BLOCKED
+
+--- Result 14 ---
+SNI: kaliedehaas.co.za
+Status: BLOCKED
+
+--- Result 15 ---
+SNI: parktowngirls.co.za
+Status: BLOCKED
+
+--- Result 16 ---
+SNI: scottburghhigh.co.za
+Status: BLOCKED
+
+--- Result 17 ---
+SNI: southfieldprimary.com
+Status: BLOCKED
+
+--- Result 18 ---
+SNI: dghs.co.za
+Status: BLOCKED
+
+--- Result 19 ---
+SNI: ufs.ac.za
+Status: BLOCKED
+
+--- Result 20 ---
+SNI: moodle.cct.edu.za
+Status: BLOCKED
+
+--- Result 21 ---
+SNI: cjcapp.cjc.edu.za
+Status: BLOCKED
+
+--- Result 22 ---
+SNI: pecanwoodcollege.co.za
+Status: BLOCKED
+
+--- Result 23 ---
+SNI: laerskoolbergland.co.za
+Status: BLOCKED
+
+--- Result 24 ---
+SNI: apply.ufs.ac.za
+Status: BLOCKED
+
+--- Result 25 ---
+SNI: moodle.hhs.co.za
+Status: BLOCKED
+
+--- Result 26 ---
+SNI: myaccess.ufs.ac.za
+Status: BLOCKED
+
+--- Result 27 ---
+SNI: hermanushigh.co.za
+Status: BLOCKED
+
+--- Result 28 ---
+SNI: itsi.sbhs.co.za
+Status: BLOCKED
+
+--- Result 29 ---
+SNI: whetstoneprimary.co.za
+Status: BLOCKED
+
+--- Result 30 ---
+SNI: schoollms.online
+Status: BLOCKED
+
+--- Result 31 ---
+SNI: learn.ufh.ac.za
+Status: BLOCKED
+
+--- Result 32 ---
+SNI: hsgrabouw.co.za
+Status: BLOCKED
+
+--- Result 33 ---
+SNI: edgemeadhigh.org.za
+Status: BLOCKED
+
+--- Result 34 ---
+SNI: syafunda.net
+Status: BLOCKED
+
+--- Result 35 ---
+SNI: paarlskool.org.za
+Status: BLOCKED
+
+--- Result 36 ---
+SNI: together4uscitc.co.za
+Status: BLOCKED
+
+--- Result 37 ---
+SNI: huttenpark.co.za
+Status: BLOCKED
+
+--- Result 38 ---
+SNI: privatehotelschool.com
+Status: BLOCKED
+
+--- Result 39 ---
+SNI: paroweastprimary.co.za
+Status: BLOCKED
+
+--- Result 40 ---
+SNI: piketberghs.co.za
+Status: BLOCKED
+
+--- Result 41 ---
+SNI: ienabler.orbitcollege.co.za
+Status: BLOCKED
+
+--- Result 42 ---
+SNI: southdownscollege.co.za
+Status: BLOCKED
+
+--- Result 43 ---
+SNI: paulroos.co.za
+Status: BLOCKED
+
+--- Result 44 ---
+SNI: mgps.co.za
+Status: BLOCKED
+
+--- Result 45 ---
+SNI: uitenhagehigh.co.za
+Status: BLOCKED
+
+--- Result 46 ---
+SNI: hspjolivier.co.za
+Status: BLOCKED
+
+--- Result 47 ---
+SNI: lmsauth.ufs.ac.za
+Status: BLOCKED
+
+--- Result 48 ---
+SNI: valiakurrikulum.co.za
+Status: BLOCKED
+
+--- Result 49 ---
+SNI: tomnewbyschool.co.za
+Status: BLOCKED
+
+--- Result 50 ---
+SNI: qmlogin.ufs.ac.za
+Status: BLOCKED
+
+--- Result 51 ---
+SNI: laerskooldenneoord.co.za
+Status: BLOCKED
+
+--- Result 52 ---
+SNI: upington-high.itsi.mobi
+Status: BLOCKED
+
+--- Result 53 ---
+SNI: kwaggasrand.co.za
+Status: BLOCKED
+
+--- Result 54 ---
+SNI: shsbakgat.co.za
+Status: BLOCKED
+
+--- Result 55 ---
+SNI: inanda.org
+Status: BLOCKED
+
+--- Result 56 ---
+SNI: learn.linksidehs.co.za
+Status: BLOCKED
+
+--- Result 57 ---
+SNI: hstygerberg.co.za
+Status: BLOCKED
+
+--- Result 58 ---
+SNI: api.ufs.ac.za
+Status: BLOCKED
+
+--- Result 59 ---
+SNI: tinybaobabs.co.za
+Status: BLOCKED
+
+--- Result 60 ---
+SNI: rims.ufs.ac.za
+Status: BLOCKED
+
+--- Result 61 ---
+SNI: meetings.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 62 ---
+SNI: myschoolwork.online
+Status: BLOCKED
+
+--- Result 63 ---
+SNI: maragon.co.za
+Status: BLOCKED
+
+--- Result 64 ---
+SNI: learn.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 65 ---
+SNI: 4ways.co.za
+Status: BLOCKED
+
+--- Result 66 ---
+SNI: ilearn.taxfaculty.ac.za
+Status: BLOCKED
+
+--- Result 67 ---
+SNI: myqia.co.za
+Status: BLOCKED
+
+--- Result 68 ---
+SNI: moodle.clarendonps.co.za
+Status: BLOCKED
+
+--- Result 69 ---
+SNI: totius.co.za
+Status: BLOCKED
+
+--- Result 70 ---
+SNI: klmempowered.com
+Status: BLOCKED
+
+--- Result 71 ---
+SNI: learn.redandyellow.co.za
+Status: BLOCKED
+
+--- Result 72 ---
+SNI: brackenhighschool.co.za
+Status: BLOCKED
+
+--- Result 73 ---
+SNI: durbanhighschool.co.za
+Status: BLOCKED
+
+--- Result 74 ---
+SNI: westviewpe.co.za
+Status: BLOCKED
+
+--- Result 75 ---
+SNI: eee.co.za
+Status: BLOCKED
+
+--- Result 76 ---
+SNI: samwumed.org
+Status: BLOCKED
+
+--- Result 77 ---
+SNI: ezproxy.ufs.ac.za
+Status: BLOCKED
+
+--- Result 78 ---
+SNI: thebridgeschool.co.za
+Status: BLOCKED
+
+--- Result 79 ---
+SNI: disaprimaryschool.co.za
+Status: BLOCKED
+
+--- Result 80 ---
+SNI: mandelayouthcentre.org.za
+Status: BLOCKED
+
+--- Result 81 ---
+SNI: arhs.vip
+Status: BLOCKED
+
+--- Result 82 ---
+SNI: studvpn.ufh.ac.za
+Status: BLOCKED
+
+--- Result 83 ---
+SNI: ecla.ufs.ac.za
+Status: BLOCKED
+
+--- Result 84 ---
+SNI: notes.wghs.co.za
+Status: BLOCKED
+
+--- Result 85 ---
+SNI: media-elearn.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 86 ---
+SNI: sunlands.co.za
+Status: BLOCKED
+
+--- Result 87 ---
+SNI: kuiliesonline.co.za
+Status: BLOCKED
+
+--- Result 88 ---
+SNI: juniorcolleges.co.za
+Status: BLOCKED
+
+--- Result 89 ---
+SNI: elearning.rhs.co.za
+Status: BLOCKED
+
+--- Result 90 ---
+SNI: teachfolk.com
+Status: BLOCKED
+
+--- Result 91 ---
+SNI: galwayprimary.co.za
+Status: BLOCKED
+
+--- Result 92 ---
+SNI: robbies.co.za
+Status: BLOCKED
+
+--- Result 93 ---
+SNI: paarlgim.co.za
+Status: BLOCKED
+
+--- Result 94 ---
+SNI: laerskoolrustenburg.co.za
+Status: BLOCKED
+
+--- Result 95 ---
+SNI: hfm.co.za
+Status: BLOCKED
+
+--- Result 96 ---
+SNI: crawfordschools.co.za
+Status: BLOCKED
+
+--- Result 97 ---
+SNI: grassdalehigh.org.za
+Status: BLOCKED
+
+--- Result 98 ---
+SNI: 159.65.196.188
+Status: BLOCKED
+
+--- Result 99 ---
+SNI: glenwoodprep.co.za
+Status: BLOCKED
+
+--- Result 100 ---
+SNI: glenbridgeschool.co.za
+Status: BLOCKED
+
+--- Result 101 ---
+SNI: 156.38.160.122
+Status: BLOCKED
+
+--- Result 102 ---
+SNI: iielibraryconnect.iie.ac.za
+Status: BLOCKED
+
+--- Result 103 ---
+SNI: training.vhembecollege.edu.za
+Status: BLOCKED
+
+--- Result 104 ---
+SNI: nellies-golms-live.gomobi.co.za
+Status: BLOCKED
+
+--- Result 105 ---
+SNI: outeniqua.co.za
+Status: BLOCKED
+
+--- Result 106 ---
+SNI: ienabler.ufh.ac.za
+Status: BLOCKED
+
+--- Result 107 ---
+SNI: lsvandykprimary.co.za
+Status: BLOCKED
+
+--- Result 108 ---
+SNI: storage.dimension5.co.za
+Status: BLOCKED
+
+--- Result 109 ---
+SNI: liquidis.co.za
+Status: BLOCKED
+
+--- Result 110 ---
+SNI: fairvaless.co.za
+Status: BLOCKED
+
+--- Result 111 ---
+SNI: bbmedia.ufs.ac.za
+Status: BLOCKED
+
+--- Result 112 ---
+SNI: bths.co.za
+Status: BLOCKED
+
+--- Result 113 ---
+SNI: thegrove.co.za
+Status: BLOCKED
+
+--- Result 114 ---
+SNI: hsbrandwag.co.za
+Status: BLOCKED
+
+--- Result 115 ---
+SNI: knysnahigh.co.za
+Status: BLOCKED
+
+--- Result 116 ---
+SNI: hspcrswart.co.za
+Status: BLOCKED
+
+--- Result 117 ---
+SNI: gdecontent.co.za
+Status: BLOCKED
+
+--- Result 118 ---
+SNI: futurekidslms.co.za
+Status: BLOCKED
+
+--- Result 119 ---
+SNI: laerskoolmontagu.net
+Status: BLOCKED
+
+--- Result 120 ---
+SNI: lydenburghs.co.za
+Status: BLOCKED
+
+--- Result 121 ---
+SNI: hsbonnievale.co.za
+Status: BLOCKED
+
+--- Result 122 ---
+SNI: ligbron.co.za
+Status: BLOCKED
+
+--- Result 123 ---
+SNI: tygervalleycollege.co.za
+Status: BLOCKED
+
+--- Result 124 ---
+SNI: genelouw.co.za
+Status: BLOCKED
+
+--- Result 125 ---
+SNI: 3dca-droomskool.co.za
+Status: BLOCKED
+
+--- Result 126 ---
+SNI: pnps.co.za
+Status: BLOCKED
+
+--- Result 127 ---
+SNI: ligbrononlinelearning.co.za
+Status: BLOCKED
+
+--- Result 128 ---
+SNI: estudy.eu.crossknowledge.com
+Status: BLOCKED
+
+--- Result 129 ---
+SNI: mszora.co.za
+Status: BLOCKED
+
+--- Result 130 ---
+SNI: fhodendaal.co.za
+Status: BLOCKED
+
+--- Result 131 ---
+SNI: 197.91.236.66
+Status: BLOCKED
+
+--- Result 132 ---
+SNI: webmail.ufh.ac.za
+Status: BLOCKED
+
+--- Result 133 ---
+SNI: laerskoolnelspruit.co.za
+Status: BLOCKED
+
+--- Result 134 ---
+SNI: tongaatsecondary.co.za
+Status: BLOCKED
+
+--- Result 135 ---
+SNI: edusams.com
+Status: BLOCKED
+
+--- Result 136 ---
+SNI: harvestschools.org.za
+Status: BLOCKED
+
+--- Result 137 ---
+SNI: learning.pctbc.co.za
+Status: BLOCKED
+
+--- Result 138 ---
+SNI: dinwiddiehighschool.co.za
+Status: BLOCKED
+
+--- Result 139 ---
+SNI: adfs.ufs.ac.za
+Status: BLOCKED
+
+--- Result 140 ---
+SNI: mathsandsciencelessons.com
+Status: BLOCKED
+
+--- Result 141 ---
+SNI: moodle.krugersdorphigh.co.za
+Status: BLOCKED
+
+--- Result 142 ---
+SNI: lms.kingsway.co.za
+Status: BLOCKED
+
+--- Result 143 ---
+SNI: myhomestudy.co.za
+Status: BLOCKED
+
+--- Result 144 ---
+SNI: moodle.lebonecollege.co.za
+Status: BLOCKED
+
+--- Result 145 ---
+SNI: pjolivier.co.za
+Status: BLOCKED
+
+--- Result 146 ---
+SNI: dmr.edulearn.co.za
+Status: BLOCKED
+
+--- Result 147 ---
+SNI: mgonline.mgslg.co.za
+Status: BLOCKED
+
+--- Result 148 ---
+SNI: excelsiorhs.co.za
+Status: BLOCKED
+
+--- Result 149 ---
+SNI: covid19.ufs.ac.za
+Status: BLOCKED
+
+--- Result 150 ---
+SNI: home.iwhiz.co.za
+Status: BLOCKED
+
+--- Result 151 ---
+SNI: nect.org.za
+Status: BLOCKED
+
+--- Result 152 ---
+SNI: npps.co.za
+Status: BLOCKED
+
+--- Result 153 ---
+SNI: koffies.co.za
+Status: BLOCKED
+
+--- Result 154 ---
+SNI: roodekrans.net
+Status: BLOCKED
+
+--- Result 155 ---
+SNI: learn2020-02.imm.ac.za
+Status: BLOCKED
+
+--- Result 156 ---
+SNI: edublush.com
+Status: BLOCKED
+
+--- Result 157 ---
+SNI: treverton.co.za
+Status: BLOCKED
+
+--- Result 158 ---
+SNI: learn.ufs.ac.za
+Status: BLOCKED
+
+--- Result 159 ---
+SNI: stmarysprimaryschool.co.za
+Status: BLOCKED
+
+--- Result 160 ---
+SNI: s2sacademy.co.za
+Status: BLOCKED
+
+--- Result 161 ---
+SNI: unizulu.ac.za
+Status: BLOCKED
+
+--- Result 162 ---
+SNI: dirkieuys.co.za
+Status: BLOCKED
+
+--- Result 163 ---
+SNI: tinymions.co.za
+Status: BLOCKED
+
+--- Result 164 ---
+SNI: milnertonhigh.co.za
+Status: BLOCKED
+
+--- Result 165 ---
+SNI: monyetlaproject.co.za
+Status: BLOCKED
+
+--- Result 166 ---
+SNI: daniemalan.co.za
+Status: BLOCKED
+
+--- Result 167 ---
+SNI: poortjies.co.za
+Status: BLOCKED
+
+--- Result 168 ---
+SNI: uzspace.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 169 ---
+SNI: nfhs.co.za
+Status: BLOCKED
+
+--- Result 170 ---
+SNI: vaalrivierskool.co.za
+Status: BLOCKED
+
+--- Result 171 ---
+SNI: deltaprimary.org.za
+Status: BLOCKED
+
+--- Result 172 ---
+SNI: thegisa.co.za
+Status: BLOCKED
+
+--- Result 173 ---
+SNI: mathsandscience.com
+Status: BLOCKED
+
+--- Result 174 ---
+SNI: superelsies.co.za
+Status: BLOCKED
+
+--- Result 175 ---
+SNI: learning.richfield.ac.za
+Status: BLOCKED
+
+--- Result 176 ---
+SNI: grgs.co.za
+Status: BLOCKED
+
+--- Result 177 ---
+SNI: mpdoe.teqcle.co.za
+Status: BLOCKED
+
+--- Result 178 ---
+SNI: esal.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 179 ---
+SNI: jankriel.co.za
+Status: BLOCKED
+
+--- Result 180 ---
+SNI: eshaneprimary.co.za
+Status: BLOCKED
+
+--- Result 181 ---
+SNI: laerskoolelspark.co.za
+Status: BLOCKED
+
+--- Result 182 ---
+SNI: 197.189.239.194
+Status: BLOCKED
+
+--- Result 183 ---
+SNI: iiemsa.co.za
+Status: BLOCKED
+
+--- Result 184 ---
+SNI: ukuqonda.org.za
+Status: BLOCKED
+
+--- Result 185 ---
+SNI: broadacres.ed-space.net
+Status: BLOCKED
+
+--- Result 186 ---
+SNI: numeric.org
+Status: BLOCKED
+
+--- Result 187 ---
+SNI: grens.co.za
+Status: BLOCKED
+
+--- Result 188 ---
+SNI: jumptrak.co.za
+Status: BLOCKED
+
+--- Result 189 ---
+SNI: dhet-tvet-lms.co.za
+Status: BLOCKED
+
+--- Result 190 ---
+SNI: blackboard.vut.ac.za
+Status: BLOCKED
+
+--- Result 191 ---
+SNI: readtorise.co.za
+Status: BLOCKED
+
+--- Result 192 ---
+SNI: dradlsec.co.za
+Status: BLOCKED
+
+--- Result 193 ---
+SNI: apps.ed-space.net
+Status: BLOCKED
+
+--- Result 194 ---
+SNI: selfservice.ufs.ac.za
+Status: BLOCKED
+
+--- Result 195 ---
+SNI: scd-nwu-ac-za.web.nwu.ac.za
+Status: BLOCKED
+
+--- Result 196 ---
+SNI: brightbeginningspreschool.co.za
+Status: BLOCKED
+
+--- Result 197 ---
+SNI: learn.commongood.org.za
+Status: BLOCKED
+
+--- Result 198 ---
+SNI: portal.iie.ac.za
+Status: BLOCKED
+
+--- Result 199 ---
+SNI: library.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 200 ---
+SNI: osp.cput.ac.za
+Status: BLOCKED
+
+--- Result 201 ---
+SNI: online.futurenationschools.com
+Status: BLOCKED
+
+--- Result 202 ---
+SNI: calvinialaerskool.co.za
+Status: BLOCKED
+
+--- Result 203 ---
+SNI: victoriaparkhigh.com
+Status: BLOCKED
+
+--- Result 204 ---
+SNI: srcelections.unizulu.ac.za
+Status: BLOCKED
+
+--- Result 205 ---
+SNI: covid.mpuhealth.gov.za
+Status: BLOCKED
+
+--- Result 206 ---
+SNI: elearning.thensg.gov.za
+Status: BLOCKED
+
+--- Result 207 ---
+SNI: moodle.hiltoncollege.com
+Status: BLOCKED
+
+--- Result 208 ---
+SNI: maritimesa.org
+Status: BLOCKED
+
+--- Result 209 ---
+SNI: welgemoedprimary.co.za
+Status: BLOCKED
+
+--- Result 210 ---
+SNI: knowledgehub.org.za
+Status: BLOCKED
+
+--- Result 211 ---
+SNI: curiouscallum.co.za
+Status: BLOCKED
+
+--- Result 212 ---
+SNI: waldorfconstantia.ed-space.net
+Status: BLOCKED
+
+--- Result 213 ---
+SNI: iiemarque.ac.za
+Status: BLOCKED
+
+--- Result 214 ---
+SNI: ulwazi.wits.ac.za
+Status: BLOCKED
+
+--- Result 215 ---
+SNI: event.nwu.ac.za
+Status: BLOCKED
+
+--- Result 216 ---
+SNI: mahikengcitycollege.co.za
+Status: BLOCKED
+
+--- Result 217 ---
+SNI: columba.org.za
+Status: BLOCKED
+
+--- Result 218 ---
+SNI: vv-www-p.nwu.ac.za
+Status: BLOCKED
+
+--- Result 219 ---
+SNI: boksburg.ed-space.net
+Status: BLOCKED
+
+--- Result 220 ---
+SNI: base.nwu.ac.za
+Status: BLOCKED
+
+--- Result 221 ---
+SNI: assumptioncs.ed-space.net
+Status: BLOCKED
+
+--- Result 222 ---
+SNI: ohs.nwu.ac.za
+Status: BLOCKED
+
+--- Result 223 ---
+SNI: presidentmangope.org
+Status: BLOCKED
+
+--- Result 224 ---
+SNI: connectcurriculum.co.za
+Status: BLOCKED
+
+--- Result 225 ---
+SNI: kznued.kzndoe.gov.za
+Status: BLOCKED
+
+--- Result 226 ---
+SNI: jungletheatre.co.za
+Status: BLOCKED
+
+--- Result 227 ---
+SNI: ehslearn.ehs.org.za
+Status: BLOCKED
+
+--- Result 228 ---
+SNI: login.ru.ac.za
+Status: BLOCKED
+
+--- Result 229 ---
+SNI: myhub.curro.co.za
+Status: BLOCKED
+
+--- Result 230 ---
+SNI: rxradio.co.za
+Status: BLOCKED
+
+--- Result 231 ---
+SNI: school.bhelela.com
+Status: BLOCKED
+
+--- Result 232 ---
+SNI: edadmin.michaelhouse.org
+Status: BLOCKED
+
+--- Result 233 ---
+SNI: uct.service-now.com
+Status: BLOCKED
+
+--- Result 234 ---
+SNI: portiaprimary.co.za
+Status: BLOCKED
+
+--- Result 235 ---
+SNI: crossroadsschool.ed-space.net
+Status: BLOCKED
+
+--- Result 236 ---
+SNI: learn.empela.co.za
+Status: BLOCKED
+
+--- Result 237 ---
+SNI: isacarstens.co.za
+Status: BLOCKED
+
+--- Result 238 ---
+SNI: aimssec.ac.za
+Status: BLOCKED
+
+--- Result 239 ---
+SNI: sutherlandhs.co.za
+Status: BLOCKED
+
+--- Result 240 ---
+SNI: tygies.co.za
+Status: BLOCKED
+
+--- Result 241 ---
+SNI: abbotts.co.za
+Status: BLOCKED
+
+--- Result 242 ---
+SNI: jumptext.co.za
+Status: BLOCKED
+
+--- Result 243 ---
+SNI: teachingprac.co.za
+Status: BLOCKED
+
+--- Result 244 ---
+SNI: hsh.co.za
+Status: BLOCKED
+
+--- Result 245 ---
+SNI: moodle.upschool.co.za
+Status: BLOCKED
+
+--- Result 246 ---
+SNI: acornschools.org.za
+Status: BLOCKED
+
+--- Result 247 ---
+SNI: movingup.co.za
+Status: BLOCKED
+
+--- Result 248 ---
+SNI: vqk8b65.memsys.co.za
+Status: BLOCKED
+
+--- Result 249 ---
+SNI: ed-admin.dainferncollege.co.za
+Status: BLOCKED
+
+--- Result 250 ---
+SNI: bluehills.ed-space.net
+Status: BLOCKED
+
+--- Result 251 ---
+SNI: solveit.ufs.ac.za
+Status: BLOCKED
+
+--- Result 252 ---
+SNI: trinityhouse.co.za
+Status: BLOCKED
+
+--- Result 253 ---
+SNI: zibuza.net
+Status: BLOCKED
+
+--- Result 254 ---
+SNI: nxt.westerford.co.za
+Status: BLOCKED
+
+--- Result 255 ---
+SNI: jlakademie.co.za
+Status: BLOCKED
+
+--- Result 256 ---
+SNI: juniortech.co.za
+Status: BLOCKED
+
+--- Result 257 ---
+SNI: ultrhe01.ul.ac.za
+Status: BLOCKED
+
+--- Result 258 ---
+SNI: learn2021.ukzn.ac.za
+Status: BLOCKED
+
+--- Result 259 ---
+SNI: static-za.matific.com
+Status: BLOCKED
+
+--- Result 260 ---
+SNI: ikholo.com
+Status: BLOCKED
+
+--- Result 261 ---
+SNI: zibuza.azurewebsites.net
+Status: BLOCKED
+
+--- Result 262 ---
+SNI: noviaone.com
+Status: BLOCKED
+
+--- Result 263 ---
+SNI: ufh.ac.za
+Status: BLOCKED
+
+--- Result 264 ---
+SNI: nghs.co.za
+Status: BLOCKED
+
+--- Result 265 ---
+SNI: studentmanager.blob.core.windows.net
+Status: BLOCKED
+
+--- Result 266 ---
+SNI: bellavista.ed-space.net
+Status: BLOCKED
+
+--- Result 267 ---
+SNI: stulting.co.za
+Status: BLOCKED
+
+--- Result 268 ---
+SNI: lms.mgslg.co.za
+Status: BLOCKED
+
+--- Result 269 ---
+SNI: ijtl.iie.ac.za
+Status: BLOCKED
+
+--- Result 270 ---
+SNI: greenwoodbaycollege.co.za
+Status: BLOCKED
+
+--- Result 271 ---
+SNI: taxfaculty.ac.za
+Status: BLOCKED
+
+--- Result 272 ---
+SNI: lawsonbrown.co.za
+Status: BLOCKED
+
+--- Result 273 ---
+SNI: sop.cput.ac.za
+Status: BLOCKED
+
+--- Result 274 ---
+SNI: buffelsdale.org.za
+Status: BLOCKED
+
+--- Result 275 ---
+SNI: cannonscreek.ed-space.net
+Status: BLOCKED
+
+--- Result 276 ---
+SNI: timca.org
+Status: BLOCKED
+
+--- Result 277 ---
+SNI: hta.ed-space.net
+Status: BLOCKED
+
+--- Result 278 ---
+SNI: support.nwu.ac.za
+Status: BLOCKED
+
+--- Result 279 ---
+SNI: mathsgee.com
+Status: BLOCKED
+
+--- Result 280 ---
+SNI: sparrowlms.com
+Status: BLOCKED
+
+--- Result 281 ---
+SNI: cressy.co.za
+Status: BLOCKED
+
+--- Result 282 ---
+SNI: milzettraining.co.za
+Status: BLOCKED
+
+--- Result 283 ---
+SNI: schooliq.app
+Status: BLOCKED
+
+--- Result 284 ---
+SNI: uct-service-now-com.ezproxy.uct.ac.za
+Status: BLOCKED
+
+--- Result 285 ---
+SNI: careerwise.co.za
+Status: BLOCKED
+
+--- Result 286 ---
+SNI: pharmacen.nwu.ac.za
+Status: BLOCKED
+
+--- Result 287 ---
+SNI: barly.co.za
+Status: BLOCKED
+
+--- Result 288 ---
+SNI: reserve.ul.ac.za
+Status: BLOCKED
+
+--- Result 289 ---
+SNI: hurppri.ed-space.net
+Status: BLOCKED
+
+--- Result 290 ---
+SNI: workflow7prd.nwu.ac.za
+Status: BLOCKED
+
+--- Result 291 ---
+SNI: khayakoolradiotvfilm.co.za
+Status: BLOCKED
+
+--- Result 292 ---
+SNI: optimum.ac.za
+Status: BLOCKED
+
+--- Result 293 ---
+SNI: covid19.health.gov.za
+Status: BLOCKED
+
+--- Result 294 ---
+SNI: jeppe.ed-space.net
+Status: BLOCKED
+
+--- Result 295 ---
+SNI: trainingteachers.org.za
+Status: BLOCKED
+
+--- Result 296 ---
+SNI: eversxcellence.co.za
+Status: BLOCKED
+
+--- Result 297 ---
+SNI: tswelelo.co.za
+Status: BLOCKED
+
+--- Result 298 ---
+SNI: codejika.com
+Status: BLOCKED
+
+--- Result 299 ---
+SNI: portal.iiemsa.co.za
+Status: BLOCKED
+
+--- Result 300 ---
+SNI: delasallehcc.ed-space.net
+Status: BLOCKED
+
+--- Result 301 ---
+SNI: varsitycollege.co.za
+Status: BLOCKED
+
+--- Result 302 ---
+SNI: apps.ufs.ac.za
+Status: BLOCKED
+
+--- Result 303 ---
+SNI: scottsvilleschool.co.za
+Status: BLOCKED
+
+--- Result 304 ---
+SNI: davinci.ac.za
+Status: BLOCKED
+
+--- Result 305 ---
+SNI: divein.co.za
+Status: BLOCKED
+
+--- Result 306 ---
+SNI: ui.hpc.ufs.ac.za
+Status: BLOCKED
+
+--- Result 307 ---
+SNI: sayouth.mobi
+Status: BLOCKED
+
+--- Result 308 ---
+SNI: hswollies.co.za
+Status: BLOCKED
+
+--- Result 309 ---
+SNI: sisopen.org
+Status: BLOCKED
+
+--- Result 310 ---
+SNI: oxbridgeacademy.edu.za
+Status: BLOCKED
+
+--- Result 311 ---
+SNI: webmail.nwu.ac.za
+Status: BLOCKED
+
+--- Result 312 ---
+SNI: ufs.service-now.com
+Status: BLOCKED
+
+--- Result 313 ---
+SNI: carlswald.ed-space.net
+Status: BLOCKED
+
+--- Result 314 ---
+SNI: jumpstart.org.za
+Status: BLOCKED
+
+--- Result 315 ---
+SNI: hseldo.co.za
+Status: BLOCKED
+
+--- Result 316 ---
+SNI: elearning.fshealth.gov.za
+Status: BLOCKED
+
+--- Result 317 ---
+SNI: studentportal.hermanusvarsity.co.za
+Status: BLOCKED
+
+--- Result 318 ---
+SNI: kingedprep.ed-space.net
+Status: BLOCKED
+
+--- Result 319 ---
+SNI: mswsa.co.za
+Status: BLOCKED
+
+--- Result 320 ---
+SNI: homework.stirlinghs.co.za
+Status: BLOCKED
+
+--- Result 321 ---
+SNI: holycrosshigh.co.za
+Status: BLOCKED
+
+--- Result 322 ---
+SNI: lrpschool.co.za
+Status: BLOCKED
+
+--- Result 323 ---
+SNI: wfp-lb1-rh7.nwu.ac.za
+Status: BLOCKED
+
+--- Result 324 ---
+SNI: c-gov.nwu.ac.za
+Status: BLOCKED
+
+--- Result 325 ---
+SNI: qualibooks.co.za
+Status: BLOCKED
+
+--- Result 326 ---
+SNI: pinnaclecolleges.co.za
+Status: BLOCKED
+
+--- Result 327 ---
+SNI: zwelibanzihigh.school-anthem.co.za
+Status: BLOCKED
+
+--- Result 328 ---
+SNI: wisl.nwu.ac.za
+Status: BLOCKED
+
+--- Result 329 ---
+SNI: ru.ac.za
+Status: BLOCKED
+
+--- Result 330 ---
+SNI: southafrica.co.za
+Status: BLOCKED
+
+--- Result 331 ---
+SNI: tsiba.ac.za
+Status: BLOCKED
+
+--- Result 332 ---
+SNI: parktownboys.ed-space.net
+Status: BLOCKED
+
+--- Result 333 ---
+SNI: capsicumcooking.com
+Status: BLOCKED
+
+--- Result 334 ---
+SNI: esca.ed-space.net
+Status: BLOCKED
+
+--- Result 335 ---
+SNI: atmyschool.co.za
+Status: BLOCKED
+
+--- Result 336 ---
+SNI: tvh.co.za
+Status: BLOCKED
+
+--- Result 337 ---
+SNI: editor.jumppad.co.za
+Status: BLOCKED
+
+--- Result 338 ---
+SNI: paarlboyshigh.org.za
+Status: BLOCKED
+
+--- Result 339 ---
+SNI: esselenheightsprimaryschool.co.za
+Status: BLOCKED
+
+--- Result 340 ---
+SNI: iiespace.iie.ac.za
+Status: BLOCKED
+
+--- Result 341 ---
+SNI: pssa.ufs.ac.za
+Status: BLOCKED
+
+--- Result 342 ---
+SNI: aiminghigh.aimssec.ac.za
+Status: BLOCKED
+
+--- Result 343 ---
+SNI: lselsburg.co.za
+Status: BLOCKED
+
+--- Result 344 ---
+SNI: tln.co.za
+Status: BLOCKED
+
+--- Result 345 ---
+SNI: felixtoncollege.ed-space.net
+Status: BLOCKED
+
+--- Result 346 ---
+SNI: vaccine.enroll.health.gov.za
+Status: BLOCKED
+
+--- Result 347 ---
+SNI: laerskoolfairland.co.za
+Status: BLOCKED
+
+--- Result 348 ---
+SNI: noorderland.net
+Status: BLOCKED
+
+--- Result 349 ---
+SNI: dgc.ed-space.net
+Status: BLOCKED
+
+--- Result 350 ---
+SNI: dohilearnwccn.westerncape.gov.za
+Status: BLOCKED
+
+--- Result 351 ---
+SNI: vulabula.co.za
+Status: BLOCKED
+
+--- Result 352 ---
+SNI: tutor.sasb.co.za
+Status: BLOCKED
+
+--- Result 353 ---
+SNI: moodle.wartburg.co.za
+Status: BLOCKED
+
+--- Result 354 ---
+SNI: tsca.gov.za
+Status: BLOCKED
+
+--- Result 355 ---
+SNI: my.monash
+Status: BLOCKED
+
+--- Result 356 ---
+SNI: mbhashemun.gov.za
+Status: BLOCKED
+
+--- Result 357 ---
+SNI: moodle.artisandev.co.za
+Status: BLOCKED
+
+--- Result 358 ---
+SNI: zoom.dimension5.co.za
+Status: BLOCKED
+
+--- Result 359 ---
+SNI: wolkskool.co.za
+Status: BLOCKED
+
+--- Result 360 ---
+SNI: thandalearn.org
+Status: BLOCKED
+
+--- Result 361 ---
+SNI: whss.co.za
+Status: BLOCKED
+
+--- Result 362 ---
+SNI: drhavinga.co.za
+Status: BLOCKED
+
+--- Result 363 ---
+SNI: kearsney.ed-space.net
+Status: BLOCKED
+
+--- Result 364 ---
+SNI: fishhoek.ed-space.net
+Status: BLOCKED
+
+--- Result 365 ---
+SNI: marketphoto.ed-space.net
+Status: BLOCKED
+
+--- Result 366 ---
+SNI: lghsklas.co.za
+Status: BLOCKED
+
+--- Result 367 ---
+SNI: jeppegirls.ed-space.net
+Status: BLOCKED
+
+--- Result 368 ---
+SNI: saastewc.co.za
+Status: BLOCKED
+
+--- Result 369 ---
+SNI: midstream.ed-space.net
+Status: BLOCKED
+
+--- Result 370 ---
+SNI: potchacademyportal.co.za
+Status: BLOCKED
+
+--- Result 371 ---
+SNI: iie.ac.za
+Status: BLOCKED
+
+--- Result 372 ---
+SNI: conference.nwu.ac.za
+Status: BLOCKED
+
+--- Result 373 ---
+SNI: qghs.co.za
+Status: BLOCKED
+
+--- Result 374 ---
+SNI: learn.ecubed-dbe.org
+Status: BLOCKED
+
+--- Result 375 ---
+SNI: curiosa.co.za
+Status: BLOCKED
+
+--- Result 376 ---
+SNI: access.ufs.ac.za
+Status: BLOCKED
+
+--- Result 377 ---
+SNI: glenwoodhouse.co.za
+Status: BLOCKED
+
+--- Result 378 ---
+SNI: cliftonprep.ed-space.net
+Status: BLOCKED
+
+--- Result 379 ---
+SNI: hatfieldonline.ed-space.net
+Status: BLOCKED
+
+--- Result 380 ---
+SNI: ridgejp.co.za
+Status: BLOCKED
+
+--- Result 381 ---
+SNI: epworth.ed-space.net
+Status: BLOCKED
+
+--- Result 382 ---
+SNI: enzaresearch.org.za
+Status: BLOCKED
+
+--- Result 383 ---
+SNI: micklefield.ed-space.net
+Status: BLOCKED
+
+--- Result 384 ---
+SNI: vaccination.health.gov.za
+Status: BLOCKED
+
+--- Result 385 ---
+SNI: eligwa.co.za
+Status: BLOCKED
+
+--- Result 386 ---
+SNI: damtraining.co.za
+Status: BLOCKED
+
+--- Result 387 ---
+SNI: vghs.co.za
+Status: BLOCKED
+
+--- Result 388 ---
+SNI: fnslyndhurst.ed-space.net
+Status: BLOCKED
+
+--- Result 389 ---
+SNI: mitchell.ed-space.net
+Status: BLOCKED
+
+--- Result 390 ---
+SNI: elshaddai.ed-space.net
+Status: BLOCKED
+
+--- Result 391 ---
+SNI: dbchoir.ed-space.net
+Status: BLOCKED
+
+--- Result 392 ---
+SNI: holyfamilycollege.ed-space.net
+Status: BLOCKED
+
+--- Result 393 ---
+SNI: huraft.ed-space.net
+Status: BLOCKED
+
+--- Result 394 ---
+SNI: hurpri.ed-space.net
+Status: BLOCKED
+
+--- Result 395 ---
+SNI: edadmin.lebonecollege.co.za
+Status: BLOCKED
+
+--- Result 396 ---
+SNI: heronbridge.ed-space.net
+Status: BLOCKED
+
+--- Result 397 ---
+SNI: hatfieldaee.ed-space.net
+Status: BLOCKED
+
+--- Result 398 ---
+SNI: fnsfleurhof.ed-space.net
+Status: BLOCKED
+
+--- Result 399 ---
+SNI: cornwall.ed-space.net
+Status: BLOCKED
+
+--- Result 400 ---
+SNI: alfalaah.ed-space.net
+Status: BLOCKED
+
+--- Result 401 ---
+SNI: pa-boksburg.ed-space.net
+Status: BLOCKED
+
+--- Result 402 ---
+SNI: pa-midrand.ed-space.net
+Status: BLOCKED
+
+--- Result 403 ---
+SNI: pa-jackal.ed-space.net
+Status: BLOCKED
+
+--- Result 404 ---
+SNI: mylms.majuba.edu.za
+Status: BLOCKED
+
+--- Result 405 ---
+SNI: velle.lightbulbedtech.com
+Status: BLOCKED
+
+--- Result 406 ---
+SNI: cems.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 407 ---
+SNI: lms.elearning.co.za
+Status: BLOCKED
+
+--- Result 408 ---
+SNI: cas.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 409 ---
+SNI: cset.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 410 ---
+SNI: pa-ormonde.ed-space.net
+Status: BLOCKED
+
+--- Result 411 ---
+SNI: myuniven-moodle.univen.ac.za
+Status: BLOCKED
+
+--- Result 412 ---
+SNI: chs.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 413 ---
+SNI: elearning.melisizwe.co.za
+Status: BLOCKED
+
+--- Result 414 ---
+SNI: penryn.co.za
+Status: BLOCKED
+
+--- Result 415 ---
+SNI: domore.org.za
+Status: BLOCKED
+
+--- Result 416 ---
+SNI: pa-ruimsig.ed-space.net
+Status: BLOCKED
+
+--- Result 417 ---
+SNI: cjc.edu.za
+Status: BLOCKED
+
+--- Result 418 ---
+SNI: moveup.mobi
+Status: BLOCKED
+
+--- Result 419 ---
+SNI: axiumlearn.co.za
+Status: BLOCKED
+
+--- Result 420 ---
+SNI: help-eduprogramme.co.za
+Status: BLOCKED
+
+--- Result 421 ---
+SNI: caes.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 422 ---
+SNI: dsp.nemisa.co.za
+Status: BLOCKED
+
+--- Result 423 ---
+SNI: elearning.tsiba.ac.za
+Status: BLOCKED
+
+--- Result 424 ---
+SNI: 0.freebasics.com
+Status: BLOCKED
+
+--- Result 425 ---
+SNI: fscamymoney.co.za
+Status: BLOCKED
+
+--- Result 426 ---
+SNI: claw.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 427 ---
+SNI: samf.ac.za
+Status: BLOCKED
+
+--- Result 428 ---
+SNI: thestudenthub.co.za
+Status: BLOCKED
+
+--- Result 429 ---
+SNI: training.elearning.co.za
+Status: BLOCKED
+
+--- Result 430 ---
+SNI: sharedmission.co.za
+Status: BLOCKED
+
+--- Result 431 ---
+SNI: srd.sassa.gov.za
+Status: BLOCKED
+
+--- Result 432 ---
+SNI: learn.stms.co.za
+Status: BLOCKED
+
+--- Result 433 ---
+SNI: smol.co.za
+Status: BLOCKED
+
+--- Result 434 ---
+SNI: services.sassa.gov.za
+Status: BLOCKED
+
+--- Result 435 ---
+SNI: nkosibomvusec.org.za
+Status: BLOCKED
+
+--- Result 436 ---
+SNI: velle.co.za
+Status: BLOCKED
+
+--- Result 437 ---
+SNI: indieanimation.co.za
+Status: BLOCKED
+
+--- Result 438 ---
+SNI: mymodules.dtls.unisa.ac.za
+Status: BLOCKED
+
+--- Result 439 ---
+SNI: pa-paulshof.ed-space.net
+Status: BLOCKED
+
+--- Result 440 ---
+SNI: myexams.dtls.unisa.ac.za
+Status: BLOCKED
+
+--- Result 441 ---
+SNI: evds.health.gov.za
+Status: BLOCKED
+
+--- Result 442 ---
+SNI: cedu.myexams.unisa.ac.za
+Status: BLOCKED
+
+--- Result 443 ---
+SNI: fatima.ed-space.net
+Status: BLOCKED
+
+--- Result 444 ---
+SNI: vaccine.certificate.health.gov.za
+Status: BLOCKED
+
+--- Result 445 ---
+SNI: edadmin.parklands.co.za
+Status: BLOCKED
+
+--- Result 446 ---
+SNI: studentportal.tsiba.ac.za
+Status: BLOCKED
+
+--- Result 447 ---
+SNI: e.nkosibomvusec.co.za
+Status: BLOCKED
+
+--- Result 448 ---
+SNI: app.sharedmission.co.za
+Status: BLOCKED
+
+--- Result 449 ---
+SNI: waterbergcollege.co.za
+Status: BLOCKED
+
+--- Result 450 ---
+SNI: ujvote.uj.ac.za
+Status: BLOCKED
+
+--- Result 451 ---
+SNI: sassa.gov.za
+Status: BLOCKED
+
+--- Result 452 ---
+SNI: onlineschoolspace.co.za
+Status: BLOCKED
+
+--- Result 453 ---
+SNI: educollegevaal.co.za
+Status: BLOCKED
+
+--- Result 454 ---
+SNI: vaccine.booking.health.gov.za
+Status: BLOCKED
+
+--- Result 455 ---
+SNI: penryn.ed-space.net
+Status: BLOCKED
+
+--- Result 456 ---
+SNI: tvetcolleges.co.za
+Status: BLOCKED
+
+=== END OF SCAN ===
