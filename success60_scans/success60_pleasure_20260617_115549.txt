@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-06-15 16:35:41
+Number of SNIs tested: 1
+ISP used: Mobile: MTNSA
+Successful count: 1
+Success rate: 100,0%
+Scan ID: 0615865b-c21
+Username: pleasure
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+mobile.discoverybank.co.za
+
+=== METADATA ===
+File saved at: Mon Jun 15 16:35:41 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/pleasure/scan60_pleasure_20260615_163541_e1907b39.txt
+File size: 494 bytes
+Status: PENDING_UPLOAD
+=================================
