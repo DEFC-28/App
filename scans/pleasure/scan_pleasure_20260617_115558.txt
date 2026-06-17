@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 0779aa5072454732
+Username: pleasure
+Date: 2026-06-15 16:35:41
+Timestamp: 1781534141032
+ISP: Mobile: MTNSA
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: MTNSA
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: mobile.discoverybank.co.za
+Status: YES
+
+=== END OF SCAN ===
