@@ -383,5 +383,16 @@
     "ipAddress": "194.15.113.128",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "12",
+    "email": null,
+    "phone": "+2785569888",
+    "squad": null,
+    "registeredAt": 1781962554866,
+    "expiresAt": 1781962853194,
+    "ipAddress": "156.155.250.130",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
