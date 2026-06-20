@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: 5c4c0e2bd73743b7
+Username: 12
+Date: 2026-06-20 15:59:40
+Timestamp: 1781963980222
+ISP: WiFi (IP: 10.142.95.119...)
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: WiFi (IP: 10.142.95.119...)
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: google.com
+Status: YES
+
+=== END OF SCAN ===
