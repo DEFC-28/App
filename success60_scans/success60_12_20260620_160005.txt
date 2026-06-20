@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-06-20 15:59:40
+Number of SNIs tested: 1
+ISP used: WiFi (IP: 10.142.95.119...)
+Successful count: 1
+Success rate: 100.0%
+Scan ID: 1d385537-280
+Username: 12
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+google.com
+
+=== METADATA ===
+File saved at: Sat Jun 20 15:59:40 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/12/scan60_12_20260620_155940_58e6a7e5.txt
+File size: 474 bytes
+Status: PENDING_UPLOAD
+=================================
