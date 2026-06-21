@@ -394,5 +394,16 @@
     "ipAddress": "156.155.250.130",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "TNXVON",
+    "email": "makhuracliverajhaa73@gmail.com",
+    "phone": "+27660298511",
+    "squad": "K.O.S",
+    "registeredAt": 1782019363943,
+    "expiresAt": 1782019662477,
+    "ipAddress": "66.163.125.176",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
