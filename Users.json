@@ -218,5 +218,15 @@
     "createdAt": 1781962554869,
     "registrationSource": "web_portal",
     "squad": null
+  },
+  {
+    "username": "TNXVON",
+    "key": "FZJAF7ZA2VYFAQPM",
+    "expiresAt": 1782019662477,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1782019363944,
+    "registrationSource": "web_portal",
+    "squad": "K.O.S"
   }
 ]
