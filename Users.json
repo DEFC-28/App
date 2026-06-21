@@ -228,5 +228,15 @@
     "createdAt": 1782019363944,
     "registrationSource": "web_portal",
     "squad": "K.O.S"
+  },
+  {
+    "username": "CYBERHACKER",
+    "key": "1PFV6GOLYQR102SC",
+    "expiresAt": 1782023212424,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1782022912798,
+    "registrationSource": "web_portal",
+    "squad": "Allnet VPN files"
   }
 ]
