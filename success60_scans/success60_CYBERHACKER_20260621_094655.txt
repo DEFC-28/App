@@ -1,0 +1,21 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-06-21 08:31:02
+Number of SNIs tested: 3
+ISP used: Mobile: VodaCom-SA
+Successful count: 2
+Success rate: 66,7%
+Scan ID: c334220f-354
+Username: CYBERHACKER
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+arenaplus.co.za
+mtnarena.co.za
+tnxvoncyberhacker.co.za
+
+=== METADATA ===
+File saved at: Sun Jun 21 08:31:02 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/CYBERHACKER/scan60_CYBERHACKER_20260621_083102_61a89f68.txt
+File size: 535 bytes
+Status: PENDING_UPLOAD
+=================================
