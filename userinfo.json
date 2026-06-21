@@ -405,5 +405,16 @@
     "ipAddress": "66.163.125.176",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "CYBERHACKER",
+    "email": "makhuracliverajhaa73@gmail.com",
+    "phone": "+27660298511",
+    "squad": "Allnet VPN files",
+    "registeredAt": 1782022912798,
+    "expiresAt": 1782023212424,
+    "ipAddress": "84.46.245.217",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
