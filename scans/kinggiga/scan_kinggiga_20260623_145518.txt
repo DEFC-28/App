@@ -1,0 +1,21 @@
+=== SNI SCAN RESULT ===
+Scan ID: ab4f243f127247de
+Username: kinggiga
+Date: 2026-06-23 13:19:11
+Timestamp: 1782213551978
+ISP: Mobile: Cell C
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 1
+Failed: 0
+Success Rate: 100.0%
+Network ISP: Mobile: Cell C
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: careup.co.za
+Status: YES
+
+=== END OF SCAN ===
