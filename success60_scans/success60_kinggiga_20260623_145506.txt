@@ -1,0 +1,19 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-06-23 13:19:52
+Number of SNIs tested: 1
+ISP used: Mobile: Cell C
+Successful count: 1
+Success rate: 100.0%
+Scan ID: d19b0f51-6d7
+Username: kinggiga
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+registertovote.elections.org.za
+
+=== METADATA ===
+File saved at: Tue Jun 23 13:19:52 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/kinggiga/scan60_kinggiga_20260623_131952_3fec0eaa.txt
+File size: 500 bytes
+Status: PENDING_UPLOAD
+=================================
