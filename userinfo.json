@@ -416,5 +416,16 @@
     "ipAddress": "84.46.245.217",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
     "source": "web_registration"
+  },
+  {
+    "username": "Kinggiga",
+    "email": "thokoloithonoi@gmail.com",
+    "phone": "+27684093593",
+    "squad": "MNW",
+    "registeredAt": 1782213449179,
+    "expiresAt": 1782213748548,
+    "ipAddress": "102.130.127.135",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "source": "web_registration"
   }
 ]
