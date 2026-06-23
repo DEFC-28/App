@@ -1,0 +1,26 @@
+=== 60% SUCCESSFUL SNI SCAN ===
+Date tested: 2026-06-23 13:24:28
+Number of SNIs tested: 8
+ISP used: Mobile: Cell C
+Successful count: 8
+Success rate: 100.0%
+Scan ID: a2e1d8b1-cf9
+Username: kinggiga
+=================================
+
+=== SUCCESSFUL SNI LIST ===
+cansa.org.za
+paarlboyshigh.org.za
+judiciary.org.za
+intasect.org.za
+siyaphumelela.org.za
+jumpstart.org.za
+choc.org.za
+buffelsdale.org.za
+
+=== METADATA ===
+File saved at: Tue Jun 23 13:24:28 GMT+02:00 2026
+Storage path: /data/user/0/com.example.chaossnifinder/files/lodb_success60/kinggiga/scan60_kinggiga_20260623_132428_89edcd80.txt
+File size: 604 bytes
+Status: PENDING_UPLOAD
+=================================
