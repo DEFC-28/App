@@ -1,0 +1,52 @@
+=== SNI SCAN RESULT ===
+Scan ID: f9ff9ba967864de0
+Username: kinggiga
+Date: 2026-06-23 13:22:42
+Timestamp: 1782213762109
+ISP: Mobile: Cell C
+
+=== SCAN SUMMARY ===
+Total SNIs tested: 0
+Successful: 0
+Failed: 0
+Success Rate: 0.0%
+Network ISP: Mobile: Cell C
+
+=== INDIVIDUAL RESULTS ===
+
+--- Result 1 ---
+SNI: sacoronavirus.co.za
+www.africanstorybook.org
+www.capsradio.co.za
+www.education.gov.za
+smartdbe.doe.gov.za
+dbecloud.org.za
+dbecontent.bhelela.com
+webmail.doe.gov.za
+www.ecdoe.co.za
+www.eccurriculum.co.za
+www.ecexams.co.za
+www.education.fs.gov.za
+www.gdeadmissions.gov.za
+www.gauteng.gov.za
+www.khanacademy.org
+xh.khanacademy.org
+zu.khanacademy.org
+www.kzneducation.gov.za
+kznfunda.kzndoe.gov.za
+www.edu.limpopo.gov.za
+www.mpumalanga.gov.za
+desd.nwpg.gov.za
+ncdoe.ncpg.gov.za
+www.techteachers.co.za
+wcedonline.westerncape.gov.za
+wcedeportal.co.za
+xander.co.za
+www.ukznextendedlearning.com
+www.ukznextendedlearning.co.za
+wcedctli.co.za
+schools.sun.ac.za
+wcedeteacher.wixsite.com
+Status: BLOCKED
+
+=== END OF SCAN ===
