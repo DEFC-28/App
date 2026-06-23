@@ -238,5 +238,15 @@
     "createdAt": 1782022912798,
     "registrationSource": "web_portal",
     "squad": "Allnet VPN files"
+  },
+  {
+    "username": "Kinggiga",
+    "key": "TAY8BNGZJFGYSW7V",
+    "expiresAt": 1782213748548,
+    "duration": 5,
+    "createdBy": "self_registered",
+    "createdAt": 1782213449182,
+    "registrationSource": "web_portal",
+    "squad": "MNW"
   }
 ]
